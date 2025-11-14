@@ -3,6 +3,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  /* Site Color Scheme - TuAsesorDeModa Brand Colors */
+  --color-primary: #ad4032;      /* Main brand color */
+  --color-secondary: #c2523e;    /* Hover states, accents */
+  --color-tertiary: #e7872c;     /* Links, highlights */
+  --color-background-soft: #ffe6d2; /* Soft backgrounds, cards */
 }
 
 @theme inline {
@@ -10,6 +16,12 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Custom Colors */
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+  --color-tertiary: var(--color-tertiary);
+  --color-background-soft: var(--color-background-soft);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +35,217 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Apply Source Sans 3 to spans, paragraphs, and links */
+span, p, a {
+  font-family: var(--font-source-sans-3) !important;
+}
+
+/* Force blog content to be black */
+.blog-content {
+  color: #000000 !important;
+}
+
+.blog-content * {
+  color: #000000 !important;
+}
+
+.blog-content a {
+  color: var(--color-tertiary) !important;
+  font-family: var(--font-source-sans-3) !important;
+}
+
+.blog-content h1 {
+  color: #000000 !important;
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.blog-content h2 {
+  color: #000000 !important;
+  font-size: 2rem !important;
+  font-weight: 600 !important;
+  line-height: 1.3 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.blog-content h3 {
+  color: #000000 !important;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  line-height: 1.4 !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+.blog-content h4 {
+  color: #000000 !important;
+  font-size: 1.25rem !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  margin-top: 1.25rem !important;
+  margin-bottom: 0.75rem !important;
+}
+
+.blog-content h5 {
+  color: #000000 !important;
+  font-size: 1.125rem !important;
+  font-weight: 500 !important;
+  line-height: 1.5 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.blog-content h6 {
+  color: #000000 !important;
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  line-height: 1.6 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.blog-content p {
+  color: #000000 !important;
+  line-height: 1.7 !important;
+  margin-bottom: 1.25rem !important;
+  font-size: 1rem !important;
+  font-family: var(--font-source-sans-3) !important;
+}
+
+.blog-content li {
+  color: #000000 !important;
+  line-height: 1.6 !important;
+  margin-bottom: 0.5rem !important;
+  font-family: var(--font-source-sans-3) !important;
+}
+
+.blog-content ul,
+.blog-content ol {
+  margin-bottom: 1.5rem !important;
+  padding-left: 1.5rem !important;
+}
+
+.blog-content strong,
+.blog-content b {
+  color: #000000 !important;
+  font-weight: 600 !important;
+  font-family: var(--font-source-sans-3) !important;
+}
+
+/* Image Gallery Styles */
+.blog-content .image-gallery {
+  margin: 2rem 0 !important;
+}
+
+.blog-content .gallery-title {
+  font-size: 1.125rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 1rem !important;
+  text-align: center !important;
+}
+
+.blog-content .gallery-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 1rem !important;
+  margin: 1.5rem 0 !important;
+  align-items: start !important;
+}
+
+/* Responsive adjustments for gallery grid */
+@media (max-width: 768px) {
+  .blog-content .gallery-grid {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 0.75rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .blog-content .gallery-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 0.5rem !important;
+  }
+}
+
+.blog-content .gallery-item {
+  border-radius: 0.5rem !important;
+  overflow: hidden !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+  transition: transform 0.2s ease !important;
+  margin: 0 !important;
+  height: fit-content !important;
+}
+
+.blog-content .gallery-item:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.blog-content .gallery-item img {
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+}
+
+.blog-content .gallery-item figcaption {
+  display: none !important;
+}
+
+/* Image Modal Enhancements */
+.blog-content img {
+  transition: opacity 0.2s ease !important;
+}
+
+.blog-content img:hover {
+  opacity: 0.9 !important;
+}
+
+.blog-content em,
+.blog-content i {
+  color: #000000 !important;
+  font-style: italic !important;
+}
+
+.blog-content blockquote {
+  color: #374151 !important;
+  background-color: #f9fafb !important;
+  border-left: 4px solid #e5e7eb !important;
+  padding: 1rem 1.5rem !important;
+  margin: 1.5rem 0 !important;
+  font-style: italic !important;
+}
+
+.blog-content code {
+  color: #ef4444 !important;
+  background-color: #f1f5f9 !important;
+  padding: 0.2rem 0.4rem !important;
+  border-radius: 0.25rem !important;
+  font-size: 0.875rem !important;
+}
+
+.blog-content pre {
+  background-color: #1f2937 !important;
+  color: #e5e7eb !important;
+  padding: 1rem !important;
+  border-radius: 0.5rem !important;
+  overflow-x: auto !important;
+  margin: 1.5rem 0 !important;
+}
+
+/* Enhanced masonry for categories with many articles */
+.masonry-enhanced {
+  column-fill: balance;
+  column-gap: 2rem;
+}
+
+.masonry-enhanced article {
+  break-inside: avoid;
+  page-break-inside: avoid;
 }
