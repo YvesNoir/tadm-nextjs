@@ -204,7 +204,8 @@ class BlogExtractor {
             .elementor-image-gallery, .elementor-widget-image-gallery
           `).remove();
 
-          // Extract Elementor images in their original order
+          // Extract Elementor galleries first, then individual images
+          this.extractElementorGalleries(cleanedElement, $);
           this.extractElementorImages(cleanedElement, $);
 
           // Remove links containing TADM logos and language flags
@@ -609,13 +610,27 @@ class BlogExtractor {
 
     let processedContent = markdownContent;
 
-    // First, replace all placeholders with temporary markers
-    this.imageReplacements.forEach(({ placeholder, markdown }) => {
+    // Separate gallery placeholders from image placeholders
+    const galleryPlaceholders = this.imageReplacements.filter(({ placeholder }) =>
+      placeholder.includes('GALLERYPLACEHOLDER'));
+    const imagePlaceholders = this.imageReplacements.filter(({ placeholder }) =>
+      placeholder.includes('IMAGEPLACEHOLDER'));
+
+    // Process gallery placeholders directly (no grouping needed)
+    galleryPlaceholders.forEach(({ placeholder, markdown }) => {
+      console.log(`🎨 Inserting gallery: ${placeholder}`);
+      processedContent = processedContent.replace(new RegExp(placeholder, 'g'), `\n\n${markdown}\n\n`);
+    });
+
+    // Process image placeholders with temporary markers for grouping
+    imagePlaceholders.forEach(({ placeholder, markdown }) => {
       processedContent = processedContent.replace(new RegExp(placeholder, 'g'), `\n\nIMAGEMARKER:::${markdown}:::IMAGEMARKER\n\n`);
     });
 
-    // Now detect consecutive images and group them into galleries
-    processedContent = this.createAutomaticGalleries(processedContent);
+    // Only apply automatic gallery creation to individual images
+    if (imagePlaceholders.length > 0) {
+      processedContent = this.createAutomaticGalleries(processedContent);
+    }
 
     // Reset for next article
     this.imageReplacements = [];
@@ -784,6 +799,116 @@ class BlogExtractor {
       } else {
         // Remove containers without images
         $container.remove();
+      }
+    });
+  }
+
+  extractElementorGalleries(cleanedElement, $) {
+    console.log('🎨 Extracting Elementor galleries...');
+
+    // Look for Elementor gallery widgets specifically
+    const galleryWidgets = cleanedElement.find('.elementor-widget-gallery');
+
+    console.log(`🖼️ Found ${galleryWidgets.length} Elementor gallery widgets`);
+
+    galleryWidgets.each((galleryIndex, galleryWidget) => {
+      const $gallery = $(galleryWidget);
+      const galleryContainer = $gallery.find('.e-gallery-container').first();
+
+      if (galleryContainer.length) {
+        console.log(`🎨 Processing gallery ${galleryIndex + 1}`);
+
+        // Find all gallery items within this gallery
+        const galleryItems = galleryContainer.find('.e-gallery-item');
+        console.log(`📸 Found ${galleryItems.length} items in gallery ${galleryIndex + 1}`);
+
+        if (galleryItems.length >= 2) {
+          // Create gallery markdown
+          let galleryMarkdown = '\n\n<div class="image-gallery">\n';
+          galleryMarkdown += '<div class="gallery-title">Inspiración de looks para esta temporada</div>\n';
+          galleryMarkdown += '<div class="gallery-grid">\n';
+
+          let galleryImageCount = 0;
+
+          galleryItems.each((itemIndex, item) => {
+            const $item = $(item);
+
+            // Debug information
+            console.log(`🔍 Debugging item ${itemIndex + 1}:`);
+            console.log(`   - href: ${$item.attr('href') || 'NONE'}`);
+            console.log(`   - data-elementor-open-lightbox: ${$item.attr('data-elementor-open-lightbox') || 'NONE'}`);
+
+            const galleryImage = $item.find('.e-gallery-image');
+            const bgStyle = galleryImage.attr('style') || '';
+            console.log(`   - background style: ${bgStyle}`);
+            console.log(`   - data-thumbnail: ${galleryImage.attr('data-thumbnail') || 'NONE'}`);
+
+            // Try different selectors to find the image URL
+            let imageUrl = '';
+            const href = $item.attr('href') || '';
+
+            // Extract URL from href (link to full image)
+            if (href && (href.includes('.jpg') || href.includes('.png') || href.includes('.jpeg'))) {
+              imageUrl = href;
+              console.log(`   ✅ Found URL from href: ${imageUrl}`);
+            }
+            // Extract URL from background-image style
+            else if (bgStyle && bgStyle.includes('background-image: url(')) {
+              const match = bgStyle.match(/background-image:\s*url\(["']?(.*?)["']?\)/);
+              if (match && match[1]) {
+                imageUrl = match[1];
+                console.log(`   ✅ Found URL from background: ${imageUrl}`);
+              }
+            }
+            // Try data-thumbnail as fallback
+            else {
+              const thumbnail = galleryImage.attr('data-thumbnail');
+              if (thumbnail && (thumbnail.includes('.jpg') || thumbnail.includes('.png') || thumbnail.includes('.jpeg'))) {
+                imageUrl = thumbnail;
+                console.log(`   ✅ Found URL from data-thumbnail: ${imageUrl}`);
+              }
+            }
+
+            if (imageUrl) {
+              galleryImageCount++;
+              const alt = `outfit-primavera-look-${galleryImageCount}`;
+
+              console.log(`📷 Processing gallery image ${galleryImageCount}: ${imageUrl}`);
+
+              galleryMarkdown += `<figure class="gallery-item">\n`;
+              galleryMarkdown += `<img src="${imageUrl}" alt="${alt}">\n`;
+              galleryMarkdown += `<figcaption>${alt}</figcaption>\n`;
+              galleryMarkdown += `</figure>\n`;
+
+              // Add to images array for download
+              if (!this.currentExtractionImages) this.currentExtractionImages = [];
+              this.currentExtractionImages.push({
+                url: imageUrl,
+                alt: alt,
+                caption: alt
+              });
+            }
+          });
+
+          galleryMarkdown += '</div>\n';
+          galleryMarkdown += '</div>\n\n';
+
+          // Replace the entire gallery widget with our markdown
+          const placeholder = `GALLERYPLACEHOLDER${galleryIndex}PLACEHOLDER`;
+
+          // Store for later processing
+          if (!this.imageReplacements) this.imageReplacements = [];
+          this.imageReplacements.push({
+            placeholder: placeholder,
+            markdown: galleryMarkdown
+          });
+
+          $gallery.replaceWith(placeholder);
+
+          console.log(`✅ Processed gallery ${galleryIndex + 1} with ${galleryImageCount} images`);
+        } else {
+          console.log(`⏭️ Skipping gallery ${galleryIndex + 1} - not enough images (${galleryItems.length})`);
+        }
       }
     });
   }

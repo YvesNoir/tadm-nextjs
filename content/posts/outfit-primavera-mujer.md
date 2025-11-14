@@ -22,6 +22,30 @@ coverImage: "/images/posts/outfit-primavera-mujer.jpg"
 
 La primavera es una temporada llena de colores vibrantes y estilos frescos. En 2024, la moda femenina para esta estación combina elegancia, comodidad y versatilidad. A continuación, te presentamos las tendencias más destacadas y consejos para vestirte durante esta temporada.
 
+## Galería de Outfits de Primavera 2024
+
+<div class="image-gallery">
+<div class="gallery-title">Inspiración de looks para esta temporada</div>
+<div class="gallery-grid">
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-outfit-primavera.jpg" alt="outfit-primavera-look-1">
+<figcaption>outfit-primavera-look-1</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-primavera-outfit.jpg" alt="outfit-primavera-look-2">
+<figcaption>outfit-primavera-look-2</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-primavera-outfit-2024.jpg" alt="outfit-primavera-look-3">
+<figcaption>outfit-primavera-look-3</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-outfit-primavera-2024.jpg" alt="outfit-primavera-look-4">
+<figcaption>outfit-primavera-look-4</figcaption>
+</figure>
+</div>
+</div>
+
 ### Colores y estampados
 
 Para la primavera 2024, los colores pasteles como el lavanda, el verde menta y el rosa pálido serán muy populares. También se verán muchos estampados florales y geométricos que aportan frescura y dinamismo a cualquier look.
@@ -31,6 +55,30 @@ Para la primavera 2024, los colores pasteles como el lavanda, el verde menta y e
 Las telas ligeras y transpirables como el algodón, el lino y la seda serán las preferidas para mantenerte fresca y cómoda. Los tejidos naturales y ecológicos también estarán en tendencia, reflejando una preocupación creciente por la sostenibilidad.
 
 ### Prendas clave
+
+## Galería de Looks de Tendencia 2024
+
+<div class="image-gallery">
+<div class="gallery-title">Más inspiración de looks primaverales</div>
+<div class="gallery-grid">
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-primavera-look.jpg" alt="primavera-look-1">
+<figcaption>primavera-look-1</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-primavera-look-2024.jpg" alt="primavera-look-2">
+<figcaption>primavera-look-2</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-look-primavera.jpg" alt="primavera-look-3">
+<figcaption>primavera-look-3</figcaption>
+</figure>
+<figure class="gallery-item">
+<img src="/images/posts/outfit-primavera-mujer-look-primavera-2024.jpg" alt="primavera-look-4">
+<figcaption>primavera-look-4</figcaption>
+</figure>
+</div>
+</div>
 
 #### Vestidos fluidos
 
