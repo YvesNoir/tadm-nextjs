@@ -3,7 +3,7 @@ title: "Los mejores diseñadores de moda de milán: un recorrido por la excelenc
 excerpt: "Estos son los mejores en diseño de moda de Milán. Aprende más y si estas interesado en estudiar diseño de moda, infórmate cómo aquí..."
 date: "2023-06-11"
 author: "TuAsesorDeModa"
-categories: ["moda"]
+categories: ["mujer", "belleza"]
 tags: ["moda", "estilo", "tendencias", "ropa"]
 featured: "true"
 seoTitle: "Diseñadores de moda de milan - mejores, marcas [2025]"

@@ -1,9 +1,9 @@
 ---
-title: "¿Cómo combinar zapatos marrones para hombre?"
+title: "¿cómo combinar zapatos marrones para hombre?"
 excerpt: "Quieres aprender a COMBINAR ZAPATOS MARRONES?, te aconsejamos sobre como usar zapatos marrón CAFÉ, marrón claro y oscuro ✨ Ingresa para más ..."
 date: "2023-02-02"
 author: "TuAsesorDeModa"
-categories: ["hombre", "zapatos"]
+categories: ["hombre"]
 tags: ["moda", "estilo", "outfit", "look", "ropa", "vestimenta", "complementos", "verano", "invierno", "casual"]
 featured: "true"
 seoTitle: "Cómo combinar zapatos marrones hombre, outfit - 2023"

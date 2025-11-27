@@ -811,9 +811,23 @@ class BlogExtractor {
 
     console.log(`🖼️ Found ${galleryWidgets.length} Elementor gallery widgets`);
 
+    // Also look for other gallery patterns
+    const alternativeGalleries = cleanedElement.find('.elementor-widget-image-gallery, .wp-block-gallery, .gallery-columns-2, .gallery-columns-3, .gallery-size-medium');
+    console.log(`🔍 Found ${alternativeGalleries.length} alternative gallery structures`);
+
+    // Check for WordPress native galleries with images
+    const wpGalleries = cleanedElement.find('.wp-block-gallery .wp-block-image, .gallery .gallery-item');
+    console.log(`📷 Found ${wpGalleries.length} WordPress gallery items`);
+
+    // Process WordPress galleries first if they have more items
+    if (wpGalleries.length >= 3) {
+      console.log('🎯 Processing WordPress gallery with multiple items');
+      this.processWordPressGallery(cleanedElement, $, wpGalleries);
+    }
+
     galleryWidgets.each((galleryIndex, galleryWidget) => {
       const $gallery = $(galleryWidget);
-      const galleryContainer = $gallery.find('.e-gallery-container').first();
+      const galleryContainer = $gallery.find('.e-gallery-container, .elementor-gallery__container').first();
 
       if (galleryContainer.length) {
         console.log(`🎨 Processing gallery ${galleryIndex + 1}`);
@@ -1469,6 +1483,82 @@ ${article.content}`;
       console.error('❌ Error descargando imágenes:', error.message);
       return [];
     }
+  }
+
+  processWordPressGallery(cleanedElement, $, wpGalleries) {
+    console.log('🎨 Processing WordPress/Gutenberg gallery');
+
+    // Group consecutive gallery items
+    const galleryGroups = [];
+    let currentGroup = [];
+
+    wpGalleries.each((index, item) => {
+      const $item = $(item);
+      let imageUrl = '';
+      let alt = '';
+
+      // Try to find image URL from different structures
+      const img = $item.find('img').first();
+      if (img.length) {
+        imageUrl = img.attr('src') || img.attr('data-src') || '';
+        alt = img.attr('alt') || '';
+      } else {
+        // Check if the item itself has a background-image
+        const bgStyle = $item.attr('style') || '';
+        const bgMatch = bgStyle.match(/background-image:\s*url\(['"]?([^'"]*?)['"]?\)/);
+        if (bgMatch) {
+          imageUrl = bgMatch[1];
+        }
+      }
+
+      if (imageUrl && !this.isLogoImage($item)) {
+        currentGroup.push({ url: imageUrl, alt: alt });
+        console.log(`📸 Found gallery image: ${alt || 'No alt'} - ${imageUrl}`);
+      }
+
+      // If we have enough images for a gallery (3 or more), process it
+      if (currentGroup.length >= 3) {
+        galleryGroups.push([...currentGroup]);
+        currentGroup = [];
+      }
+    });
+
+    // Process any remaining group
+    if (currentGroup.length >= 3) {
+      galleryGroups.push(currentGroup);
+    }
+
+    // Create gallery markdown for each group
+    galleryGroups.forEach((group, groupIndex) => {
+      if (group.length >= 3) {
+        console.log(`🎨 Creating gallery ${groupIndex + 1} with ${group.length} images`);
+
+        let galleryMarkdown = '\n\n<div class="image-gallery">\n';
+        galleryMarkdown += '<div class="gallery-title">Inspiración de looks para esta temporada</div>\n';
+        galleryMarkdown += '<div class="gallery-grid">\n';
+
+        group.forEach((image, imageIndex) => {
+          if (imageIndex < 8) { // Limit to 8 images per gallery
+            galleryMarkdown += `  <img src="${image.url}" alt="${image.alt || `Look ${imageIndex + 1}`}" class="gallery-image" />\n`;
+          }
+        });
+
+        galleryMarkdown += '</div>\n</div>\n\n';
+
+        // Replace the first gallery item with the gallery markdown
+        if (wpGalleries.length > groupIndex) {
+          $(wpGalleries[groupIndex * 3]).replaceWith(galleryMarkdown);
+
+          // Remove the other gallery items from this group
+          for (let i = 1; i < Math.min(group.length, 8); i++) {
+            const itemToRemove = groupIndex * 3 + i;
+            if (wpGalleries[itemToRemove]) {
+              $(wpGalleries[itemToRemove]).remove();
+            }
+          }
+        }
+      }
+    });
   }
 }
 

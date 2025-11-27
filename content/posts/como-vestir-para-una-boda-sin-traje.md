@@ -3,7 +3,7 @@ title: "Cómo vestir para una boda sin traje"
 excerpt: "Encuentra las mejores ideas, looks, outfits e imágenes sobre como vestir para una boda sin utilizar traje, sin dudas encontrará lo que necesitas."
 date: "2023-03-20"
 author: "TuAsesorDeModa"
-categories: ["hombre"]
+categories: ["hombre", "zapatos"]
 tags: ["moda", "estilo", "outfit", "look", "accesorios", "elegante"]
 featured: "true"
 seoTitle: "¿cómo vestir para una boda sin traje? Casual, elegante 2025"
@@ -184,4 +184,5 @@ Es muy simple vestir sin esfuerzo para prepararnos para una boda civil sencilla,
 </figure>
 </div>
 </div>
+
 

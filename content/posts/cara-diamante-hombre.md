@@ -3,10 +3,10 @@ title: "Rostro diamante hombre"
 excerpt: "Aprende si tu tipo de rostro es diamante, y luego conoce lo mejores cortes, peinados e incluso gafas de sol para tu rostro diamante. Aquí..."
 date: "2023-06-11"
 author: "TuAsesorDeModa"
-categories: ["hombre", "belleza"]
+categories: ["hombre"]
 tags: ["moda", "estilo", "look", "elegante"]
 featured: "true"
-seoTitle: "Rostro DIAMANTE hombres, cortes, características, peinado 2025"
+seoTitle: "Rostro diamante hombres, cortes, características, peinado 2025"
 seoDescription: "Aprende si tu tipo de rostro es diamante, y luego conoce lo mejores cortes, peinados e incluso gafas de sol para tu rostro diamante. Aquí..."
 originalUrl: "https://www.tuasesordemoda.com/cara-diamante-hombre/"
 coverImage: "/images/posts/cara-diamante-hombre.jpg"

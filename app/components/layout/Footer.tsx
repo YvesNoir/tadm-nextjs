@@ -18,7 +18,7 @@ export default function Footer() {
     >
 
       <div className="relative max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
           {/* Brand */}
           <div className="col-span-1 md:col-span-2">
             <Link href="/" className="flex items-center mb-4">
@@ -72,6 +72,43 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+            </ul>
+          </div>
+
+          {/* Enlaces Útiles */}
+          <div>
+            <h3 className="text-sm font-semibold text-white tracking-wider uppercase mb-4">
+              Enlaces
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link
+                  href="/sitemap.xml"
+                  className="text-white hover:text-gray-300 text-sm transition-colors opacity-90 hover:opacity-100"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Sitemap
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/robots.txt"
+                  className="text-white hover:text-gray-300 text-sm transition-colors opacity-90 hover:opacity-100"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Robots.txt
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/blog"
+                  className="text-white hover:text-gray-300 text-sm transition-colors opacity-90 hover:opacity-100"
+                >
+                  Blog
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
