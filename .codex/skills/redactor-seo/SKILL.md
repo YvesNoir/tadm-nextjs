@@ -42,8 +42,9 @@ Esta skill se usa para crear artículos nuevos para "Tu Asesor de Moda" a partir
    - evergreen
    - sin años innecesarios
    - sin frases literales de la fuente
-6. Guardar el artículo en `content/posts` con frontmatter completo y `status: draft`.
-7. Si faltan imágenes reales, usar `scripts/generate-post-images.js` o dejar prompts de imagen reutilizables.
+6. Guardar el artículo en `content/posts` con frontmatter completo.
+7. Regenerar el mapa de slugs raíz ejecutando `node scripts/generate-redirects.js` para que el post funcione también por `/{slug}`.
+8. Si faltan imágenes reales, usar `scripts/generate-post-images.js` o dejar prompts de imagen reutilizables.
 
 ## Reglas
 
@@ -56,7 +57,7 @@ Esta skill se usa para crear artículos nuevos para "Tu Asesor de Moda" a partir
 - El tono debe sonar humano, cercano y con conocimiento.
 - La categoría debe ser coherente con el árbol actual.
 - Si ninguna categoría actual encaja bien, se puede proponer una nueva categoría, pero hay que explicitarlo y actualizar `app/lib/categories.ts` si el usuario quiere incorporarla al sitio.
-- Por defecto, crear el artículo con `status: draft` para que no indexe hasta revisión.
+- Por defecto, crear el artículo con `status: draft` para que no indexe hasta revisión, salvo que el usuario pida explícitamente publicarlo.
 
 ## Formato de salida
 
@@ -91,7 +92,14 @@ Después del frontmatter:
   - `0-4` imágenes de galería si el artículo realmente lo necesita
   - más de eso solo si el contenido lo justifica
 - Límite duro inicial: no superar `12` imágenes por artículo sin pedido explícito del usuario.
+- Si el artículo es visual y se quiere maximizar variedad, preferir prompts que muestren `2` o `3` looks/personas dentro de una misma imagen cuando el concepto lo permita. La idea es mostrar más combinaciones sin duplicar gasto innecesario.
 - Si la API no está disponible, dejar prompts listos en el propio artículo o en una nota breve junto al archivo.
+
+## Rutas públicas
+
+- Los artículos deben quedar accesibles por `/{slug}` además de `/{categoria}/{slug}`.
+- Para eso hay que regenerar `config/redirects.js` con `node scripts/generate-redirects.js` cada vez que se crea o publica un post nuevo.
+- No hace falta editar `config/redirects.js` a mano, salvo que se quiera mantener compatibilidad explícita con slugs legacy o reglas SEO históricas especiales.
 
 ## Taxonomía
 
@@ -109,7 +117,7 @@ Después del frontmatter:
 - No suena derivativo ni genérico.
 - El slug propuesto es limpio y atemporal.
 - La categoría es consistente.
-- El artículo queda en `draft`.
+- El artículo queda en `draft` salvo instrucción explícita del usuario para publicarlo.
 - Las keywords aparecen de forma natural, sin sobreoptimización.
 
 ## Archivos clave

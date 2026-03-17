@@ -22,11 +22,14 @@ export default function Header() {
   ]);
   const normalizedPath = pathname.replace(/^\/+|\/+$/g, '');
   const isArticlePage = normalizedPath.length > 0 && !knownRootPaths.has(normalizedPath) && !normalizedPath.includes('/');
+  const headerSurfaceClass = isArticlePage ? 'bg-white' : 'bg-white/45';
+  const mobileButtonSurfaceClass = isArticlePage ? 'bg-white' : 'bg-white/60';
+  const mobileMenuSurfaceClass = isArticlePage ? 'bg-white' : 'bg-white/55';
 
   return (
     <header className={`relative z-40 px-4 pt-4 sm:px-6 lg:px-8 ${isArticlePage ? 'bg-white' : ''}`}>
       <div className="mx-auto max-w-7xl">
-        <div className="flex h-20 items-center justify-between gap-6 rounded-full border border-black/6 bg-white/45 px-5 shadow-[0_18px_40px_rgba(49,31,19,0.08)] backdrop-blur-xl">
+        <div className={`flex h-20 items-center justify-between gap-6 rounded-full border border-black/6 px-5 shadow-[0_18px_40px_rgba(49,31,19,0.08)] backdrop-blur-xl ${headerSurfaceClass}`}>
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
@@ -67,7 +70,7 @@ export default function Header() {
             <button
               type="button"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="rounded-full border border-black/8 bg-white/60 p-3 text-gray-700 hover:text-gray-900 focus:outline-none"
+              className={`rounded-full border border-black/8 p-3 text-gray-700 hover:text-gray-900 focus:outline-none ${mobileButtonSurfaceClass}`}
             >
               <svg
                 className="h-6 w-6"
@@ -97,7 +100,7 @@ export default function Header() {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <div className="mt-3 rounded-[28px] border border-black/6 bg-white/55 p-3 shadow-[0_18px_40px_rgba(49,31,19,0.08)] backdrop-blur-xl md:hidden">
+          <div className={`mt-3 rounded-[28px] border border-black/6 p-3 shadow-[0_18px_40px_rgba(49,31,19,0.08)] backdrop-blur-xl md:hidden ${mobileMenuSurfaceClass}`}>
             <nav className="space-y-1">
               <Link
                 href="/blog"
