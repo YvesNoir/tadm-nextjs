@@ -25,8 +25,8 @@ seoDescription: >-
   Descubre cómo combinar pantalones capri con blazers, camisas, sandalias,
   pumps y mocasines para lograr looks modernos, elegantes y favorecedores.
 originalUrl: 'https://www.vogue.es/articulos/pantalones-capri-2000-tendencia-primavera-verano-2026'
-coverImage: /images/posts/pantalones-capri-como-combinarlos-cover.png
-status: draft
+coverImage: /images/posts/pantalones-capri-como-combinarlos-cover.webp
+status: published
 ---
 
 Los pantalones capri vuelven una y otra vez porque tienen algo que pocas prendas logran: cambian por completo la silueta sin exigir un armario nuevo. A medio camino entre el pantalón clásico y la bermuda pulida, dejan el tobillo al descubierto, aligeran el look y permiten jugar con el calzado de una forma mucho más visible.
@@ -115,19 +115,19 @@ Funcionan mejor cuando el pantalón tiene una línea recta o algo más estrecha 
 <div class="image-gallery">
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-1.png" alt="look editorial con pantalones capri y blazer" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-1.webp" alt="look editorial con pantalones capri y blazer" />
 <figcaption>Look editorial con blazer y pantalón capri</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-2.png" alt="outfit elegante con pantalones capri y zapatos bajos" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-2.webp" alt="outfit elegante con pantalones capri y zapatos bajos" />
 <figcaption>Outfit elegante con zapatos bajos</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-3.png" alt="conjunto urbano con pantalones capri y camisa blanca" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-3.webp" alt="conjunto urbano con pantalones capri y camisa blanca" />
 <figcaption>Conjunto urbano con camisa blanca</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-4.png" alt="pantalones capri en un look sofisticado de entretiempo" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-4.webp" alt="pantalones capri en un look sofisticado de entretiempo" />
 <figcaption>Capri en un look sofisticado de entretiempo</figcaption>
 </figure>
 </div>
@@ -156,19 +156,19 @@ Para la noche, el pantalón capri puede verse muy bien con un top satinado, blaz
 <div class="image-gallery">
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-5.png" alt="look con pantalones capri y sandalias para un estilo refinado" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-5.webp" alt="look con pantalones capri y sandalias para un estilo refinado" />
 <figcaption>Look refinado con sandalias</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-6.png" alt="outfit minimalista con pantalones capri y top neutro" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-6.webp" alt="outfit minimalista con pantalones capri y top neutro" />
 <figcaption>Outfit minimalista en tonos neutros</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-7.png" alt="idea de look femenino con pantalones capri y accesorios sobrios" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-7.webp" alt="idea de look femenino con pantalones capri y accesorios sobrios" />
 <figcaption>Look femenino con accesorios sobrios</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-8.png" alt="estilo elegante con pantalones capri para ciudad" />
+<img src="/images/posts/pantalones-capri-como-combinarlos-gallery-8.webp" alt="estilo elegante con pantalones capri para ciudad" />
 <figcaption>Estilo elegante para ciudad</figcaption>
 </figure>
 </div>

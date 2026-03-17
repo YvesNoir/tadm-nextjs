@@ -1,12 +1,20 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
+const sharp = require('sharp');
 
 const API_KEY = process.env.GEMINI_API_KEY;
 const MODEL = process.env.GEMINI_IMAGE_MODEL || 'gemini-3.1-flash-image-preview';
 const OUTPUT_DIR = path.join(process.cwd(), 'public', 'images', 'posts');
+const ORIGINALS_DIR = path.join(process.cwd(), 'image-sources', 'ai-generated');
 const POSTS_DIR = path.join(process.cwd(), 'content', 'posts');
+const WATERMARK_LOGO = path.join(process.cwd(), 'public', 'images', 'tuasesordemoda-logo-white.png');
 const MAX_IMAGES = 12;
+const COVER_MAX_WIDTH = 1400;
+const GALLERY_MAX_WIDTH = 900;
+const WEBP_QUALITY = 78;
+const WATERMARK_SCALE = 0.24;
+const WATERMARK_OPACITY = 0.35;
 
 function parseArgs(argv) {
   const args = {};
@@ -42,18 +50,6 @@ function slugify(value) {
     .replace(/^-+|-+$/g, '');
 }
 
-function inferExtension(mimeType) {
-  switch (mimeType) {
-    case 'image/jpeg':
-      return 'jpg';
-    case 'image/webp':
-      return 'webp';
-    case 'image/png':
-    default:
-      return 'png';
-  }
-}
-
 function loadPostContext(slug) {
   const fullPath = path.join(POSTS_DIR, `${slug}.md`);
 
@@ -70,6 +66,85 @@ function loadPostContext(slug) {
     tags: Array.isArray(data.tags) ? data.tags : [],
     categories: Array.isArray(data.categories) ? data.categories : [],
     content: content.slice(0, 2000),
+  };
+}
+
+function inferExtension(mimeType) {
+  switch (mimeType) {
+    case 'image/jpeg':
+      return 'jpg';
+    case 'image/webp':
+      return 'webp';
+    case 'image/png':
+    default:
+      return 'png';
+  }
+}
+
+function getOutputFileName(slug, mode, imageIndex) {
+  return mode === 'cover'
+    ? `${slug}-cover.webp`
+    : `${slug}-gallery-${imageIndex}.webp`;
+}
+
+function getOriginalFileName(slug, mode, imageIndex, extension) {
+  return mode === 'cover'
+    ? `${slug}-cover-original.${extension}`
+    : `${slug}-gallery-${imageIndex}-original.${extension}`;
+}
+
+async function createWatermarkBuffer(width) {
+  const targetWidth = Math.max(180, Math.round(width * WATERMARK_SCALE));
+  const { data, info } = await sharp(WATERMARK_LOGO)
+    .resize({
+      width: targetWidth,
+      withoutEnlargement: true,
+    })
+    .ensureAlpha()
+    .raw()
+    .toBuffer({ resolveWithObject: true });
+
+  for (let index = 3; index < data.length; index += info.channels) {
+    data[index] = Math.round(data[index] * WATERMARK_OPACITY);
+  }
+
+  return sharp(data, {
+    raw: info,
+  })
+    .png()
+    .toBuffer();
+}
+
+async function writeOptimizedImage({ imageData, outputPath, mode }) {
+  const maxWidth = mode === 'cover' ? COVER_MAX_WIDTH : GALLERY_MAX_WIDTH;
+  const source = sharp(Buffer.from(imageData, 'base64')).rotate();
+  const metadata = await source.metadata();
+  const resizedWidth = metadata.width && metadata.width > maxWidth ? maxWidth : metadata.width || maxWidth;
+  const watermarkBuffer = await createWatermarkBuffer(resizedWidth);
+
+  await sharp(Buffer.from(imageData, 'base64'))
+    .rotate()
+    .resize({
+      width: maxWidth,
+      withoutEnlargement: true,
+    })
+    .composite([
+      {
+        input: watermarkBuffer,
+        gravity: 'center',
+      },
+    ])
+    .webp({
+      quality: WEBP_QUALITY,
+      effort: 5,
+    })
+    .toFile(outputPath);
+
+  const outputSize = fs.statSync(outputPath).size;
+
+  return {
+    outputSize,
+    width: resizedWidth,
   };
 }
 
@@ -147,6 +222,10 @@ async function main() {
     throw new Error('Falta GEMINI_API_KEY. Agregala en .env.local o en las variables de entorno.');
   }
 
+  if (!fs.existsSync(WATERMARK_LOGO)) {
+    throw new Error(`Falta el logo de marca de agua en ${WATERMARK_LOGO}`);
+  }
+
   if (!slugInput) {
     throw new Error('Debés pasar al menos --slug o --title.');
   }
@@ -175,6 +254,7 @@ async function main() {
   const dryRun = Boolean(args['dry-run']);
 
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.mkdirSync(ORIGINALS_DIR, { recursive: true });
 
   const results = [];
 
@@ -192,27 +272,35 @@ async function main() {
     if (dryRun) {
       results.push({
         prompt,
-        file: mode === 'cover'
-          ? `/images/posts/${slug}-cover.png`
-          : `/images/posts/${slug}-gallery-${imageIndex}.png`,
+        file: `/images/posts/${getOutputFileName(slug, mode, imageIndex)}`,
+        maxWidth: mode === 'cover' ? COVER_MAX_WIDTH : GALLERY_MAX_WIDTH,
+        format: 'webp',
       });
       continue;
     }
 
     const image = await generateImage(prompt);
-    const extension = inferExtension(image.mimeType);
-    const fileName = mode === 'cover'
-      ? `${slug}-cover.${extension}`
-      : `${slug}-gallery-${imageIndex}.${extension}`;
+    const originalExtension = inferExtension(image.mimeType);
+    const originalFileName = getOriginalFileName(slug, mode, imageIndex, originalExtension);
+    const originalOutputPath = path.join(ORIGINALS_DIR, originalFileName);
+    fs.writeFileSync(originalOutputPath, Buffer.from(image.data, 'base64'));
+    const fileName = getOutputFileName(slug, mode, imageIndex);
     const outputPath = path.join(OUTPUT_DIR, fileName);
-
-    fs.writeFileSync(outputPath, Buffer.from(image.data, 'base64'));
+    const optimized = await writeOptimizedImage({
+      imageData: image.data,
+      outputPath,
+      mode,
+    });
 
     results.push({
       prompt,
       mimeType: image.mimeType,
+      finalFormat: 'image/webp',
       file: `/images/posts/${fileName}`,
+      originalFile: path.relative(process.cwd(), originalOutputPath),
       outputPath,
+      width: optimized.width,
+      outputSize: optimized.outputSize,
     });
   }
 
