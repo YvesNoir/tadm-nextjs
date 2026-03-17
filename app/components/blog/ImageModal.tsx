@@ -1,7 +1,6 @@
 'use client';
 
 import { useEffect } from 'react';
-import Image from 'next/image';
 
 interface ImageModalProps {
   src: string;
@@ -66,11 +65,9 @@ export default function ImageModal({ src, alt, isOpen, onClose }: ImageModalProp
         </button>
 
         {/* Image */}
-        <Image
+        <img
           src={src}
           alt={alt}
-          width={1600}
-          height={1200}
           className="max-w-full max-h-full object-contain rounded-lg shadow-2xl"
           onClick={(e) => e.stopPropagation()}
         />

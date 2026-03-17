@@ -163,7 +163,7 @@ function buildPrompt({ title, excerpt, keywords, imageIndex, totalImages, mode }
     'Evitar: texto incrustado, marcas de agua, tipografías, collage, manos deformes, proporciones irreales, baja resolución.',
     mode === 'cover'
       ? 'La imagen debe funcionar como hero image horizontal, con foco claro y estética aspiracional.'
-      : 'La imagen debe aportar variedad visual útil para una galería y mostrar detalles de outfit, texturas, silueta o styling.',
+      : 'La imagen debe aportar variedad visual útil para una galería y mostrar detalles de outfit, texturas, silueta o styling. Cuando tenga sentido, prioriza composiciones con 2 o 3 looks diferentes dentro de una misma escena o con más de una persona para mostrar variedad real sin perder coherencia editorial.',
   ]
     .filter(Boolean)
     .join(' ');
