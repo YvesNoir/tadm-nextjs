@@ -25,7 +25,7 @@ coverImage: /images/posts/que-tipo-de-anteojos-de-sol-usar-segun-rostro.png
 
 
 
-![que-gafas-de-sol-usar](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/que-gafas-de-sol-usar.png)
+![que-gafas-de-sol-usar](/images/posts/que-gafas-de-sol-usar.png)
 
 
 
@@ -41,7 +41,7 @@ No pierdas tiempo y plata comprando anteojos que después no te convencen, guía
 
 
 
-![lentes de sol aviadores](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/lentes-de-sol-aviadores.jpeg)
+![lentes de sol aviadores](/images/posts/lentes-de-sol-aviadores.jpeg)
 
 
 
@@ -53,7 +53,7 @@ Con su principal productora ray-ban, retoman la onda retro y clásica de la moda
 
 
 
-![gafas-ojos-de-gato](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-ojos-de-gato.jpeg)
+![gafas-ojos-de-gato](/images/posts/gafas-ojos-de-gato.jpeg)
 
 
 
@@ -65,7 +65,7 @@ Estas gafas de sol están diseñadas exclusivamente para mujeres, teniendo un ar
 
 
 
-![gafas de sol redondas](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-de-sol-redondas.jpeg)
+![gafas de sol redondas](/images/posts/gafas-de-sol-redondas.jpeg)
 
 
 
@@ -77,7 +77,7 @@ Populares también con cristales transparentes, negros y marron, o el tan conoci
 
 
 
-![gafas de sol oversize](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-de-sol-oversize.jpeg)
+![gafas de sol oversize](/images/posts/gafas-de-sol-oversize.jpeg)
 
 
 
@@ -89,7 +89,7 @@ Un articulo infaltable para aquellas mujeres que acompañan su vestimenta con gl
 
 
 
-![gafas de sol signet](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-de-sol-signet.jpeg)
+![gafas de sol signet](/images/posts/gafas-de-sol-signet.jpeg)
 
 
 
@@ -101,7 +101,7 @@ Creadas en los años 50, su caracteristica principal de marcos dorados o color p
 
 
 
-![gafas de sol con doble-montura](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafaas-de-sol-con-doble-montura.jpeg)
+![gafas de sol con doble-montura](/images/posts/gafaas-de-sol-con-doble-montura.jpeg)
 
 
 
@@ -113,7 +113,7 @@ Caracterizado por su muy notable estilo retro, muy influenciado por el arte cont
 
 
 
-![gafas de sol oversize](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-de-sol-oversize.jpeg)
+![gafas de sol oversize](/images/posts/gafas-de-sol-oversize.jpeg)
 
 
 
@@ -125,7 +125,7 @@ Siendo en un primer momento una manera de experimentar con los anteojos, se volv
 
 
 
-![gafas de sol signet](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/gafas-de-sol-signet.jpeg)
+![gafas de sol signet](/images/posts/gafas-de-sol-signet.jpeg)
 
 
 
@@ -137,7 +137,7 @@ El mundo del cine hizo muy famosos y marcaron la tendencia con este artículo, d
 
 
 
-![lentes de sol excentricos](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/lentes-de-sol-excentricos.jpeg)
+![lentes de sol excentricos](/images/posts/lentes-de-sol-excentricos.jpeg)
 
 
 

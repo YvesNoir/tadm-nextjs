@@ -29,7 +29,7 @@ coverImage: /images/posts/unas-para-vestido-negro.jpg
 
 
 
-![unas-para-vestido-negro-color](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/unas-para-vestido-negro-color.jpg)
+![unas-para-vestido-negro-color](/images/posts/unas-para-vestido-negro-color.jpg)
 
 
 
@@ -192,7 +192,7 @@ El vestido negro es un clásico del vestidor femenino, y a la hora de utilizarlo
 
 
 
-![unas-para-vestido-negro-de-noche](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/unas-para-vestido-negro-de-noche.jpg)
+![unas-para-vestido-negro-de-noche](/images/posts/unas-para-vestido-negro-de-noche.jpg)
 
 
 
@@ -202,7 +202,7 @@ Combinar un vestido negro con color rojo oscuro es una buena elección por ejemp
 
 
 
-![unas-para-vestido-negro-de-noche-rojo-y-blanco](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/unas-para-vestido-negro-de-noche-rojo-y-blanco.jpg)
+![unas-para-vestido-negro-de-noche-rojo-y-blanco](/images/posts/unas-para-vestido-negro-de-noche-rojo-y-blanco.jpg)
 
 
 
@@ -212,7 +212,7 @@ Combinar un vestido negro con rojo y plateado es preferentemente para pieles cla
 
 
 
-![unas-para-vestido-negro-de-noche-blanca-y-dorada](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/unas-para-vestido-negro-de-noche-blanca-y-dorada.jpg)
+![unas-para-vestido-negro-de-noche-blanca-y-dorada](/images/posts/unas-para-vestido-negro-de-noche-blanca-y-dorada.jpg)
 
 
 
@@ -222,7 +222,7 @@ Para un look más armónico y dulce, se puede optar por utilizar un vestido negr
 
 
 
-![unas-para-vestido-negro-de-noche-blancas](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/unas-para-vestido-negro-de-noche-blancas.jpg)
+![unas-para-vestido-negro-de-noche-blancas](/images/posts/unas-para-vestido-negro-de-noche-blancas.jpg)
 
 
 
@@ -236,7 +236,7 @@ A la hora de pensar en los diseños de tus uñas para un vestido negro, ¿por qu
 
 
 
-![disenos-de-una-con-vestido-negro](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/disenos-de-una-con-vestido-negro.jpg)
+![disenos-de-una-con-vestido-negro](/images/posts/disenos-de-una-con-vestido-negro.jpg)
 
 
 
@@ -246,7 +246,7 @@ Contrastar en una de las uñas creará un efecto visual agradable y hará que de
 
 
 
-![disenos-de-una-para-vestido-negro](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/disenos-de-una-para-vestido-negro.jpg)
+![disenos-de-una-para-vestido-negro](/images/posts/disenos-de-una-para-vestido-negro.jpg)
 
 
 
@@ -256,7 +256,7 @@ Algunos de los diseños más comunes es utilizar varias texturas y colores en ca
 
 
 
-![disenos-de-una-para-usar-con-vestido-negro](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/disenos-de-una-para-usar-con-vestido-negro.jpg)
+![disenos-de-una-para-usar-con-vestido-negro](/images/posts/disenos-de-una-para-usar-con-vestido-negro.jpg)
 
 
 
@@ -266,7 +266,7 @@ Utilizar los tonos mates y brillantes para un color de uñas negro, es sin dudas
 
 
 
-![disenos-para-usar-con-vestido-negro-de-unas](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/disenos-para-usar-con-vestido-negro-de-unas.jpg)
+![disenos-para-usar-con-vestido-negro-de-unas](/images/posts/disenos-para-usar-con-vestido-negro-de-unas.jpg)
 
 
 

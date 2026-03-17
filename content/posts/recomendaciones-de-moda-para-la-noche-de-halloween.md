@@ -15,7 +15,7 @@ coverImage: "/images/posts/recomendaciones-de-moda-para-la-noche-de-halloween.jp
 
 
 
-![recomendaciones-para-halloween](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/recomendaciones-para-halloween.jpg)
+![recomendaciones-para-halloween](/images/posts/recomendaciones-para-halloween.jpg)
 
 
 
@@ -29,7 +29,7 @@ Elegir el disfraz o un estilo es por demás divertido, pero puede llegar a costa
 
 
 
-![lentillas-para-halloween](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/lentillas-para-halloween.jpg)
+![lentillas-para-halloween](/images/posts/lentillas-para-halloween.jpg)
 
 
 
@@ -43,7 +43,7 @@ Opta por un atemporal disfraz de vampiro con una capa roja sangre y colmillos, o
 
 
 
-![terror-clasico](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/terror-clasico.jpg)
+![terror-clasico](/images/posts/terror-clasico.jpg)
 
 
 
@@ -59,7 +59,7 @@ Libera tu artista interior y crea un disfraz único desde cero. Ya sea que te gu
 
 
 
-![creaciones-de-hazlo-tu-mismo](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/creaciones-de-hazlo-tu-mismo.jpg)
+![creaciones-de-hazlo-tu-mismo](/images/posts/creaciones-de-hazlo-tu-mismo.jpg)
 
 
 
@@ -71,7 +71,7 @@ Halloween es más divertido cuando se comparte con amigos o seres queridos. Cons
 
 
 
-![disfraz-en-pareja](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/disfraz-en-pareja.jpg)
+![disfraz-en-pareja](/images/posts/disfraz-en-pareja.jpg)
 
 
 
@@ -83,7 +83,7 @@ No subestimes el poder del maquillaje. Transfórmate con maquillaje facial intri
 
 
 
-![maquillaje](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/maquillaje.jpg)
+![maquillaje](/images/posts/maquillaje.jpg)
 
 
 
@@ -95,7 +95,7 @@ Para un toque de elegancia en la noche de halloween, explora disfraces inspirado
 
 
 
-![elegancia gotica](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/elegancia-gotica-680x1024.jpeg)
+![elegancia gotica](/images/posts/elegancia-gotica-680x1024.jpeg)
 
 
 

@@ -28,7 +28,7 @@ coverImage: /images/posts/looks-para-embarazadas.jpg
 
 
 
-![looks para embarazadas consejos](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/looks-para-embarazadas-consejos.jpeg)
+![looks para embarazadas consejos](/images/posts/looks-para-embarazadas-consejos.jpeg)
 
 
 

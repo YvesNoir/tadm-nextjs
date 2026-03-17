@@ -34,7 +34,7 @@ coverImage: /images/posts/outfit-primavera-mujer.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/07/look-y-outfits-primavera-2024.jpg)
+![](/images/posts/look-y-outfits-primavera-2024.jpg)
 
 
 
@@ -81,19 +81,19 @@ Los bolsos de mimbre o rafia seguirán siendo tendencia, perfectos para compleme
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/outfit-primavera.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/outfit-primavera.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/primavera-outfit.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/primavera-outfit.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/primavera-outfit-2024.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/primavera-outfit-2024.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/outfit-primavera-2024.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/outfit-primavera-2024.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 </div>
@@ -133,19 +133,19 @@ Si prefieres un look deportivo, unos leggings de colores vivos con una camiseta 
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/primavera-look.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/primavera-look.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/primavera-look-2024.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/primavera-look-2024.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/look-primavera.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/look-primavera.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2024/07/look-primavera-2024.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/look-primavera-2024.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 </div>

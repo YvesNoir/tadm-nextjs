@@ -173,7 +173,7 @@ Muchas mujeres luego de comprar un pantalón gris se preguntan con que colores d
 
 
 
-![outfit-con-pantalon-gris-11](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-gris-11.jpeg)
+![outfit-con-pantalon-gris-11](/images/posts/outfit-con-pantalon-gris-11.jpeg)
 
 
 
@@ -183,7 +183,7 @@ Los zapatos beige son tu mejor aliado para combinar con pantalón gris, ya que d
 
 
 
-![outfit-con-pantalon-gris-12](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-gris-12.jpeg)
+![outfit-con-pantalon-gris-12](/images/posts/outfit-con-pantalon-gris-12.jpeg)
 
 
 
@@ -193,7 +193,7 @@ Si tu pantalón es de vestir y formal, puedes aumentar la atención de quien te 
 
 
 
-![outfit-con-pantalon-gris-13](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-gris-13.jpeg)
+![outfit-con-pantalon-gris-13](/images/posts/outfit-con-pantalon-gris-13.jpeg)
 
 
 
@@ -203,7 +203,7 @@ Como en los zapatos beige, la sensación de desnudez en los pies aplicarán bell
 
 
 
-![pantalon-gris-con-zapatos](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/pantalon-gris-con-zapatos.jpeg)
+![pantalon-gris-con-zapatos](/images/posts/pantalon-gris-con-zapatos.jpeg)
 
 
 
@@ -213,7 +213,7 @@ Sin lugar a dudas la combinación mas fácil a lograr es el pantalón gris con z
 
 
 
-![pantalon-gris-con-zapatos2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/pantalon-gris-con-zapatos2.jpeg)
+![pantalon-gris-con-zapatos2](/images/posts/pantalon-gris-con-zapatos2.jpeg)
 
 
 
@@ -227,7 +227,7 @@ Te traemos combinaciones para que conozcas los mejores aliados del pantalón gri
 
 
 
-![outfit-pantalon-gris4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-gris4.jpeg)
+![outfit-pantalon-gris4](/images/posts/outfit-pantalon-gris4.jpeg)
 
 
 
@@ -239,7 +239,7 @@ Un acompañante perfecto para el pantalón gris es el color beige, utilízalo en
 
 
 
-![outfit-pantalon-gris3](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-gris3.jpeg)
+![outfit-pantalon-gris3](/images/posts/outfit-pantalon-gris3.jpeg)
 
 
 
@@ -251,7 +251,7 @@ El outfit en escala de grises no puede fallar!, los blazer blancos y negros en c
 
 
 
-![outfit-pantalon-gris2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-gris2.jpeg)
+![outfit-pantalon-gris2](/images/posts/outfit-pantalon-gris2.jpeg)
 
 
 
@@ -263,7 +263,7 @@ Combinar una prenda de un color con otras del mismo no es ninguna sorpresa, pero
 
 
 
-![outfit-pantalon-gris](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-gris.jpeg)
+![outfit-pantalon-gris](/images/posts/outfit-pantalon-gris.jpeg)
 
 
 

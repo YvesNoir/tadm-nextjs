@@ -29,7 +29,7 @@ coverImage: /images/posts/zapatos-para-vestidos.jpg
 
 
 
-![zapatos-para-vestidos](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestidos-1024x426.jpeg)
+![zapatos-para-vestidos](/images/posts/zapatos-para-vestidos-1024x426.jpeg)
 
 
 
@@ -57,7 +57,7 @@ Usualmente éste tipo de bodas se utiliza en días cálidos de temperatura agrad
 
 
 
-![zapatos-para-vestido-corto](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestido-corto.jpeg)
+![zapatos-para-vestido-corto](/images/posts/zapatos-para-vestido-corto.jpeg)
 
 
 
@@ -76,7 +76,7 @@ Son un tipo de vestidos muy elegantes que sirven para múltiples eventos tanto f
 
 
 
-![zapatos-para-vestido-media-pierna](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestido-media-pierna.jpeg)
+![zapatos-para-vestido-media-pierna](/images/posts/zapatos-para-vestido-media-pierna.jpeg)
 
 
 
@@ -93,7 +93,7 @@ Son aquellos más cortos en la parte delantera y más lagos en la parte de atrá
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/Zapatos-para-vestido-irregular-668x1024.jpeg)
+![](/images/posts/Zapatos-para-vestido-irregular-668x1024.jpeg)
 
 
 
@@ -109,7 +109,7 @@ Aquí la clave de usar **zapatos para vestido floreado**, **zapatos para vesti
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/Zapatos-para-vestido-estampado-678x1024.jpeg)
+![](/images/posts/Zapatos-para-vestido-estampado-678x1024.jpeg)
 
 
 
@@ -121,7 +121,7 @@ Para este tipo de prendas no hay nada determinado, ya que permite que juegues co
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestidos-manga-larga-678x1024.jpeg)
+![](/images/posts/zapatos-para-vestidos-manga-larga-678x1024.jpeg)
 
 
 
@@ -139,7 +139,7 @@ Así por ejemplo, las mejores opciones en cuanto a como combinar los tipos de *
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestido-rojo-683x1024.jpeg)
+![](/images/posts/zapatos-para-vestido-rojo-683x1024.jpeg)
 
 
 
@@ -149,7 +149,7 @@ Zapatos del mismo color para un look monocromático. Preferentemente para situac
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/Zapatos-para-vestido-violeta.jpeg)
+![](/images/posts/Zapatos-para-vestido-violeta.jpeg)
 
 
 
@@ -159,7 +159,7 @@ Zapatos en colores vivos o estampados para las más arriesgadas que optan por gr
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/Zapatos-para-vestido-estampado-2.jpeg)
+![](/images/posts/Zapatos-para-vestido-estampado-2.jpeg)
 
 
 
@@ -169,7 +169,7 @@ Zapatos negros para ir a lo seguro y agregarle sobriedad al look. Siempre se cue
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/Zapatos-para-vestido-blanco-733x1024.jpeg)
+![](/images/posts/Zapatos-para-vestido-blanco-733x1024.jpeg)
 
 
 
@@ -179,7 +179,7 @@ Zapatos blancos, cuando especialmente el vestido tenga detalles en ese color, o 
 
 
 
-![zapatos-para-vestido-bordo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestido-bordo.jpeg)
+![zapatos-para-vestido-bordo](/images/posts/zapatos-para-vestido-bordo.jpeg)
 
 
 
@@ -189,7 +189,7 @@ Zapatos plateados o dorado para un look elegante y sofisticado. Cabe destacar qu
 
 
 
-![zapatos-para-vestido-azul](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/zapatos-para-vestido-azul-683x1024.jpeg)
+![zapatos-para-vestido-azul](/images/posts/zapatos-para-vestido-azul-683x1024.jpeg)
 
 
 

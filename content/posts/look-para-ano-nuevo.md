@@ -27,7 +27,7 @@ coverImage: /images/posts/look-para-ano-nuevo.jpg
 
 
 
-![outfits-para-anio-nuevo](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfits-para-anio-nuevo.jpg)
+![outfits-para-anio-nuevo](/images/posts/outfits-para-anio-nuevo.jpg)
 
 
 

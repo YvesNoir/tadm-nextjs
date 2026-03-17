@@ -15,7 +15,7 @@ coverImage: "/images/posts/zapatillas-de-casa-que-son.jpg"
 
 
 
-![looks-con-zapatillas-de-casa](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/looks-con-zapatillas-de-casa-1024x367.jpg)
+![looks-con-zapatillas-de-casa](/images/posts/looks-con-zapatillas-de-casa-1024x367.jpg)
 
 
 
@@ -50,7 +50,7 @@ Algunas de las ventajas de las zapatillas para casa isotoner son:
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/zapatilla-de-casa-de-mujer-1024x358.jpg)
+![](/images/posts/zapatilla-de-casa-de-mujer-1024x358.jpg)
 
 
 
@@ -67,6 +67,6 @@ Recuerda que al usar zapatillas de casa, es importante asegurarte de que tus pan
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/zapatillas-de-casa-de-mujer-1024x358.jpg)
+![](/images/posts/zapatillas-de-casa-de-mujer-1024x358.jpg)
 
 

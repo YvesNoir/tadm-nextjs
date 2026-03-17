@@ -15,7 +15,7 @@ coverImage: "/images/posts/los-tratamientos-de-estetica-mas-habituales-en-primav
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/03/tratamientos-faciales-sin-cirugia.jpg)
+![](/images/posts/tratamientos-faciales-sin-cirugia.jpg)
 
 
 
@@ -45,7 +45,7 @@ Es importante recordar que el tratamiento con botox no es adecuado para todas la
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/03/tratamientos-faciales-botox.jpg)
+![](/images/posts/tratamientos-faciales-botox.jpg)
 
 
 
@@ -77,7 +77,7 @@ Es importante consultar con un especialista en estética o un odontólogo para e
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/03/tratamiento-gingival.jpg)
+![](/images/posts/tratamiento-gingival.jpg)
 
 
 

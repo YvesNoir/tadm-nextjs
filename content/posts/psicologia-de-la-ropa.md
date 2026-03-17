@@ -29,7 +29,7 @@ coverImage: /images/posts/psicologia-de-la-ropa.jpg
 
 
 
-![psicologia-color en la ropa](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa.jpeg)
+![psicologia-color en la ropa](/images/posts/psicologia-color-en-la-ropa.jpeg)
 
 
 
@@ -60,7 +60,7 @@ Simbolos:
 
 
 
-![psicologia-color-rojo](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-rojo.jpeg)
+![psicologia-color-rojo](/images/posts/psicologia-color-rojo.jpeg)
 
 
 
@@ -78,7 +78,7 @@ Un color que transmite sociabilidad, valentía y vitalidad. No obstante, según 
 
 
 
-![psicologia-color-en-la-ropa-naranja](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-naranja.jpeg)
+![psicologia-color-en-la-ropa-naranja](/images/posts/psicologia-color-en-la-ropa-naranja.jpeg)
 
 
 
@@ -98,7 +98,7 @@ Sin embargo, este color tiene un aspecto negativo que radica en que quién lo us
 
 
 
-![psicologia-color-en-la-ropa-amarillo](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-amarillo.jpeg)
+![psicologia-color-en-la-ropa-amarillo](/images/posts/psicologia-color-en-la-ropa-amarillo.jpeg)
 
 
 
@@ -118,7 +118,7 @@ No lo consideres a la hora de solicitar un préstamo bancario, donaciones, ni al
 
 
 
-![psicologia-color-en-la-ropa-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-verde.jpeg)
+![psicologia-color-en-la-ropa-verde](/images/posts/psicologia-color-en-la-ropa-verde.jpeg)
 
 
 
@@ -138,7 +138,7 @@ Interpretando de acuerdo a la psicología de los colores, no es muy aconsejable 
 
 
 
-![psicologia-color-en-la-ropa-azul](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-azul.jpeg)
+![psicologia-color-en-la-ropa-azul](/images/posts/psicologia-color-en-la-ropa-azul.jpeg)
 
 
 
@@ -158,7 +158,7 @@ Las situaciones en que debes evitarlo es en las que requieras un perfil bajo.
 
 
 
-![psicologia-color-en-la-ropa-violeta](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-violeta.jpeg)
+![psicologia-color-en-la-ropa-violeta](/images/posts/psicologia-color-en-la-ropa-violeta.jpeg)
 
 
 
@@ -178,7 +178,7 @@ Sin embargo en concordancia con la psicología del color, puede reflejar una aut
 
 
 
-![psicologia-color-en-la-ropa-rosa](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-rosa.jpeg)
+![psicologia-color-en-la-ropa-rosa](/images/posts/psicologia-color-en-la-ropa-rosa.jpeg)
 
 
 
@@ -198,7 +198,7 @@ Provoca un efecto negativo en las personas porque es visto como un color aburrid
 
 
 
-![psicologia-color-en-la-ropa-marron](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-marron-683x1024.jpeg)
+![psicologia-color-en-la-ropa-marron](/images/posts/psicologia-color-en-la-ropa-marron-683x1024.jpeg)
 
 
 
@@ -218,7 +218,7 @@ De acuerdo a la psicología del color puede sugerir ausencia de compromiso, ince
 
 
 
-![psicologia-color-en-la-ropa-gris](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-gris.jpeg)
+![psicologia-color-en-la-ropa-gris](/images/posts/psicologia-color-en-la-ropa-gris.jpeg)
 
 
 
@@ -238,7 +238,7 @@ Evadir cuando la actividad personal no te permita tenerlo impecable.
 
 
 
-![psicologia-color-en-la-ropa-blanco](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-blanco.jpeg)
+![psicologia-color-en-la-ropa-blanco](/images/posts/psicologia-color-en-la-ropa-blanco.jpeg)
 
 
 
@@ -258,7 +258,7 @@ Según la psicología del color, sugiere depresión, distancia, luto. Origina un
 
 
 
-![psicologia-color-en-la-ropa-negro](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/psicologia-color-en-la-ropa-negro.jpeg)
+![psicologia-color-en-la-ropa-negro](/images/posts/psicologia-color-en-la-ropa-negro.jpeg)
 
 
 

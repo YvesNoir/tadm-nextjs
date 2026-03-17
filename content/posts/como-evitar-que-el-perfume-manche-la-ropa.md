@@ -15,7 +15,7 @@ coverImage: "/images/posts/como-evitar-que-el-perfume-manche-la-ropa.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/06/perfume-en-la-ropa-1-1024x608.jpg)
+![](/images/posts/perfume-en-la-ropa-1-1024x608.jpg)
 
 
 
@@ -30,7 +30,7 @@ En esta nota, exploraremos las causas por las cuales el perfume puede dejar manc
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/06/mancha-deperfume-manche-la-ropa.jpg)
+![](/images/posts/mancha-deperfume-manche-la-ropa.jpg)
 
 
 
@@ -50,7 +50,7 @@ Por último, si tienes prendas delicadas o de colores muy claros, procura usar f
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/06/planchar-las-extensiones-1024x681.jpg)
+![](/images/posts/planchar-las-extensiones-1024x681.jpg)
 
 
 

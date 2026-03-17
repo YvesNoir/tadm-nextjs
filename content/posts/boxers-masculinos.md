@@ -15,7 +15,7 @@ coverImage: "/images/posts/boxers-masculinos.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/12/boxer-masculino-1024x628.jpg)
+![](/images/posts/boxer-masculino-1024x628.jpg)
 
 
 

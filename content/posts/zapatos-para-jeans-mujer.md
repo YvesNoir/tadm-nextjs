@@ -31,7 +31,7 @@ coverImage: /images/posts/zapatos-para-jeans-mujer.jpg
 
 
 
-![slider-jeans-con-zapatos](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/slider-jeans-con-zapatos-1024x425.jpeg)
+![slider-jeans-con-zapatos](/images/posts/slider-jeans-con-zapatos-1024x425.jpeg)
 
 
 
@@ -60,7 +60,7 @@ Para una expresión de seriedad utilizar tonos de jeans oscuros, sin roturas ni 
 
 
 
-![zapatos-de-vestir](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-de-vestir.jpeg)
+![zapatos-de-vestir](/images/posts/zapatos-de-vestir.jpeg)
 
 
 
@@ -229,7 +229,7 @@ Los borcegos son uno de los zapatos preferidos para usar en invierno, por eso va
 <div class="image-gallery">
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="/images/posts/zapatos-para-jeans-mujer-disen-cc-83o-sin-ti-cc-81tulo-2-1.jpeg" alt="zapatos para jeans botas" />
+<img src="/images/posts/botas-para-mujeres-bajitas.jpeg" alt="zapatos para jeans botas" />
 <figcaption>zapatos para jeans botas</figcaption>
 </figure>
 <figure class="gallery-item">

@@ -24,7 +24,7 @@ coverImage: /images/posts/cara-diamante-hombre.jpg
 
 
 
-![rostro-diamante-hombre](https://www.tuasesordemoda.com/wp-content/uploads/2023/06/rostro-diamante-hombre.jpg)
+![rostro-diamante-hombre](/images/posts/rostro-diamante-hombre.jpg)
 
 
 
@@ -38,7 +38,7 @@ Antes de sumergirnos en los consejos de estilo y cuidado personal, es fundamenta
 
 
 
-![rostro-diamante-hombre-caractertisticas](https://www.tuasesordemoda.com/wp-content/uploads/2023/06/rostro-diamante-hombre-caractertisticas.jpg)
+![rostro-diamante-hombre-caractertisticas](/images/posts/rostro-diamante-hombre-caractertisticas.jpg)
 
 
 

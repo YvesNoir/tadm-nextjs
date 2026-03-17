@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { getAllPosts, getPostBySlug, getPostContent, getPostPath, getRelatedPosts } from '@/app/lib/posts';
 import { getCategoryBySlug } from '@/app/lib/categories';
 import { Metadata } from 'next';
@@ -33,12 +34,21 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
     openGraph: {
       url: getPostPath(postData.slug),
     },
+    robots: postData.status === 'draft'
+      ? {
+          index: false,
+          follow: false,
+          googleBot: {
+            index: false,
+            follow: false,
+          },
+        }
+      : undefined,
   };
 }
 
 export function generateStaticParams() {
   return getAllPosts()
-    .filter((post) => post.status === 'published')
     .flatMap((post) =>
       post.categories.map((category) => ({
         category: category.slug,
@@ -111,6 +121,18 @@ export default async function PostPage({ params }: PostPageProps) {
                 </div>
               </header>
 
+              {postData.coverImage ? (
+                <div className="mb-10 overflow-hidden rounded-[28px] border border-black/5 bg-[#f8f4ef] shadow-[0_18px_40px_rgba(49,31,19,0.08)]">
+                  <Image
+                    src={postData.coverImage}
+                    alt={postData.title}
+                    width={1400}
+                    height={900}
+                    className="h-auto w-full object-cover"
+                    priority
+                  />
+                </div>
+              ) : null}
 
               {/* Post Content */}
               <BlogContentWithModal content={content} />

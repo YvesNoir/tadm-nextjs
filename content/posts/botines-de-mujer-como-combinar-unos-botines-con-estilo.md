@@ -27,7 +27,7 @@ coverImage: /images/posts/botines-de-mujer-como-combinar-unos-botines-con-estilo
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/10/botines-para-mujer.jpg)
+![](/images/posts/botines-para-mujer.jpg)
 
 
 

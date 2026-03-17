@@ -32,7 +32,7 @@ coverImage: /images/posts/adios-a-la-celulitis-descubre-los-secretos-para-combat
 
 
 
-![combatir-celulitis](https://www.tuasesordemoda.com/wp-content/uploads/2024/04/combatir-celulitis.jpg)
+![combatir-celulitis](/images/posts/combatir-celulitis.jpg)
 
 
 
@@ -48,7 +48,7 @@ Es una alteración del tejido adiposo que produce una acumulación de grasa, agu
 
 
 
-![como-combatir-celulitis](https://www.tuasesordemoda.com/wp-content/uploads/2024/04/como-combatir-celulitis-1024x576.webp)
+![como-combatir-celulitis](/images/posts/como-combatir-celulitis-1024x576.webp)
 
 
 
@@ -79,7 +79,7 @@ La genética, las hormonas y la predisposición individual son factores que infl
 
 
 
-![como-combatir-celulitis-alimentacion](https://www.tuasesordemoda.com/wp-content/uploads/2024/04/como-combatir-celulitis-alimentacion-1024x768.jpg)
+![como-combatir-celulitis-alimentacion](/images/posts/como-combatir-celulitis-alimentacion-1024x768.jpg)
 
 
 

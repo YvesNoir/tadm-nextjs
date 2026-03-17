@@ -30,7 +30,7 @@ coverImage: /images/posts/como-combinar-pantalon-blanco.jpg
 
 
 
-![looks-con-zapatillas-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/looks-con-zapatillas-mujer.jpeg)
+![looks-con-zapatillas-mujer](/images/posts/looks-con-zapatillas-mujer.jpeg)
 
 
 
@@ -169,7 +169,7 @@ Cuando elegimos un tipo de zapato para combinar un pantalón blanco debemos cons
 
 
 
-![zapatos-para-pantalon-blancos5](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-para-pantalon-blancos5.jpeg)
+![zapatos-para-pantalon-blancos5](/images/posts/zapatos-para-pantalon-blancos5.jpeg)
 
 
 
@@ -179,7 +179,7 @@ Con pantalones blancos cortes y al cuerpo opta por unos stilettos negros. Un loo
 
 
 
-![zapatos-para-pantalon-blanco4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-para-pantalon-blanco4.jpeg)
+![zapatos-para-pantalon-blanco4](/images/posts/zapatos-para-pantalon-blanco4.jpeg)
 
 
 
@@ -189,7 +189,7 @@ Para un look monocromo blanco y para los días más fríos del año, unas botas 
 
 
 
-![zapatos-para-pantalon-blanco2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-para-pantalon-blanco2.jpeg)
+![zapatos-para-pantalon-blanco2](/images/posts/zapatos-para-pantalon-blanco2.jpeg)
 
 
 
@@ -199,7 +199,7 @@ Para un pantalón blanco con bota manga ancha una excelente opción son las sand
 
 
 
-![zapatos-para-pantalon-blanco](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-para-pantalon-blanco.jpeg)
+![zapatos-para-pantalon-blanco](/images/posts/zapatos-para-pantalon-blanco.jpeg)
 
 
 
@@ -213,7 +213,7 @@ Te mostramos prendas diferentes y únicas con las cuáles puedes combinar un pan
 
 
 
-![outfit-con-pantalon-blanco4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-blanco4.jpeg)
+![outfit-con-pantalon-blanco4](/images/posts/outfit-con-pantalon-blanco4.jpeg)
 
 
 
@@ -225,7 +225,7 @@ Para un look fresco y juvenil, nada mejor que combinar el blanco con blanco, per
 
 
 
-![outfit-con-pantalon-blanco3](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-blanco3.jpeg)
+![outfit-con-pantalon-blanco3](/images/posts/outfit-con-pantalon-blanco3.jpeg)
 
 
 
@@ -237,7 +237,7 @@ Para tus looks de oficina sentite linda, arreglada y profesional con una blusa r
 
 
 
-![outfit-con-pantalon-blanco2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-blanco2.jpeg)
+![outfit-con-pantalon-blanco2](/images/posts/outfit-con-pantalon-blanco2.jpeg)
 
 
 
@@ -249,7 +249,7 @@ Cuándo quieras un outfit informal con pantalón blanco opta por elegir una reme
 
 
 
-![outfit-con-pantalon-blanco](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-blanco.jpeg)
+![outfit-con-pantalon-blanco](/images/posts/outfit-con-pantalon-blanco.jpeg)
 
 
 

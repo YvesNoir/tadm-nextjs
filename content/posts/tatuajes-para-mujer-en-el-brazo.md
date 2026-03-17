@@ -22,7 +22,7 @@ coverImage: /images/posts/tatuajes-para-mujer-en-el-brazo.jpg
 
 
 
-![tatuajes-para-mujer-en-el-brazo](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/tatuajes-para-mujer-en-el-brazo.jpg)
+![tatuajes-para-mujer-en-el-brazo](/images/posts/tatuajes-para-mujer-en-el-brazo.jpg)
 
 
 

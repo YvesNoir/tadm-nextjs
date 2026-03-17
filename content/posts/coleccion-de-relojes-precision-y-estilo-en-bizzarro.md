@@ -15,7 +15,7 @@ coverImage: "/images/posts/coleccion-de-relojes-precision-y-estilo-en-bizzarro.j
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/05/coleccion-de-relojes.jpg)
+![](/images/posts/coleccion-de-relojes.jpg)
 
 
 
@@ -39,7 +39,7 @@ Para el hombre contemporáneo, el reloj es un símbolo de distinción. En la sel
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/05/coleccion-relojes-hombre-1024x768.jpeg)
+![](/images/posts/coleccion-relojes-hombre-1024x768.jpeg)
 
 
 
@@ -67,7 +67,7 @@ Elegir un reloj ideal puede parecer una tarea compleja, pero en bizzarro no esta
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/05/relojes-coleccion.jpg)
+![](/images/posts/relojes-coleccion.jpg)
 
 
 

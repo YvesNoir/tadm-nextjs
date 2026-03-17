@@ -22,7 +22,7 @@ Conoce el paso a paso para **lograr de la mejor manera posible una rutina de lim
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/rostro-de-mujer-1024x474.jpg)
+![](/images/posts/rostro-de-mujer-1024x474.jpg)
 
 
 
@@ -37,7 +37,7 @@ Acné y el retardo de la aparición de arrugas o líneas de expresión**.
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/chica-crema-facial-1024x474.jpg)
+![](/images/posts/chica-crema-facial-1024x474.jpg)
 
 
 
@@ -89,7 +89,7 @@ Nocturna o antiage, dependiendo de la rutina de cada uno.
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/rutina-belleza-1024x474.jpg)
+![](/images/posts/rutina-belleza-1024x474.jpg)
 
 
 

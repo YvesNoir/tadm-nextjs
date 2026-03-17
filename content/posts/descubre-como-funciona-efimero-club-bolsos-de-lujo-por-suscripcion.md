@@ -15,7 +15,7 @@ coverImage: "/images/posts/descubre-como-funciona-efimero-club-bolsos-de-lujo-po
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/suscripcion-bolsos-de-marcas-de-moda.jpg)
+![](/images/posts/suscripcion-bolsos-de-marcas-de-moda.jpg)
 
 
 
@@ -25,7 +25,7 @@ coverImage: "/images/posts/descubre-como-funciona-efimero-club-bolsos-de-lujo-po
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/bolsos-de-alquiler-1024x259.png)
+![](/images/posts/bolsos-de-alquiler-1024x259.png)
 
 
 
@@ -37,7 +37,7 @@ Efímeroclub entiende que la moda es una expresión de personalidad y estilo, po
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/alquiler-de-bolsos-con-efimero-1024x245.png)
+![](/images/posts/alquiler-de-bolsos-con-efimero-1024x245.png)
 
 
 
@@ -51,7 +51,7 @@ Pero eso no es todo, la verdadera magia está en la posibilidad de lucir diferen
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/efimero-bolsos-1024x247.png)
+![](/images/posts/efimero-bolsos-1024x247.png)
 
 
 
@@ -65,7 +65,7 @@ Además de lucir a la moda y tener acceso a las marcas más prestigiosas, al uni
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/08/efimero-club-1024x226.png)
+![](/images/posts/efimero-club-1024x226.png)
 
 
 

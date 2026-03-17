@@ -52,7 +52,7 @@ Sus notas de fresia y rosa búlgara de carácter fresco y aromático le dan paso
 
 
 
-![perfume-carolina-herrera-chic-9](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-chic-9.jpeg)
+![perfume-carolina-herrera-chic-9](/images/posts/perfume-carolina-herrera-chic-9.jpeg)
 
 
 
@@ -72,7 +72,7 @@ Aroma dulce pero que no empalaga, duración moderada como eau de parfum. Muy pol
 
 
 
-![perfume-carolina-herrera-good-girl-10](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-good-girl-10.jpeg)
+![perfume-carolina-herrera-good-girl-10](/images/posts/perfume-carolina-herrera-good-girl-10.jpeg)
 
 
 
@@ -92,7 +92,7 @@ En el listado asegurado de los perfumes mas exitosos de la colección 212, fraga
 
 
 
-![perfume-carolina-herrera-212sexy-7](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-212sexy-7.jpeg)
+![perfume-carolina-herrera-212sexy-7](/images/posts/perfume-carolina-herrera-212sexy-7.jpeg)
 
 
 
@@ -112,7 +112,7 @@ Para uso en un amplio rango de edad, por su proyección discreta pero buena dura
 
 
 
-![212-mujer-4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/212-mujer-4.jpeg)
+![212-mujer-4](/images/posts/212-mujer-4.jpeg)
 
 
 
@@ -132,7 +132,7 @@ Menos sofisticado que su nombre y frasco, pero a la vez un gran perfume dulce y 
 
 
 
-![perfume-carolina-herrera-sublime-eau-de-parfum-6](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-sublime-eau-de-parfum-6.jpeg)
+![perfume-carolina-herrera-sublime-eau-de-parfum-6](/images/posts/perfume-carolina-herrera-sublime-eau-de-parfum-6.jpeg)
 
 
 
@@ -152,7 +152,7 @@ Su duración y proyección son débiles, lo que lo hace un perfume para el dia a
 
 
 
-![perfume-carolina-herrera-212-rose-2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-212-rose-2.jpeg)
+![perfume-carolina-herrera-212-rose-2](/images/posts/perfume-carolina-herrera-212-rose-2.jpeg)
 
 
 
@@ -172,7 +172,7 @@ Siendo en su salida, un perfume top 3 para cualquier ranking ( incluyendo los de
 
 
 
-![perfume-carolina-herrera-leau-3](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-leau-3.jpeg)
+![perfume-carolina-herrera-leau-3](/images/posts/perfume-carolina-herrera-leau-3.jpeg)
 
 
 
@@ -192,7 +192,7 @@ Perfume que supuso el revelo generacional de carolina herrera a carolina herrera
 
 
 
-![perfume-carolina-herrera-ch-5](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-ch-5.jpeg)
+![perfume-carolina-herrera-ch-5](/images/posts/perfume-carolina-herrera-ch-5.jpeg)
 
 
 
@@ -212,7 +212,7 @@ El perfume que inicio la era carolina herrera, muy femenino, elegante, con mucho
 
 
 
-![perfume-carolina-herrera-carolina-herrera-8](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-carolina-herrera-8.jpeg)
+![perfume-carolina-herrera-carolina-herrera-8](/images/posts/perfume-carolina-herrera-carolina-herrera-8.jpeg)
 
 
 
@@ -232,6 +232,6 @@ Muestra una salida muy jovial, de caracter fiestero y desenfadado, carolina herr
 
 
 
-![perfume-carolina-herrera-212-vip-1](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/perfume-carolina-herrera-212-vip-1.jpeg)
+![perfume-carolina-herrera-212-vip-1](/images/posts/perfume-carolina-herrera-212-vip-1.jpeg)
 
 

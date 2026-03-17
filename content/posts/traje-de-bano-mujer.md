@@ -168,7 +168,7 @@ Ahora que ya reconocemos los distintos **tipos de trajes de baño para mujer**,
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/trajes-de-bano-cuerpo-cicular-2.jpeg)
+![](/images/posts/trajes-de-bano-cuerpo-cicular-2.jpeg)
 
 
 
@@ -229,7 +229,7 @@ Si para este verano llegaste con unos kilitos de más o todavía no bajaste los 
 
 
 
-![tipodecuerpo-reloj](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/tipodecuerpo-reloj.jpeg)
+![tipodecuerpo-reloj](/images/posts/tipodecuerpo-reloj.jpeg)
 
 
 
@@ -245,7 +245,7 @@ Si elegís una bikini, que la parte inferior tenga algún detalle en los lateral
 
 
 
-![tipodecuerpo-rectangular](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/tipodecuerpo-rectangular.jpeg)
+![tipodecuerpo-rectangular](/images/posts/tipodecuerpo-rectangular.jpeg)
 
 
 
@@ -259,7 +259,7 @@ Si elegís mallas enterizas o tankini, aplica la misma lógica. Lleva toda la at
 
 
 
-![tipodecuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/tipodecuerpo-pera.jpeg)
+![tipodecuerpo-pera](/images/posts/tipodecuerpo-pera.jpeg)
 
 
 
@@ -273,7 +273,7 @@ Si elegís mallas enterizas o tankini, aplica la misma lógica. Lleva toda la at
 
 
 
-![tipodecuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/tipodecuerpo-pera.jpeg)
+![tipodecuerpo-pera](/images/posts/tipodecuerpo-pera.jpeg)
 
 
 
@@ -291,6 +291,6 @@ Como alternativa es buena elección el uso de skirtini.
 
 
 
-![tipodecuerpo-triangular-1](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/tipodecuerpo-triangular-1.jpeg)
+![tipodecuerpo-triangular-1](/images/posts/tipodecuerpo-triangular-1.jpeg)
 
 

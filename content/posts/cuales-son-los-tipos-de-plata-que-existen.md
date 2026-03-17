@@ -97,7 +97,7 @@ La **plata 999** es la más pura que se encuentra comercialmente, ideal para lin
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/04/ImagenPlata.jpg)
+![](/images/posts/ImagenPlata.jpg)
 
 
 

@@ -4,6 +4,38 @@ Este directorio contiene herramientas para extraer automáticamente contenido de
 
 ## 📋 Scripts Disponibles
 
+### 0. `generate-post-images.js` - Generador de imágenes con Gemini
+Genera imágenes editoriales para portada o galería y las guarda en `public/images/posts/`.
+
+#### Variables requeridas:
+```bash
+GEMINI_API_KEY=tu_api_key_nueva
+GEMINI_IMAGE_MODEL=gemini-3.1-flash-image-preview
+```
+
+#### Uso para portada:
+```bash
+node scripts/generate-post-images.js --slug outfit-primavera-mujer --mode cover --count 1
+```
+
+#### Uso para galería:
+```bash
+node scripts/generate-post-images.js --slug outfit-primavera-mujer --mode gallery --count 4
+```
+
+#### Uso solo para ver prompts:
+```bash
+node scripts/generate-post-images.js --slug outfit-primavera-mujer --mode gallery --count 4 --dry-run
+```
+
+#### Qué hace:
+- ✅ Lee contexto del post si ya existe en `content/posts`
+- ✅ Genera prompts editoriales pensados para moda
+- ✅ Usa Gemini por API
+- ✅ Guarda imágenes localmente en `public/images/posts`
+- ✅ Limita la generación a un máximo de 12 imágenes por corrida
+- ✅ Sirve para portada o galería
+
 ### 1. `blog-extractor.js` - Extractor Individual
 Extrae un artículo individual de una URL específica.
 

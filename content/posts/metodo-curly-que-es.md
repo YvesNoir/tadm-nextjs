@@ -15,7 +15,7 @@ coverImage: "/images/posts/metodo-curly-que-es.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/metodo-curly.jpg)
+![](/images/posts/metodo-curly.jpg)
 
 
 
@@ -33,7 +33,7 @@ El método curly es adecuado para personas con cabello rizado, ya sea natural o 
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/metodo-curly-589x1024.png)
+![](/images/posts/metodo-curly-589x1024.png)
 
 
 

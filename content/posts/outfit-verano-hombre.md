@@ -29,7 +29,7 @@ coverImage: /images/posts/outfit-verano-hombre.jpg
 
 
 
-![outfit-verano-hombre](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/outfit-verano-hombre-1024x425.jpeg)
+![outfit-verano-hombre](/images/posts/outfit-verano-hombre-1024x425.jpeg)
 
 
 
