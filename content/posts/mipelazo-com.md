@@ -24,7 +24,7 @@ coverImage: /images/posts/mipelazo-com.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/09/mipelazocom.jpg)
+![](/images/posts/mipelazocom.jpg)
 
 
 
@@ -38,7 +38,7 @@ La marca se caracteriza por su compromiso con la investigación y desarrollo de 
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/09/VALORES_MIPELAZO_FAQS-1024x408.webp)
+![](/images/posts/VALORES_MIPELAZO_FAQS-1024x408.webp)
 
 
 

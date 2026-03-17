@@ -15,7 +15,7 @@ coverImage: "/images/posts/la-moda-sostenible-esta-en-pleno-auge.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/10/moda-sostenible.jpg)
+![](/images/posts/moda-sostenible.jpg)
 
 
 

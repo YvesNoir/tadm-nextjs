@@ -29,7 +29,7 @@ coverImage: /images/posts/tips-de-moda-para-mujeres-gorditas.jpg
 
 
 
-![tips de moda-para-gorditas](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips-de-moda-para-gorditas-1024x536.jpeg)
+![tips de moda-para-gorditas](/images/posts/tips-de-moda-para-gorditas-1024x536.jpeg)
 
 
 

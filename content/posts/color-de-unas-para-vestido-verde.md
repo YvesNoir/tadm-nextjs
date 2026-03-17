@@ -25,7 +25,7 @@ coverImage: /images/posts/color-de-unas-para-vestido-verde.jpg
 
 
 
-![colores-de-unias-vestido-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/colores-de-unias-vestido-verde.png)
+![colores-de-unias-vestido-verde](/images/posts/colores-de-unias-vestido-verde.png)
 
 
 

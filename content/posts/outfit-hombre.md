@@ -30,7 +30,7 @@ coverImage: /images/posts/outfit-hombre.jpg
 
 
 
-![outfit-hombre](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/outfit-hombre-1024x372.jpeg)
+![outfit-hombre](/images/posts/outfit-hombre-1024x372.jpeg)
 
 
 

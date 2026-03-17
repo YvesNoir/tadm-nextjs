@@ -15,7 +15,7 @@ coverImage: "/images/posts/perfumes-nicho-descubre-la-esencia-exclusiva-de-la-el
 
 
 
-![perfumes-nicho](https://www.tuasesordemoda.com/wp-content/uploads/2023/12/perfume-nicho.jpg)
+![perfumes-nicho](/images/posts/perfume-nicho.jpg)
 
 
 

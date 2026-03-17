@@ -27,7 +27,7 @@ coverImage: /images/posts/disenadores-de-moda-milan.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/06/mejores-disenador-de-moda-milan-1-1024x496.jpg)
+![](/images/posts/mejores-disenador-de-moda-milan-1-1024x496.jpg)
 
 
 

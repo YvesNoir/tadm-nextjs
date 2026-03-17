@@ -30,7 +30,7 @@ coverImage: /images/posts/looks-bautizo.jpg
 
 
 
-![looks-para-un-bautizo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/looks-para-un-bautizo.jpeg)
+![looks-para-un-bautizo](/images/posts/looks-para-un-bautizo.jpeg)
 
 
 

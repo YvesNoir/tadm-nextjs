@@ -31,7 +31,7 @@ coverImage: /images/posts/como-vestir-para-una-boda.jpg
 
 
 
-![como-vestir-para-una-boda](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/como-vestir-para-una-boda-1024x425.jpeg)
+![como-vestir-para-una-boda](/images/posts/como-vestir-para-una-boda-1024x425.jpeg)
 
 
 

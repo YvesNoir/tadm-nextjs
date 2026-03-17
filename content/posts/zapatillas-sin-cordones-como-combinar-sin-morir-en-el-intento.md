@@ -45,7 +45,7 @@ Hubo una época en la cual veíamos muy de moda utilizar zapatillas sin cordones
 
 
 
-![looks-con-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/looks-con-zapatillas-sin-cordones.jpg)
+![looks-con-zapatillas-sin-cordones](/images/posts/looks-con-zapatillas-sin-cordones.jpg)
 
 
 
@@ -55,7 +55,7 @@ Es una buena idea utilizar el mismo color en el resto del outfit, para lograr un
 
 
 
-![outfit-con-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/outfit-con-zapatillas-sin-cordones.jpg)
+![outfit-con-zapatillas-sin-cordones](/images/posts/outfit-con-zapatillas-sin-cordones.jpg)
 
 
 
@@ -65,7 +65,7 @@ Los vestidos negros o prendas de una sola pieza serán tu aliado, estos siempre 
 
 
 
-![look-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/look-zapatillas-sin-cordones.jpg)
+![look-zapatillas-sin-cordones](/images/posts/look-zapatillas-sin-cordones.jpg)
 
 
 
@@ -75,7 +75,7 @@ Cuando utilices tus zapatillas sin cordones en un outfit de verano, y con prenda
 
 
 
-![look-con-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/look-con-zapatillas-sin-cordones.jpg)
+![look-con-zapatillas-sin-cordones](/images/posts/look-con-zapatillas-sin-cordones.jpg)
 
 
 
@@ -85,7 +85,7 @@ En los días de media estación como otoño o primavera, se pueden utilizar con 
 
 
 
-![outfits-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/outfits-zapatillas-sin-cordones.jpg)
+![outfits-zapatillas-sin-cordones](/images/posts/outfits-zapatillas-sin-cordones.jpg)
 
 
 
@@ -95,7 +95,7 @@ En los dias de calor, las zapatillas sin cordones se pueden combinar con simples
 
 
 
-![outfits-con-zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/outfits-con-zapatillas-sin-cordones.jpg)
+![outfits-con-zapatillas-sin-cordones](/images/posts/outfits-con-zapatillas-sin-cordones.jpg)
 
 
 
@@ -105,7 +105,7 @@ Será muy fácil crear estilos urbanos, tan simple como combinarlas con un panta
 
 
 
-![zapatillas-sin-cordones](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/zapatillas-sin-cordones.jpg)
+![zapatillas-sin-cordones](/images/posts/zapatillas-sin-cordones.jpg)
 
 
 

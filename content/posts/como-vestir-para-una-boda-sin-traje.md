@@ -27,7 +27,7 @@ coverImage: /images/posts/como-vestir-para-una-boda-sin-traje.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/03/como-vestir-para-una-boda-sin-traje.jpg)
+![](/images/posts/como-vestir-para-una-boda-sin-traje.jpg)
 
 
 

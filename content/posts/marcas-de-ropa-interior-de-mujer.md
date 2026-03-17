@@ -25,7 +25,7 @@ coverImage: /images/posts/marcas-de-ropa-interior-de-mujer.jpg
 
 
 
-![ropa-intima-mujer-lenceria](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/ropa-intima-mujer-lenceria.jpg)
+![ropa-intima-mujer-lenceria](/images/posts/ropa-intima-mujer-lenceria.jpg)
 
 
 

@@ -43,7 +43,7 @@ Acercamos 5 outfits sobre **como puedo combinar un pantalón verde de mujer**, 
 
 
 
-![outfit-pantalon-verde-militar](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-verde-militar.jpeg)
+![outfit-pantalon-verde-militar](/images/posts/outfit-pantalon-verde-militar.jpeg)
 
 
 
@@ -55,7 +55,7 @@ Para un outfit informal y casual **combinar un pantalón verd****e** militar, 
 
 
 
-![outfit-con-pantalon-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-con-pantalon-verde.jpeg)
+![outfit-con-pantalon-verde](/images/posts/outfit-con-pantalon-verde.jpeg)
 
 
 
@@ -67,7 +67,7 @@ Para un look que destaque sobre el resto, elegí combinar tu pantalón verde anc
 
 
 
-![look-con-pantalon-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/look-con-pantalon-verde.jpeg)
+![look-con-pantalon-verde](/images/posts/look-con-pantalon-verde.jpeg)
 
 
 
@@ -79,7 +79,7 @@ Un look informal  con pantalón verde militar es combinarlo con una remera raya
 
 
 
-![look-con-pantalon-verde-agua](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/look-con-pantalon-verde-agua-683x1024.jpeg)
+![look-con-pantalon-verde-agua](/images/posts/look-con-pantalon-verde-agua-683x1024.jpeg)
 
 
 
@@ -91,7 +91,7 @@ Para **combinar pantalón verde agua** aconsejamos que lo utilices con aquellas
 
 
 
-![como-combinar-pantalon-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/como-combinar-pantalon-verde.jpeg)
+![como-combinar-pantalon-verde](/images/posts/como-combinar-pantalon-verde.jpeg)
 
 
 
@@ -107,7 +107,7 @@ A continuación te mostramos 5 claros ejemplos de tipos de zapatos para combinar
 
 
 
-![calzado-pantalon-verde5](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/calzado-pantalon-verde5.jpeg)
+![calzado-pantalon-verde5](/images/posts/calzado-pantalon-verde5.jpeg)
 
 
 
@@ -117,7 +117,7 @@ Combina tu pantalón verde militar con zapatos de tipo mocasín marrones que pue
 
 
 
-![calzado-pantalon-verde4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/calzado-pantalon-verde4.jpeg)
+![calzado-pantalon-verde4](/images/posts/calzado-pantalon-verde4.jpeg)
 
 
 
@@ -127,7 +127,7 @@ Cuando quieras originalidad, a tu outfit informal con pantalón verde militar ca
 
 
 
-![calzado-pantalon-verde3](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/calzado-pantalon-verde3.jpeg)
+![calzado-pantalon-verde3](/images/posts/calzado-pantalon-verde3.jpeg)
 
 
 
@@ -137,7 +137,7 @@ Utiliza stilettos negros para un evento formal de tipo laboral con el cuál llev
 
 
 
-![calzado-pantalon-verde2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/calzado-pantalon-verde2.jpeg)
+![calzado-pantalon-verde2](/images/posts/calzado-pantalon-verde2.jpeg)
 
 
 
@@ -147,7 +147,7 @@ Los stilettos color rosa pálido combinados con un pantalón verde militar agreg
 
 
 
-![calzado-pantalon-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/calzado-pantalon-verde.jpeg)
+![calzado-pantalon-verde](/images/posts/calzado-pantalon-verde.jpeg)
 
 
 
@@ -161,7 +161,7 @@ Mostramos a continuación 4 prendas con las cuáles combinar un pantalón verde 
 
 
 
-![outfit-pantalon-verde4](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-verde4.jpeg)
+![outfit-pantalon-verde4](/images/posts/outfit-pantalon-verde4.jpeg)
 
 
 
@@ -173,7 +173,7 @@ El pantalón cargo verde militar es una de las últimas tendencias de la tempora
 
 
 
-![outfit-pantalon-verde](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-verde.jpeg)
+![outfit-pantalon-verde](/images/posts/outfit-pantalon-verde.jpeg)
 
 
 
@@ -185,7 +185,7 @@ Para los días lluviosos nada mejor que combinar un pantalón verde militar con 
 
 
 
-![outfit-pantalon-verde2](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-verde2.jpeg)
+![outfit-pantalon-verde2](/images/posts/outfit-pantalon-verde2.jpeg)
 
 
 
@@ -197,7 +197,7 @@ Para crear un shock de color, combina un pantalón verde brillante con una blusa
 
 
 
-![outfit-pantalon-verde3](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/outfit-pantalon-verde3.jpeg)
+![outfit-pantalon-verde3](/images/posts/outfit-pantalon-verde3.jpeg)
 
 
 

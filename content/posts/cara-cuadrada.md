@@ -25,7 +25,7 @@ coverImage: /images/posts/cara-cuadrada.jpeg
 
 
 
-![rostro-cuadrado-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/rostro-cuadrado-mujer.jpeg)
+![rostro-cuadrado-mujer](/images/posts/rostro-cuadrado-mujer.jpeg)
 
 
 
@@ -49,7 +49,7 @@ El rostro cuadrado se caracteriza por tener una mandíbula angular muy marcada, 
 
 
 
-![mujeres-rostro-cuadrado-famosas](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/mujeres-rostro-cuadrado-famosas.jpeg)
+![mujeres-rostro-cuadrado-famosas](/images/posts/mujeres-rostro-cuadrado-famosas.jpeg)
 
 
 

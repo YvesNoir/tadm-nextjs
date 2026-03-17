@@ -30,7 +30,7 @@ coverImage: /images/posts/combinar-zapatos-marrones.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/02/zapatos-marrones-de-hombre-oufit-1024x368.jpeg)
+![](/images/posts/zapatos-marrones-de-hombre-oufit-1024x368.jpeg)
 
 
 

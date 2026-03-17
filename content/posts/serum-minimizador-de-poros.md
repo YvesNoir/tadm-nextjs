@@ -29,7 +29,7 @@ coverImage: /images/posts/serum-minimizador-de-poros.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/08/serum-minimizador-de-poros-beneficios.jpg)
+![](/images/posts/serum-minimizador-de-poros-beneficios.jpg)
 
 
 
@@ -65,7 +65,7 @@ Un sérum minimizador de poros es un concentrado de ingredientes activos diseña
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/08/serum-minimizador-de-poros.jpg)
+![](/images/posts/serum-minimizador-de-poros.jpg)
 
 
 

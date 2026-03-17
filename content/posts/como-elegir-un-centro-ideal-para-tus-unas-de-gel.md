@@ -15,7 +15,7 @@ coverImage: "/images/posts/como-elegir-un-centro-ideal-para-tus-unas-de-gel.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/10/centro-de-unas.jpg)
+![](/images/posts/centro-de-unas.jpg)
 
 
 

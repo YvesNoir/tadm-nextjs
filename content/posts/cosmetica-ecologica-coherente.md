@@ -15,7 +15,7 @@ coverImage: "/images/posts/cosmetica-ecologica-coherente.jpg"
 
 
 
-![cosmetica-ecologica-coherente](https://www.tuasesordemoda.com/wp-content/uploads/2024/05/cosmetica-ecologica-coherente-1024x683.jpg)
+![cosmetica-ecologica-coherente](/images/posts/cosmetica-ecologica-coherente-1024x683.jpg)
 
 
 
@@ -49,7 +49,7 @@ _el acondicionador “leun” y champú “laga” y “laida”se encuentra ce
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/05/champu-solido-mainbo.jpg)
+![](/images/posts/champu-solido-mainbo.jpg)
 
 
 
@@ -71,7 +71,7 @@ _certificado por acene como biológico, natural y vegano._
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2024/05/Egun-crema-facial-diurno.jpg)
+![](/images/posts/Egun-crema-facial-diurno.jpg)
 
 
 

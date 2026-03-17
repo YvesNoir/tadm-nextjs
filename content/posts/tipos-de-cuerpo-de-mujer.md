@@ -22,7 +22,7 @@ coverImage: /images/posts/tipos-de-cuerpo-de-mujer.jpg
 
 
 
-![tipos-de-cuerpo-de-mujer-medidas](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tipos-de-cuerpo-de-mujer-medidas.jpg)
+![tipos-de-cuerpo-de-mujer-medidas](/images/posts/tipos-de-cuerpo-de-mujer-medidas.jpg)
 
 
 
@@ -58,7 +58,7 @@ Más allá de que la decisión sobre qué vestir pertenece a cada una, te acerco
 
 
 
-![tipos-de-cuerpos-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tipos-de-cuerpos-mujer-1024x757.jpeg)
+![tipos-de-cuerpos-mujer](/images/posts/tipos-de-cuerpos-mujer-1024x757.jpeg)
 
 
 
@@ -84,7 +84,7 @@ Una vez que tengas anotadas todas tus medidas, te traemos los resultados de tus 
 
 
 
-![mujer-cuerpo-triangulo-invertido](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/mujer-cuerpo-triangulo-invertido.jpeg)
+![mujer-cuerpo-triangulo-invertido](/images/posts/mujer-cuerpo-triangulo-invertido.jpeg)
 
 
 
@@ -100,7 +100,7 @@ Prendas muy rígidas en la parte superior o con líneas horizontales u hombreras
 
 
 
-![tip-outfit-cuerpo-triangulo-invertido](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tip-outfit-cuerpo-triangulo-invertido.jpeg)
+![tip-outfit-cuerpo-triangulo-invertido](/images/posts/tip-outfit-cuerpo-triangulo-invertido.jpeg)
 
 
 
@@ -110,7 +110,7 @@ Es muy importante evitar las hombreras o prendas rígidas en la parte superior.
 
 
 
-![tip2-outfit-cuerpo-triangulo-invertido](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tip2-outfit-cuerpo-triangulo-invertido.jpeg)
+![tip2-outfit-cuerpo-triangulo-invertido](/images/posts/tip2-outfit-cuerpo-triangulo-invertido.jpeg)
 
 
 
@@ -120,7 +120,7 @@ Los volados en la parte inferior son excelentes para agregar volumen a esa zona
 
 
 
-![tip3-outfit-cuerpo-triangulo-invertido](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tip3-outfit-cuerpo-triangulo-invertido.jpeg)
+![tip3-outfit-cuerpo-triangulo-invertido](/images/posts/tip3-outfit-cuerpo-triangulo-invertido.jpeg)
 
 
 
@@ -130,7 +130,7 @@ Usa pantalones corte recto y bolsillos para agregar espesor del lado de las pier
 
 
 
-![tip4-outfit-cuerpo-triangulo-invertido](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tip4-outfit-cuerpo-triangulo-invertido.jpeg)
+![tip4-outfit-cuerpo-triangulo-invertido](/images/posts/tip4-outfit-cuerpo-triangulo-invertido.jpeg)
 
 
 
@@ -142,7 +142,7 @@ La superposición en la parte inferior también agregara volumen y volverán tu 
 
 
 
-![cuerpo-mujer-reloj-de-arena](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cuerpo-mujer-reloj-de-arena.jpeg)
+![cuerpo-mujer-reloj-de-arena](/images/posts/cuerpo-mujer-reloj-de-arena.jpeg)
 
 
 
@@ -158,7 +158,7 @@ Al ser un cuerpo de forma armoniosa, respetando las proporciones naturales y mar
 
 
 
-![tips3-vestir-cuerpo-relojdearena](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips3-vestir-cuerpo-relojdearena.jpeg)
+![tips3-vestir-cuerpo-relojdearena](/images/posts/tips3-vestir-cuerpo-relojdearena.jpeg)
 
 
 
@@ -168,7 +168,7 @@ Evita las prendas holgadas y que no marquen tu figura, elige abrigos con marting
 
 
 
-![tips-vestir-cuerpo-relojdearena](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips-vestir-cuerpo-relojdearena.jpeg)
+![tips-vestir-cuerpo-relojdearena](/images/posts/tips-vestir-cuerpo-relojdearena.jpeg)
 
 
 
@@ -178,7 +178,7 @@ Los escote en v son el mejor aliado del cuerpo reloj de arena, no dudes en utili
 
 
 
-![tips4-vestir-cuerpo-relojdearena](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips4-vestir-cuerpo-relojdearena.jpeg)
+![tips4-vestir-cuerpo-relojdearena](/images/posts/tips4-vestir-cuerpo-relojdearena.jpeg)
 
 
 
@@ -188,7 +188,7 @@ A la hora de utilizar pantalón elige el corte recto para incluso prolongar la f
 
 
 
-![tips2-vestir-cuerpo-relojdearena](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips2-vestir-cuerpo-relojdearena.jpeg)
+![tips2-vestir-cuerpo-relojdearena](/images/posts/tips2-vestir-cuerpo-relojdearena.jpeg)
 
 
 
@@ -200,7 +200,7 @@ Utiliza los vestidos al cuerpo, con texturas en la zona central para resaltar in
 
 
 
-![mujer-tipo-de-cuerpo-triangulo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/mujer-tipo-de-cuerpo-triangulo.jpeg)
+![mujer-tipo-de-cuerpo-triangulo](/images/posts/mujer-tipo-de-cuerpo-triangulo.jpeg)
 
 
 
@@ -218,7 +218,7 @@ Para disimular la parte inferior de tu silueta, te recomiendo colores oscuros y 
 
 
 
-![tips4-vestir-cuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips4-vestir-cuerpo-pera.jpeg)
+![tips4-vestir-cuerpo-pera](/images/posts/tips4-vestir-cuerpo-pera.jpeg)
 
 
 
@@ -228,7 +228,7 @@ Evita cinturones muy grandes en la zona de las caderas, ya que llevarás la aten
 
 
 
-![tips3-vestir-cuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips3-vestir-cuerpo-pera.jpeg)
+![tips3-vestir-cuerpo-pera](/images/posts/tips3-vestir-cuerpo-pera.jpeg)
 
 
 
@@ -238,7 +238,7 @@ Las estampas deben ir siempre en la parte superior del cuerpo, nunca en la infer
 
 
 
-![tips2-vestir-cuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips2-vestir-cuerpo-pera.jpeg)
+![tips2-vestir-cuerpo-pera](/images/posts/tips2-vestir-cuerpo-pera.jpeg)
 
 
 
@@ -248,7 +248,7 @@ A la hora de utilizar vestidos elegí aquellos que sean acampanados.
 
 
 
-![tips-vestir-cuerpo-pera](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips-vestir-cuerpo-pera.jpeg)
+![tips-vestir-cuerpo-pera](/images/posts/tips-vestir-cuerpo-pera.jpeg)
 
 
 
@@ -260,7 +260,7 @@ Utiliza las prendas superiores por encima de las prendas inferiores.
 
 
 
-![tipo-de-cuerpo-mujer-cuadrado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tipo-de-cuerpo-mujer-cuadrado.jpeg)
+![tipo-de-cuerpo-mujer-cuadrado](/images/posts/tipo-de-cuerpo-mujer-cuadrado.jpeg)
 
 
 
@@ -276,7 +276,7 @@ No optes por formatos de vestidos muy ajustados o entallados. Evita los tops str
 
 
 
-![tips-vestir-cuerpo-cuadrangular](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips-vestir-cuerpo-cuadrangular.jpeg)
+![tips-vestir-cuerpo-cuadrangular](/images/posts/tips-vestir-cuerpo-cuadrangular.jpeg)
 
 
 
@@ -286,7 +286,7 @@ No es recomendable el uso de strapless, ya que te hará lucir una figura mas cua
 
 
 
-![tips2-vestir-cuerpo-cuadrangular](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips2-vestir-cuerpo-cuadrangular.jpeg)
+![tips2-vestir-cuerpo-cuadrangular](/images/posts/tips2-vestir-cuerpo-cuadrangular.jpeg)
 
 
 
@@ -296,7 +296,7 @@ Utilizar motivos horizontales ayudan a generar una ilusión óptica en tu cintur
 
 
 
-![tips3-vestir-cuerpo-cuadrangular](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips3-vestir-cuerpo-cuadrangular.jpeg)
+![tips3-vestir-cuerpo-cuadrangular](/images/posts/tips3-vestir-cuerpo-cuadrangular.jpeg)
 
 
 
@@ -306,7 +306,7 @@ El escote profundo atraerá la atención de la zona que queremos remarcar, la ci
 
 
 
-![tips4-vestir-cuerpo-cuadrangular](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips4-vestir-cuerpo-cuadrangular.jpeg)
+![tips4-vestir-cuerpo-cuadrangular](/images/posts/tips4-vestir-cuerpo-cuadrangular.jpeg)
 
 
 
@@ -318,7 +318,7 @@ Un gran aliado de los cuerpos rectangulares es el corte imperio.
 
 
 
-![tipo-cuerpo-mujer-circular-o-manzana](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tipo-cuerpo-mujer-circular-o-manzana.jpeg)
+![tipo-cuerpo-mujer-circular-o-manzana](/images/posts/tipo-cuerpo-mujer-circular-o-manzana.jpeg)
 
 
 
@@ -334,7 +334,7 @@ Evita aquellas prendas que son ceñidas o ajustadas con muchos detalles en la zo
 
 
 
-![tips2-vestir-cuerpo-manzana](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips2-vestir-cuerpo-manzana.jpeg)
+![tips2-vestir-cuerpo-manzana](/images/posts/tips2-vestir-cuerpo-manzana.jpeg)
 
 
 
@@ -344,7 +344,7 @@ Los pantalones chupines realzan características negativas de nuestro cuerpo.
 
 
 
-![tips4-vestir-cuerpo-manzana](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips4-vestir-cuerpo-manzana.jpeg)
+![tips4-vestir-cuerpo-manzana](/images/posts/tips4-vestir-cuerpo-manzana.jpeg)
 
 
 
@@ -354,7 +354,7 @@ Utilizar rayas horizontales en la parte superior remarca mas la zona abdominal.
 
 
 
-![tips3-vestir-cuerpo-manzana](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips3-vestir-cuerpo-manzana.jpeg)
+![tips3-vestir-cuerpo-manzana](/images/posts/tips3-vestir-cuerpo-manzana.jpeg)
 
 
 
@@ -364,7 +364,7 @@ El vestido acampanado, o con la parte inferior ancha, nos ayuda a disimular la f
 
 
 
-![tips-vestir-cuerpo-manzana](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/tips-vestir-cuerpo-manzana.jpeg)
+![tips-vestir-cuerpo-manzana](/images/posts/tips-vestir-cuerpo-manzana.jpeg)
 
 
 

@@ -39,14 +39,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   ]
 
+  const staticUrls = new Set(staticPages.map((page) => page.url))
+
   // Obtener todas las categorías
   const categories = getAllCategories()
-  const categoryPages = categories.map(category => ({
-    url: `${baseUrl}/${category.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.8,
-  }))
+  const categoryPages = categories
+    .map(category => ({
+      url: `${baseUrl}/${category.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    }))
+    .filter((page) => !staticUrls.has(page.url))
 
   // Obtener todos los posts
   const posts = getAllPosts()

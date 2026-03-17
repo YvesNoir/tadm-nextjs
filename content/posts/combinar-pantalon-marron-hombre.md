@@ -27,7 +27,7 @@ coverImage: /images/posts/combinar-pantalon-marron-hombre.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/combinar-pantalon-marron-hombre.jpeg)
+![](/images/posts/combinar-pantalon-marron-hombre.jpeg)
 
 
 

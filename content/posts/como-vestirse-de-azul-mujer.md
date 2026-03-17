@@ -31,7 +31,7 @@ coverImage: /images/posts/como-vestirse-de-azul-mujer.jpg
 
 
 
-![vestirse-de-azul-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2023/01/vestirse-de-azul-mujer.jpg)
+![vestirse-de-azul-mujer](/images/posts/vestirse-de-azul-mujer.jpg)
 
 
 

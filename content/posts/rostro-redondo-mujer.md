@@ -25,7 +25,7 @@ coverImage: /images/posts/rostro-redondo-mujer.jpeg
 
 
 
-![rostro-redondo-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/rostro-redondo-mujer.jpeg)
+![rostro-redondo-mujer](/images/posts/rostro-redondo-mujer.jpeg)
 
 
 
@@ -67,7 +67,7 @@ Es sumamente importante, utilizar pendientes que no sean aros, y que sean vertic
 
 
 
-![mujeres-famosas-rostro-redondo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/mujeres-famosas-rostro-redondo.jpeg)
+![mujeres-famosas-rostro-redondo](/images/posts/mujeres-famosas-rostro-redondo.jpeg)
 
 
 

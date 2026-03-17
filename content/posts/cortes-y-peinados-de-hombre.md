@@ -22,7 +22,7 @@ coverImage: /images/posts/cortes-y-peinados-de-hombre.jpg
 
 
 
-![slider cortes y peinados de hombre](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/slider-cortes-y-peinados-de-hombre-1024x372.jpeg)
+![slider cortes y peinados de hombre](/images/posts/slider-cortes-y-peinados-de-hombre-1024x372.jpeg)
 
 
 
@@ -36,7 +36,7 @@ Nuestra primer galería pertenece al corte que mas de moda se encuentra en esta 
 
 
 
-![cortes degradado hombre](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cortes-degradado-hombre.jpeg)
+![cortes degradado hombre](/images/posts/cortes-degradado-hombre.jpeg)
 
 
 
@@ -46,7 +46,7 @@ Corte degradado lacio
 
 
 
-![corte-degradado-corto](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-corto.jpeg)
+![corte-degradado-corto](/images/posts/corte-degradado-corto.jpeg)
 
 
 
@@ -56,7 +56,7 @@ Corte degradado corto
 
 
 
-![corte-degradado-con-rizos](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-con-rizos.jpeg)
+![corte-degradado-con-rizos](/images/posts/corte-degradado-con-rizos.jpeg)
 
 
 
@@ -66,7 +66,7 @@ Corte degradado rizos medios
 
 
 
-![corte-degradado-medio](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-medio.jpeg)
+![corte-degradado-medio](/images/posts/corte-degradado-medio.jpeg)
 
 
 
@@ -76,7 +76,7 @@ Corte degradado parado corto
 
 
 
-![corte-degradado-levantado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-levantado.jpeg)
+![corte-degradado-levantado](/images/posts/corte-degradado-levantado.jpeg)
 
 
 
@@ -86,7 +86,7 @@ Corte degradado parado largo
 
 
 
-![corte-degradado-largo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-largo.jpeg)
+![corte-degradado-largo](/images/posts/corte-degradado-largo.jpeg)
 
 
 
@@ -96,7 +96,7 @@ Corte degradado largo
 
 
 
-![corte-degradado-jopo](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-jopo.jpeg)
+![corte-degradado-jopo](/images/posts/corte-degradado-jopo.jpeg)
 
 
 
@@ -106,7 +106,7 @@ Corte degradado con jopo
 
 
 
-![corte-degradado-rizado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-rizado.jpeg)
+![corte-degradado-rizado](/images/posts/corte-degradado-rizado.jpeg)
 
 
 
@@ -116,7 +116,7 @@ Corte degradado rizado
 
 
 
-![corte-degradado-militar](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-militar.jpeg)
+![corte-degradado-militar](/images/posts/corte-degradado-militar.jpeg)
 
 
 
@@ -126,7 +126,7 @@ Corte degradado militar
 
 
 
-![corte-degradado-con-desmechado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-degradado-con-desmechado.jpeg)
+![corte-degradado-con-desmechado](/images/posts/corte-degradado-con-desmechado.jpeg)
 
 
 
@@ -183,7 +183,7 @@ Los **cortes de pelo modernos hombres**, suelen tener una composición entre *
 
 
 
-![cortes-de-pelo-corto-al-costad](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cortes-de-pelo-corto-al-costad.jpeg)
+![cortes-de-pelo-corto-al-costad](/images/posts/cortes-de-pelo-corto-al-costad.jpeg)
 
 
 
@@ -193,7 +193,7 @@ Corte de pelo corto al costado
 
 
 
-![cortes-de-pelo-corto-parado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cortes-de-pelo-corto-parado.jpeg)
+![cortes-de-pelo-corto-parado](/images/posts/cortes-de-pelo-corto-parado.jpeg)
 
 
 
@@ -203,7 +203,7 @@ Corte de pelo corto alzado
 
 
 
-![corte-pelo-corto-hacia-atras](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-corto-hacia-atras.jpeg)
+![corte-pelo-corto-hacia-atras](/images/posts/corte-pelo-corto-hacia-atras.jpeg)
 
 
 
@@ -213,7 +213,7 @@ Corte de pelo corto hacia atrás
 
 
 
-![cortes-de-pelo-corto-claro](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cortes-de-pelo-corto-claro.jpeg)
+![cortes-de-pelo-corto-claro](/images/posts/cortes-de-pelo-corto-claro.jpeg)
 
 
 
@@ -223,7 +223,7 @@ Corte de pelo corto claro
 
 
 
-![cortes-de-pelo-corto-hombre](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/cortes-de-pelo-corto-hombre.jpeg)
+![cortes-de-pelo-corto-hombre](/images/posts/cortes-de-pelo-corto-hombre.jpeg)
 
 
 
@@ -237,7 +237,7 @@ Los **cortes de pelo largo**, si bien tiene su estilo como herencia del corte, 
 
 
 
-![corte-pelo-largo-cola-sujetada](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-largo-cola-sujetada.jpeg)
+![corte-pelo-largo-cola-sujetada](/images/posts/corte-pelo-largo-cola-sujetada.jpeg)
 
 
 
@@ -247,7 +247,7 @@ Corte sujetado cola de caballo
 
 
 
-![corte-pelo-largo-rodete](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-largo-rodete.jpeg)
+![corte-pelo-largo-rodete](/images/posts/corte-pelo-largo-rodete.jpeg)
 
 
 
@@ -257,7 +257,7 @@ Corte de pelo largo sujetado
 
 
 
-![corte-pelo-largo-hacia-el-costado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-largo-hacia-el-costado.jpeg)
+![corte-pelo-largo-hacia-el-costado](/images/posts/corte-pelo-largo-hacia-el-costado.jpeg)
 
 
 
@@ -267,7 +267,7 @@ Corte largo hacia el costado
 
 
 
-![corte-pelo-largo-hacia-atras](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-largo-hacia-atras.jpeg)
+![corte-pelo-largo-hacia-atras](/images/posts/corte-pelo-largo-hacia-atras.jpeg)
 
 
 
@@ -277,7 +277,7 @@ Corte largo hacia atrás
 
 
 
-![corte-largo-y-rapado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-largo-y-rapado.jpeg)
+![corte-largo-y-rapado](/images/posts/corte-largo-y-rapado.jpeg)
 
 
 
@@ -287,7 +287,7 @@ Corte largo con rapado
 
 
 
-![corte-largo-ondulado-al-medio](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-largo-ondulado-al-medio.jpeg)
+![corte-largo-ondulado-al-medio](/images/posts/corte-largo-ondulado-al-medio.jpeg)
 
 
 
@@ -297,7 +297,7 @@ Corte largo ondulado al medio
 
 
 
-![corte-pelo-largo-ondulado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-pelo-largo-ondulado.jpeg)
+![corte-pelo-largo-ondulado](/images/posts/corte-pelo-largo-ondulado.jpeg)
 
 
 
@@ -307,7 +307,7 @@ Corte largo ondulado hacia atrás
 
 
 
-![corte-largo-sujetado-claro](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/corte-largo-sujetado-claro.jpeg)
+![corte-largo-sujetado-claro](/images/posts/corte-largo-sujetado-claro.jpeg)
 
 
 
@@ -356,7 +356,7 @@ Lograr un corte degradado es posible luego de un poco de práctica, no obstante,
 
 
 
-![guia-corte-degradado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/guia-corte-degradado.jpeg)
+![guia-corte-degradado](/images/posts/guia-corte-degradado.jpeg)
 
 
 

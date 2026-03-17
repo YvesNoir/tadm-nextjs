@@ -15,7 +15,7 @@ coverImage: "/images/posts/ropa-deportiva-sostenible-un-compromiso-con-la-moda-y
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/12/ropa-deportiva-sostenible-904x1024.jpg)
+![](/images/posts/ropa-deportiva-sostenible-904x1024.jpg)
 
 
 

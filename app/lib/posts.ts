@@ -8,6 +8,105 @@ import { Post, Category } from '@/app/types';
 import { getCategoryBySlug } from './categories';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
+const postsImagesDirectory = path.join(process.cwd(), 'public/images/posts');
+const helperAssetPatterns = [
+  'icons8-',
+  'tadm-',
+  'que-gafas-',
+  'unas-para-vestido-negro',
+  'looks-para-embarazadas',
+  'outfit-azul-mujer-1',
+];
+
+function normalizeAssetName(value: string): string {
+  return decodeURIComponent(String(value || ''))
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9._-]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function readPostImageAssets(): string[] {
+  if (!fs.existsSync(postsImagesDirectory)) {
+    return [];
+  }
+
+  return fs.readdirSync(postsImagesDirectory);
+}
+
+function resolveLocalPostImage(postSlug: string, src: string): string | null {
+  if (!src) {
+    return null;
+  }
+
+  const cleanSrc = src.trim();
+  const isLegacyRemote = cleanSrc.startsWith('https://www.tuasesordemoda.com/wp-content/uploads/');
+  const isProjectImage = cleanSrc.startsWith('/images/posts/');
+
+  if (!isLegacyRemote && !isProjectImage) {
+    return null;
+  }
+
+  const fileName = cleanSrc.split('/').pop();
+  if (!fileName) {
+    return null;
+  }
+
+  const normalizedTarget = normalizeAssetName(fileName);
+  const normalizedSlug = normalizeAssetName(postSlug);
+  const imageAssets = readPostImageAssets();
+
+  const scoredMatches = imageAssets
+    .map((asset) => {
+      const normalizedAsset = normalizeAssetName(asset);
+      const isHelperAsset = helperAssetPatterns.some((pattern) => normalizedAsset.includes(pattern));
+      let score = 0;
+
+      if (normalizedAsset === normalizedTarget) {
+        score += 100;
+      }
+
+      if (normalizedAsset.endsWith(`-${normalizedTarget}`)) {
+        score += 80;
+      }
+
+      if (normalizedAsset.startsWith(`${normalizedSlug}-`)) {
+        score += 25;
+      }
+
+      if (normalizedAsset.includes(normalizedTarget.replace(/\.[^.]+$/, ''))) {
+        score += 10;
+      }
+
+      if (isHelperAsset) {
+        score -= 200;
+      }
+
+      return { asset, score };
+    })
+    .filter((candidate) => candidate.score >= 80)
+    .sort((left, right) => right.score - left.score);
+
+  if (scoredMatches.length === 0) {
+    return null;
+  }
+
+  return `/images/posts/${scoredMatches[0].asset}`;
+}
+
+function rewriteContentImageSources(content: string, postSlug: string): string {
+  return content
+    .replace(/!\[([^\]]*)\]\((https:\/\/www\.tuasesordemoda\.com\/wp-content\/uploads\/[^)]+)\)/g, (match, alt, src) => {
+      const localSrc = resolveLocalPostImage(postSlug, src);
+      return localSrc ? `![${alt}](${localSrc})` : match;
+    })
+    .replace(/(<img[^>]+src=")([^"]+)(")/g, (match, prefix, src, suffix) => {
+      const localSrc = resolveLocalPostImage(postSlug, src);
+      return localSrc ? `${prefix}${localSrc}${suffix}` : match;
+    });
+}
 
 const readPostSlugs = cache((): string[] => {
   if (!fs.existsSync(postsDirectory)) {
@@ -60,12 +159,14 @@ const readPostContent = cache(async (slug: string): Promise<string> => {
   const post = readPostBySlug(slug);
   if (!post) return '';
 
+  const contentWithLocalImages = rewriteContentImageSources(post.content, slug);
+
   const processedContent = await remark()
     .use(html, {
       sanitize: false,  // Allow raw HTML
       allowDangerousHtml: true  // Allow potentially dangerous HTML
     })
-    .process(post.content);
+    .process(contentWithLocalImages);
 
   return processedContent.toString();
 });

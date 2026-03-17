@@ -15,7 +15,7 @@ coverImage: "/images/posts/5-chanclas-para-hombre-para-disfrutar-del-verano.jpeg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/05/mejores-chanclas-hombres.jpeg)
+![](/images/posts/mejores-chanclas-hombres.jpeg)
 
 
 

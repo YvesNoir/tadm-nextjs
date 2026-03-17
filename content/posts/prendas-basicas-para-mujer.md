@@ -30,7 +30,7 @@ coverImage: /images/posts/prendas-basicas-para-mujer.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/prendas-basicas-mujer.jpeg)
+![](/images/posts/prendas-basicas-mujer.jpeg)
 
 
 

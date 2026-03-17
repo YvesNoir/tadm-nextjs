@@ -25,7 +25,7 @@ coverImage: /images/posts/rostro-ovalado.jpeg
 
 
 
-![rostro-ovalado-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/rostro-ovalado-mujer.jpeg)
+![rostro-ovalado-mujer](/images/posts/rostro-ovalado-mujer.jpeg)
 
 
 
@@ -49,7 +49,7 @@ Pero esto no quiere decir que no haya nada que podamos hacer para lucir mas bell
 
 
 
-![mujeres-famosas-rostro-ovalado](https://www.tuasesordemoda.com/wp-content/uploads/2022/10/mujeres-famosas-rostro-ovalado.jpeg)
+![mujeres-famosas-rostro-ovalado](/images/posts/mujeres-famosas-rostro-ovalado.jpeg)
 
 
 

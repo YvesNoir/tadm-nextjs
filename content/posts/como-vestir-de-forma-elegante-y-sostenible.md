@@ -15,7 +15,7 @@ coverImage: "/images/posts/como-vestir-de-forma-elegante-y-sostenible.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/09/ropa-sostenible.jpg)
+![](/images/posts/ropa-sostenible.jpg)
 
 
 

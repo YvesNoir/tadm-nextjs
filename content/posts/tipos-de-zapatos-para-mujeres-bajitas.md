@@ -15,7 +15,7 @@ coverImage: "/images/posts/tipos-de-zapatos-para-mujeres-bajitas.jpg"
 
 
 
-![zapatos-para-mujeres-bajitas](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapatos-para-mujeres-bajitas-1024x425.jpeg)
+![zapatos-para-mujeres-bajitas](/images/posts/zapatos-para-mujeres-bajitas-1024x425.jpeg)
 
 
 
@@ -62,7 +62,7 @@ Es una de las principales consideraciones a tener en cuenta. Tu aliado es el col
 
 
 
-![zapatos para bajitas stiletto](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapato-1.jpeg)
+![zapatos para bajitas stiletto](/images/posts/zapato-1.jpeg)
 
 
 
@@ -74,7 +74,7 @@ Son finos, elegantes, sofisticados, que podés combinar fácilmente con cualquie
 
 
 
-![zapatos para bajitas pumps](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapato-2.jpeg)
+![zapatos para bajitas pumps](/images/posts/zapato-2.jpeg)
 
 
 
@@ -86,7 +86,7 @@ Son un tipo de zapato muy alto y sexy. Para tus outfits de noche son una excelen
 
 
 
-![zapatos para bajitas sandalias](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapato-4.jpeg)
+![zapatos para bajitas sandalias](/images/posts/zapato-4.jpeg)
 
 
 
@@ -98,7 +98,7 @@ Las sandalias son excelentes para ganar altura. Existen muchos tipos, formas y d
 
 
 
-![zapatos para bajitas wedges](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/zapato-3.jpeg)
+![zapatos para bajitas wedges](/images/posts/zapato-3.jpeg)
 
 
 
@@ -110,7 +110,7 @@ Este tipo de calzado es muy útil para aquellos eventos que no requieran mucha e
 
 
 
-![zapatos para bajitas botas](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/botas-para-mujeres-bajitas.jpeg)
+![zapatos para bajitas botas](/images/posts/botas-para-mujeres-bajitas.jpeg)
 
 
 

@@ -30,7 +30,7 @@ coverImage: /images/posts/look-de-invierno-de-mujer.jpg
 
 
 
-![look-de-invierno-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/look-de-invierno-mujer.jpeg)
+![look-de-invierno-mujer](/images/posts/look-de-invierno-mujer.jpeg)
 
 
 
@@ -290,7 +290,7 @@ En vez de utilizar palabras y nombres para explicar cuáles son los colores que 
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/colores-invierno-otono-tendencia.jpeg)
+![](/images/posts/colores-invierno-otono-tendencia.jpeg)
 
 
 

@@ -30,7 +30,7 @@ coverImage: /images/posts/vender-cosas-que-no-utilizas-o-ya-no-te-pones-y-ganar-
 
 
 
-![vender-tu-ropa-usada](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/vender-tu-ropa-usada-1024x680.jpg)
+![vender-tu-ropa-usada](/images/posts/vender-tu-ropa-usada-1024x680.jpg)
 
 
 
@@ -46,7 +46,7 @@ Si lo que te detiene hasta el momento es el pensar en organizar un mercadillo, b
 
 
 
-![como-vender-tu-ropa-y-productos-usados](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/como-vender-tu-ropa-y-productos-usados-1024x765.jpg)
+![como-vender-tu-ropa-y-productos-usados](/images/posts/como-vender-tu-ropa-y-productos-usados-1024x765.jpg)
 
 
 
@@ -64,7 +64,7 @@ Al otro lado de tu teléfono móvil hay una gran cantidad de personas buscando g
 
 
 
-![como-vender-tu-ropa-y-productos-usados](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/como-vender-tu-ropa-y-productos-usados-1024x765.jpg)
+![como-vender-tu-ropa-y-productos-usados](/images/posts/como-vender-tu-ropa-y-productos-usados-1024x765.jpg)
 
 
 

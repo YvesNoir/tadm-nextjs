@@ -30,7 +30,7 @@ coverImage: /images/posts/outfits-con-zapatillas.jpg
 
 
 
-![looks-con-zapatillas-mujer](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/looks-con-zapatillas-mujer.jpeg)
+![looks-con-zapatillas-mujer](/images/posts/looks-con-zapatillas-mujer.jpeg)
 
 
 

@@ -15,7 +15,7 @@ coverImage: "/images/posts/piel-seca-en-invierno-esto-es-lo-que-hay-que-hacer-ef
 
 
 
-![consejos-para-la-piel-seca-en-invierno](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/consejos-para-la-piel-seca-en-invierno.jpg)
+![consejos-para-la-piel-seca-en-invierno](/images/posts/consejos-para-la-piel-seca-en-invierno.jpg)
 
 
 
@@ -39,7 +39,7 @@ El invierno afecta el cuerpo entero del humano, es bien sabido cómo afecta al s
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/10-consejos-para-evitar-piel-seca-en-invierno.jpg)
+![](/images/posts/10-consejos-para-evitar-piel-seca-en-invierno.jpg)
 
 
 

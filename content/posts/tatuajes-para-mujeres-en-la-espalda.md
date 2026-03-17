@@ -26,7 +26,7 @@ coverImage: /images/posts/tatuajes-para-mujeres-en-la-espalda.jpg
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-en-la-espalda-para-mujer.jpg)
+![](/images/posts/tatuajes-en-la-espalda-para-mujer.jpg)
 
 
 
@@ -49,27 +49,27 @@ Algunas mujeres prefieren tatuajes en la espalda baja, mientras que otras eligen
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujer-espalda.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/tatuaje-mujer-espalda.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujeres-espalda.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/tatuaje-mujeres-espalda.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-para-mujeres-espalda.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/tatuaje-para-mujeres-espalda.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-para-mujeres-espalda.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/tatuajes-para-mujeres-espalda.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-para-mujeres-en-espalda.jpg" alt="outfit-primavera-look-5">
+<img src="/images/posts/tatuajes-para-mujeres-en-espalda.jpg" alt="outfit-primavera-look-5">
 <figcaption>outfit-primavera-look-5</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-para-mujeres-en-la-espalda.jpg" alt="outfit-primavera-look-6">
+<img src="/images/posts/tatuajes-para-mujeres-en-la-espalda.jpg" alt="outfit-primavera-look-6">
 <figcaption>outfit-primavera-look-6</figcaption>
 </figure>
 </div>
@@ -93,27 +93,27 @@ Puedes elegir entre mariposas realistas o estilizadas, y personalizar los colore
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujeres-mariposa-espalda.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/tatuaje-mujeres-mariposa-espalda.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujeres-mariposa-en-la-espalda.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/tatuaje-mujeres-mariposa-en-la-espalda.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujeres-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/tatuaje-mujeres-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/tatuaje-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-5">
+<img src="/images/posts/tatuajes-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-5">
 <figcaption>outfit-primavera-look-5</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuajes-para-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-6">
+<img src="/images/posts/tatuajes-para-mujeres-de-mariposas-en-la-espalda.jpg" alt="outfit-primavera-look-6">
 <figcaption>outfit-primavera-look-6</figcaption>
 </figure>
 </div>
@@ -137,27 +137,27 @@ Las opciones de diseño son amplias, desde rosas hasta lirios y margaritas. Pued
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-flores-espalda-mujer.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/tatuaje-flores-espalda-mujer.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-flores-en-la-espalda-mujeres.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/tatuaje-flores-en-la-espalda-mujeres.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-de-flores-en-la-espalda-mujeres.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/tatuaje-de-flores-en-la-espalda-mujeres.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-de-flores-en-la-espalda-mujer.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/tatuaje-de-flores-en-la-espalda-mujer.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-de-flores-en-la-espalda-para-mujer.jpg" alt="outfit-primavera-look-5">
+<img src="/images/posts/tatuaje-de-flores-en-la-espalda-para-mujer.jpg" alt="outfit-primavera-look-5">
 <figcaption>outfit-primavera-look-5</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/tatuaje-de-flores-en-la-espalda-para-mujeres.jpg" alt="outfit-primavera-look-6">
+<img src="/images/posts/tatuaje-de-flores-en-la-espalda-para-mujeres.jpg" alt="outfit-primavera-look-6">
 <figcaption>outfit-primavera-look-6</figcaption>
 </figure>
 </div>
@@ -181,27 +181,27 @@ Algunas ideas incluyen “vive la vida al máximo”, “sé valiente” o “si
 <div class="gallery-title">Inspiración de looks para esta temporada</div>
 <div class="gallery-grid">
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/ideas-tatuajes-espalda.jpg" alt="outfit-primavera-look-1">
+<img src="/images/posts/ideas-tatuajes-espalda.jpg" alt="outfit-primavera-look-1">
 <figcaption>outfit-primavera-look-1</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/frases-tatuajes-espalda.jpg" alt="outfit-primavera-look-2">
+<img src="/images/posts/frases-tatuajes-espalda.jpg" alt="outfit-primavera-look-2">
 <figcaption>outfit-primavera-look-2</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/frase-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-3">
+<img src="/images/posts/frase-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-3">
 <figcaption>outfit-primavera-look-3</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/frases-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-4">
+<img src="/images/posts/frases-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-4">
 <figcaption>outfit-primavera-look-4</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/ideas-de-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-5">
+<img src="/images/posts/ideas-de-tatuajes-en-la-espalda.jpg" alt="outfit-primavera-look-5">
 <figcaption>outfit-primavera-look-5</figcaption>
 </figure>
 <figure class="gallery-item">
-<img src="https://www.tuasesordemoda.com/wp-content/uploads/2023/10/frase-mujer-tatuaje-espalda.jpg" alt="outfit-primavera-look-6">
+<img src="/images/posts/frase-mujer-tatuaje-espalda.jpg" alt="outfit-primavera-look-6">
 <figcaption>outfit-primavera-look-6</figcaption>
 </figure>
 </div>

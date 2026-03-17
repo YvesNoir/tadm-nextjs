@@ -42,7 +42,7 @@ A continuación traemos algunos ejemplos de combinaciones de prendas con pantal�
 
 
 
-![Look-con-pantalon-celeste](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/Look-con-pantalon-celeste.jpeg)
+![Look-con-pantalon-celeste](/images/posts/Look-con-pantalon-celeste.jpeg)
 
 
 
@@ -54,7 +54,7 @@ Combina tu pantalón celeste con una remera del mismo tono para un look monocrom
 
 
 
-![combinar-pantalon-celeste](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/combinar-pantalon-celeste.jpeg)
+![combinar-pantalon-celeste](/images/posts/combinar-pantalon-celeste.jpeg)
 
 
 
@@ -66,7 +66,7 @@ Para una salida de fin de semana elegí un **outfit con pantalón celeste** aju
 
 
 
-![Outfit-con-pantalon-celeste](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/Outfit-con-pantalon-celeste.jpeg)
+![Outfit-con-pantalon-celeste](/images/posts/Outfit-con-pantalon-celeste.jpeg)
 
 
 
@@ -78,7 +78,7 @@ Para una salida de fin de semana elegí un **outfit con pantalón celeste** aju
 
 
 
-![Como-combinar-pantalon-celeste](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/Como-combinar-pantalon-celeste.jpeg)
+![Como-combinar-pantalon-celeste](/images/posts/Como-combinar-pantalon-celeste.jpeg)
 
 
 
@@ -90,7 +90,7 @@ Lleva un **outfit con pantalón celeste** a la oficina, donde podes combinarlo
 
 
 
-![Outfit-pantalon-celeste](https://www.tuasesordemoda.com/wp-content/uploads/2022/12/Outfit-pantalon-celeste-683x1024.jpeg)
+![Outfit-pantalon-celeste](/images/posts/Outfit-pantalon-celeste-683x1024.jpeg)
 
 
 

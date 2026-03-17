@@ -15,7 +15,7 @@ coverImage: "/images/posts/manual-de-estilo-el-vestido-midi-cortefiel.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/06/vestido-midi.jpg)
+![](/images/posts/vestido-midi.jpg)
 
 
 

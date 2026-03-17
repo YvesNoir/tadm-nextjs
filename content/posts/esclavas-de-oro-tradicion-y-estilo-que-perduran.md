@@ -15,7 +15,7 @@ coverImage: "/images/posts/esclavas-de-oro-tradicion-y-estilo-que-perduran.jpg"
 
 
 
-![](https://www.tuasesordemoda.com/wp-content/uploads/2025/05/esclavas-de-oro-hombre-1024x579.jpg)
+![](/images/posts/esclavas-de-oro-hombre-1024x579.jpg)
 
 
 

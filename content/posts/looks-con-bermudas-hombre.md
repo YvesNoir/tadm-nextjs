@@ -26,7 +26,7 @@ coverImage: /images/posts/looks-con-bermudas-hombre.png
 
 
 
-![looks con bermuda para hombres](https://www.tuasesordemoda.com/wp-content/uploads/2022/11/looks-con-bermuda-para-hombres.jpeg)
+![looks con bermuda para hombres](/images/posts/looks-con-bermuda-para-hombres.jpeg)
 
 
 
