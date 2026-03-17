@@ -1,15 +1,30 @@
 ---
-title: "¿cómo combinar zapatos marrones para hombre?"
-excerpt: "Quieres aprender a COMBINAR ZAPATOS MARRONES?, te aconsejamos sobre como usar zapatos marrón CAFÉ, marrón claro y oscuro ✨ Ingresa para más ..."
-date: "2023-02-02"
-author: "TuAsesorDeModa"
-categories: ["hombre"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "vestimenta", "complementos", "verano", "invierno", "casual"]
-featured: "true"
-seoTitle: "Cómo combinar zapatos marrones hombre, outfit - 2023"
-seoDescription: "Quieres aprender a COMBINAR ZAPATOS MARRONES?, te aconsejamos sobre como usar zapatos marrón CAFÉ, marrón claro y oscuro ✨ Ingresa para más ..."
-originalUrl: "https://www.tuasesordemoda.com/combinar-zapatos-marrones/"
-coverImage: "/images/posts/combinar-zapatos-marrones.jpg"
+title: ¿cómo combinar zapatos marrones para hombre?
+excerpt: >-
+  Quieres aprender a COMBINAR ZAPATOS MARRONES?, te aconsejamos sobre como usar
+  zapatos marrón CAFÉ, marrón claro y oscuro ✨ Ingresa para más ...
+date: '2023-02-02'
+author: TuAsesorDeModa
+categories:
+  - hombre
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - vestimenta
+  - complementos
+  - verano
+  - invierno
+  - casual
+featured: 'true'
+seoTitle: 'Cómo combinar zapatos marrones hombre, outfit'
+seoDescription: >-
+  Quieres aprender a COMBINAR ZAPATOS MARRONES?, te aconsejamos sobre como usar
+  zapatos marrón CAFÉ, marrón claro y oscuro ✨ Ingresa para más ...
+originalUrl: 'https://www.tuasesordemoda.com/combinar-zapatos-marrones/'
+coverImage: /images/posts/combinar-zapatos-marrones.jpg
 ---
 
 

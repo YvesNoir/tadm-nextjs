@@ -1,15 +1,30 @@
 ---
-title: "Looks para bautizo"
-excerpt: "Los mejores looks y outfits para llevar a un bautizo, ya seas madrina, mama o invitada, estas son las mejores ideas de vestimenta para un bautizo..."
-date: "2022-10-27"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "tendencias", "outfit", "look", "ropa", "accesorios", "complementos", "verano", "invierno"]
-featured: "true"
-seoTitle: "Outfits para bautizo, mama, madrina, vestidos [2025 ]"
-seoDescription: "Los mejores looks y outfits para llevar a un bautizo, ya seas madrina, mama o invitada, estas son las mejores ideas de vestimenta para un bautizo..."
-originalUrl: "https://www.tuasesordemoda.com/looks-bautizo/"
-coverImage: "/images/posts/looks-bautizo.jpg"
+title: Looks para bautizo
+excerpt: >-
+  Los mejores looks y outfits para llevar a un bautizo, ya seas madrina, mama o
+  invitada, estas son las mejores ideas de vestimenta para un bautizo...
+date: '2022-10-27'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - tendencias
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - verano
+  - invierno
+featured: 'true'
+seoTitle: 'Outfits para bautizo, mama, madrina, vestidos'
+seoDescription: >-
+  Los mejores looks y outfits para llevar a un bautizo, ya seas madrina, mama o
+  invitada, estas son las mejores ideas de vestimenta para un bautizo...
+originalUrl: 'https://www.tuasesordemoda.com/looks-bautizo/'
+coverImage: /images/posts/looks-bautizo.jpg
 ---
 
 

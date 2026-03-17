@@ -1,15 +1,31 @@
 ---
-title: "Vestirse de azul"
-excerpt: "Le traemos un artículo con todos los detalles sobre como vestir de azul para mujer, vestidos, pantalón azul marino y mucho más... click aquí"
-date: "2023-06-11"
-author: "TuAsesorDeModa"
-categories: ["mujer", "belleza", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "accesorios", "casual", "formal", "elegante"]
-featured: "true"
-seoTitle: "Vestirse de azul, outfit, looks, azul rey [2025 ]"
-seoDescription: "Le traemos un artículo con todos los detalles sobre como vestir de azul para mujer, vestidos, pantalón azul marino y mucho más... click aquí"
-originalUrl: "https://www.tuasesordemoda.com/como-vestirse-de-azul-mujer/"
-coverImage: "/images/posts/como-vestirse-de-azul-mujer.jpg"
+title: Vestirse de azul
+excerpt: >-
+  Le traemos un artículo con todos los detalles sobre como vestir de azul para
+  mujer, vestidos, pantalón azul marino y mucho más... click aquí
+date: '2023-06-11'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - belleza
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - casual
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: 'Vestirse de azul, outfit, looks, azul rey'
+seoDescription: >-
+  Le traemos un artículo con todos los detalles sobre como vestir de azul para
+  mujer, vestidos, pantalón azul marino y mucho más... click aquí
+originalUrl: 'https://www.tuasesordemoda.com/como-vestirse-de-azul-mujer/'
+coverImage: /images/posts/como-vestirse-de-azul-mujer.jpg
 ---
 
 

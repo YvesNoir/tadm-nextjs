@@ -1,15 +1,22 @@
 ---
-title: "Tatuajes para mujer en el brazo"
-excerpt: "Encuentra la mejor galería de diseños e ideas para tu próximo tatuaje en el brazo, significados, pequeños, grandes y más, visite aquí..."
-date: "2022-12-07"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo"]
-featured: "true"
-seoTitle: "Tatuajes para mujer en el brazo, significado, diseño 2025"
-seoDescription: "Encuentra la mejor galería de diseños e ideas para tu próximo tatuaje en el brazo, significados, pequeños, grandes y más, visite aquí..."
-originalUrl: "https://www.tuasesordemoda.com/tatuajes-para-mujer-en-el-brazo/"
-coverImage: "/images/posts/tatuajes-para-mujer-en-el-brazo.jpg"
+title: Tatuajes para mujer en el brazo
+excerpt: >-
+  Encuentra la mejor galería de diseños e ideas para tu próximo tatuaje en el
+  brazo, significados, pequeños, grandes y más, visite aquí...
+date: '2022-12-07'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+featured: 'true'
+seoTitle: 'Tatuajes para mujer en el brazo, significado, diseño'
+seoDescription: >-
+  Encuentra la mejor galería de diseños e ideas para tu próximo tatuaje en el
+  brazo, significados, pequeños, grandes y más, visite aquí...
+originalUrl: 'https://www.tuasesordemoda.com/tatuajes-para-mujer-en-el-brazo/'
+coverImage: /images/posts/tatuajes-para-mujer-en-el-brazo.jpg
 ---
 
 

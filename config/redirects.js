@@ -30,7 +30,7 @@ export const REDIRECTS_MAP = {
   "cosmetica-ecologica-coherente": "recomendaciones",
   "cuales-son-los-tipos-de-plata-que-existen": "recomendaciones",
   "descubre-como-funciona-efimero-club-bolsos-de-lujo-por-suscripcion": "recomendaciones",
-  "disenadores-de-moda-milan": "moda",
+  "disenadores-de-moda-milan": "mujer",
   "esclavas-de-oro-tradicion-y-estilo-que-perduran": "recomendaciones",
   "la-moda-sostenible-esta-en-pleno-auge": "recomendaciones",
   "la-rutina-de-limpieza-facial-que-mas-notara-tu-rostro": "recomendaciones",

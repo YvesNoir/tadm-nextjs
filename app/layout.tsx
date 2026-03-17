@@ -1,25 +1,20 @@
 import type { Metadata } from "next";
-import { Inter, Abril_Fatface } from "next/font/google";
-import { Plus_Jakarta_Sans, Source_Sans_3 } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
+import { inter, ebGaramond, sourceSans3 } from "./lib/fonts";
 
-const inter = Inter({ subsets: ["latin"] });
-const abrilFatface = Abril_Fatface({
-  weight: "400",
-  subsets: ["latin"],
-  variable: "--font-abril-fatface"
-});
-const plusJakartaSans = Plus_Jakarta_Sans({
-  subsets: ["latin"],
-  variable: "--font-plus-jakarta-sans"
-});
-const sourceSans3 = Source_Sans_3({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-  variable: "--font-source-sans-3"
-});
+const gtmId = "GTM-TF78BK6";
+const adsenseClient = "ca-pub-2816862233382229";
+
+const verification = {
+  ...((process.env.GOOGLE_SITE_VERIFICATION || 'dAsA-KKWhJ41MKQ8c3J6CU0zzqajQw9w-8E0q4d1GbA')
+    ? { google: process.env.GOOGLE_SITE_VERIFICATION || 'dAsA-KKWhJ41MKQ8c3J6CU0zzqajQw9w-8E0q4d1GbA' }
+    : {}),
+  ...(process.env.YANDEX_VERIFICATION ? { yandex: process.env.YANDEX_VERIFICATION } : {}),
+  ...(process.env.YAHOO_SITE_VERIFICATION ? { yahoo: process.env.YAHOO_SITE_VERIFICATION } : {}),
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.tuasesordemoda.com'),
@@ -76,11 +71,7 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  verification: {
-    google: 'add-your-google-verification-code-here',
-    yandex: 'add-your-yandex-verification-code-here',
-    yahoo: 'add-your-yahoo-verification-code-here',
-  },
+  verification,
 };
 
 export default function RootLayout({
@@ -89,8 +80,32 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es">
-      <body className={`${inter.className} ${abrilFatface.variable} ${plusJakartaSans.variable} ${sourceSans3.variable} antialiased bg-white`}>
+    <html lang="es" suppressHydrationWarning>
+      <head>
+        <Script id="google-tag-manager" strategy="afterInteractive">
+          {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','${gtmId}');`}
+        </Script>
+        <Script
+          id="google-adsense"
+          async
+          strategy="afterInteractive"
+          crossOrigin="anonymous"
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
+        />
+      </head>
+      <body className={`${inter.className} ${inter.variable} ${ebGaramond.variable} ${sourceSans3.variable} antialiased bg-white`}>
+        <noscript>
+          <iframe
+            src={`https://www.googletagmanager.com/ns.html?id=${gtmId}`}
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+          />
+        </noscript>
         <div className="min-h-screen flex flex-col">
           <Header />
           <main className="flex-1">

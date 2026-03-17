@@ -1,15 +1,30 @@
 ---
-title: "Outfit hombre"
-excerpt: "Aprende con cientos de outfits como vestirte, muchos looks e ideas de outfits casuales, formales, por temporada y más... visite aquí"
-date: "2022-10-27"
-author: "TuAsesorDeModa"
-categories: ["hombre"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "vestimenta", "accesorios", "complementos", "temporada", "verano"]
-featured: "true"
-seoTitle: "🥇 outfit hombre - casual / formal, looks, imágenes [2025 ]"
-seoDescription: "Aprende con cientos de outfits como vestirte, muchos looks e ideas de outfits casuales, formales, por temporada y más... visite aquí"
-originalUrl: "https://www.tuasesordemoda.com/outfit-hombre/"
-coverImage: "/images/posts/outfit-hombre.jpg"
+title: Outfit hombre
+excerpt: >-
+  Aprende con cientos de outfits como vestirte, muchos looks e ideas de outfits
+  casuales, formales, por temporada y más... visite aquí
+date: '2022-10-27'
+author: TuAsesorDeModa
+categories:
+  - hombre
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - vestimenta
+  - accesorios
+  - complementos
+  - temporada
+  - verano
+featured: 'true'
+seoTitle: "\U0001F947 outfit hombre - casual / formal, looks, imágenes"
+seoDescription: >-
+  Aprende con cientos de outfits como vestirte, muchos looks e ideas de outfits
+  casuales, formales, por temporada y más... visite aquí
+originalUrl: 'https://www.tuasesordemoda.com/outfit-hombre/'
+coverImage: /images/posts/outfit-hombre.jpg
 ---
 
 

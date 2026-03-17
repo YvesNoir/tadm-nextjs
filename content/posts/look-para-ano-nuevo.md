@@ -1,15 +1,27 @@
 ---
-title: "Looks para año nuevo"
-excerpt: "Encuentra los mejores looks y outfits para año nuevo, vestidos, short, casuales, formales y mucho más, visite aquí..."
-date: "2022-11-02"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "outfit", "look", "vestimenta", "formal", "elegante"]
-featured: "true"
-seoTitle: "Outfit año nuevo mujer, looks, ropa, colores, vestidos 2025"
-seoDescription: "Encuentra los mejores looks y outfits para año nuevo, vestidos, short, casuales, formales y mucho más, visite aquí..."
-originalUrl: "https://www.tuasesordemoda.com/look-para-ano-nuevo/"
-coverImage: "/images/posts/look-para-ano-nuevo.jpg"
+title: Looks para año nuevo
+excerpt: >-
+  Encuentra los mejores looks y outfits para año nuevo, vestidos, short,
+  casuales, formales y mucho más, visite aquí...
+date: '2022-11-02'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - vestimenta
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: 'Outfit año nuevo mujer, looks, ropa, colores, vestidos'
+seoDescription: >-
+  Encuentra los mejores looks y outfits para año nuevo, vestidos, short,
+  casuales, formales y mucho más, visite aquí...
+originalUrl: 'https://www.tuasesordemoda.com/look-para-ano-nuevo/'
+coverImage: /images/posts/look-para-ano-nuevo.jpg
 ---
 
 

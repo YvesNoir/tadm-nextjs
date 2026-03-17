@@ -1,15 +1,29 @@
 ---
-title: "Outfit de verano para hombre"
-excerpt: "Todos los tips para looks y outfits de verano para hombre, formales, casuales, para boda, playa y más, viste aquí..."
-date: "2022-10-30"
-author: "TuAsesorDeModa"
-categories: ["hombre", "zapatos"]
-tags: ["moda", "outfit", "look", "temporada", "verano", "primavera", "casual", "formal"]
-featured: "true"
-seoTitle: "Outfit verano hombre, playa, looks, formal [2025 ]"
-seoDescription: "Todos los tips para looks y outfits de verano para hombre, formales, casuales, para boda, playa y más, viste aquí..."
-originalUrl: "https://www.tuasesordemoda.com/outfit-verano-hombre/"
-coverImage: "/images/posts/outfit-verano-hombre.jpg"
+title: Outfit de verano para hombre
+excerpt: >-
+  Todos los tips para looks y outfits de verano para hombre, formales, casuales,
+  para boda, playa y más, viste aquí...
+date: '2022-10-30'
+author: TuAsesorDeModa
+categories:
+  - hombre
+  - zapatos
+tags:
+  - moda
+  - outfit
+  - look
+  - temporada
+  - verano
+  - primavera
+  - casual
+  - formal
+featured: 'true'
+seoTitle: 'Outfit verano hombre, playa, looks, formal'
+seoDescription: >-
+  Todos los tips para looks y outfits de verano para hombre, formales, casuales,
+  para boda, playa y más, viste aquí...
+originalUrl: 'https://www.tuasesordemoda.com/outfit-verano-hombre/'
+coverImage: /images/posts/outfit-verano-hombre.jpg
 ---
 
 

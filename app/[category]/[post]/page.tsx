@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getPostBySlug, getPostContent, getRelatedPosts } from '@/app/lib/posts';
+import { getAllPosts, getPostBySlug, getPostContent, getPostPath, getRelatedPosts } from '@/app/lib/posts';
 import { getCategoryBySlug } from '@/app/lib/categories';
 import { Metadata } from 'next';
 import TableOfContents from '@/app/components/blog/TableOfContents';
@@ -27,8 +27,27 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
   return {
     title: postData.seoTitle || `${postData.title} - TuAsesorDeModa`,
     description: postData.seoDescription || postData.excerpt,
+    alternates: {
+      canonical: getPostPath(postData.slug),
+    },
+    openGraph: {
+      url: getPostPath(postData.slug),
+    },
   };
 }
+
+export function generateStaticParams() {
+  return getAllPosts()
+    .filter((post) => post.status === 'published')
+    .flatMap((post) =>
+      post.categories.map((category) => ({
+        category: category.slug,
+        post: post.slug,
+      }))
+    );
+}
+
+export const dynamicParams = false;
 
 export default async function PostPage({ params }: PostPageProps) {
   const { category, post } = await params;
@@ -71,8 +90,7 @@ export default async function PostPage({ params }: PostPageProps) {
             <article>
               {/* Post Header */}
               <header className="mb-8">
-                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary mb-6 leading-tight"
-                    style={{ fontFamily: 'Abril Fatface, serif' }}>
+                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary mb-6 leading-tight">
                   {postData.title}
                 </h1>
 
@@ -127,7 +145,7 @@ export default async function PostPage({ params }: PostPageProps) {
               </footer>
 
               {/* Related Posts */}
-              <RelatedPosts posts={relatedPosts} currentCategory={category} />
+              <RelatedPosts posts={relatedPosts} />
             </article>
           </div>
 

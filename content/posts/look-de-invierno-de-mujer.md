@@ -1,15 +1,30 @@
 ---
-title: "Outfit de invierno mujer"
-excerpt: "Visita nuestra nota y aprende todo lo que tienes que saber sobre la moda en este otoño / invierno, CLICK PARA VER MÁS..."
-date: "2022-11-14"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "tendencias", "outfit", "look", "fashion", "ropa", "accesorios", "temporada", "verano"]
-featured: "true"
-seoTitle: "Outfit invierno, looks, tendencias!, prendas, faldas [2025 ]"
-seoDescription: "Visita nuestra nota y aprende todo lo que tienes que saber sobre la moda en este otoño / invierno, CLICK PARA VER MÁS..."
-originalUrl: "https://www.tuasesordemoda.com/look-de-invierno-de-mujer/"
-coverImage: "/images/posts/look-de-invierno-de-mujer.jpg"
+title: Outfit de invierno mujer
+excerpt: >-
+  Visita nuestra nota y aprende todo lo que tienes que saber sobre la moda en
+  este otoño / invierno, CLICK PARA VER MÁS...
+date: '2022-11-14'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - tendencias
+  - outfit
+  - look
+  - fashion
+  - ropa
+  - accesorios
+  - temporada
+  - verano
+featured: 'true'
+seoTitle: 'Outfit invierno, looks, tendencias!, prendas, faldas'
+seoDescription: >-
+  Visita nuestra nota y aprende todo lo que tienes que saber sobre la moda en
+  este otoño / invierno, CLICK PARA VER MÁS...
+originalUrl: 'https://www.tuasesordemoda.com/look-de-invierno-de-mujer/'
+coverImage: /images/posts/look-de-invierno-de-mujer.jpg
 ---
 
 

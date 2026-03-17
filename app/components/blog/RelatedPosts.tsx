@@ -1,12 +1,14 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { Post } from '@/app/types';
+import { getPostPath } from '@/app/lib/posts';
+import { ebGaramond } from '@/app/lib/fonts';
 
 interface RelatedPostsProps {
   posts: Post[];
-  currentCategory: string;
 }
 
-export default function RelatedPosts({ posts, currentCategory }: RelatedPostsProps) {
+export default function RelatedPosts({ posts }: RelatedPostsProps) {
   if (posts.length === 0) return null;
 
   return (
@@ -21,14 +23,17 @@ export default function RelatedPosts({ posts, currentCategory }: RelatedPostsPro
             key={post.id}
             className="bg-white rounded-[10px] shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
           >
-            <Link href={`/${currentCategory}/${post.slug}`}>
+            <Link href={getPostPath(post.slug)}>
               <div className="cursor-pointer">
                 {/* Featured Image */}
                 <div className="relative">
                   {post.coverImage ? (
-                    <img
+                    <Image
                       src={post.coverImage}
                       alt={post.title}
+                      width={1200}
+                      height={800}
+                      sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 33vw"
                       className="w-full h-48 object-cover rounded-t-[10px]"
                     />
                   ) : (
@@ -47,9 +52,10 @@ export default function RelatedPosts({ posts, currentCategory }: RelatedPostsPro
 
                 {/* Content */}
                 <div className="p-4">
-                  <h4 className="text-lg font-semibold text-primary mb-2 line-clamp-2 leading-tight capitalize"
-                      style={{ fontFamily: 'Abril Fatface, serif' }}>
-                    {post.title.toLowerCase()}
+                  <h4 className={`${ebGaramond.className} text-lg font-semibold text-primary mb-2 line-clamp-2 leading-tight capitalize`}>
+                    <span className={`${ebGaramond.className} font-[inherit]`}>
+                      {post.title.toLowerCase()}
+                    </span>
                   </h4>
 
                   <p className="text-sm text-gray-600 mb-3 line-clamp-2">

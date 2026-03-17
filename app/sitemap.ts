@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next'
-import { getAllPosts } from './lib/posts'
+import { getAllPosts, getPostPath } from './lib/posts'
 import { getAllCategories } from './lib/categories'
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -50,15 +50,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Obtener todos los posts
   const posts = getAllPosts()
-  const postPages = posts.map(post => {
-    const categorySlug = post.categories?.[0]?.slug || 'mujer'
-    return {
-      url: `${baseUrl}/${categorySlug}/${post.slug}`,
-      lastModified: post.updatedAt || post.publishedAt,
-      changeFrequency: 'weekly' as const,
-      priority: post.featured ? 0.8 : 0.6,
-    }
-  })
+  const postPages = posts.map(post => ({
+    url: `${baseUrl}${getPostPath(post.slug)}`,
+    lastModified: post.updatedAt || post.publishedAt,
+    changeFrequency: 'weekly' as const,
+    priority: post.featured ? 0.8 : 0.6,
+  }))
 
   return [...staticPages, ...categoryPages, ...postPages]
 }

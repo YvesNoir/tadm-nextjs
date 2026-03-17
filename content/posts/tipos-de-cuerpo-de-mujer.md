@@ -1,15 +1,22 @@
 ---
-title: "Tipos de cuerpo de mujer"
-excerpt: "Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo, Visite este artículo para leer consejos sobre cada tipo..."
-date: "2022-10-27"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "outfit"]
-featured: "true"
-seoTitle: "Tipos de cuerpo mujer, ¿cómo saber cuál tengo? [2025 ]"
-seoDescription: "Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo, Visite este artículo para leer consejos sobre cada tipo..."
-originalUrl: "https://www.tuasesordemoda.com/tipos-de-cuerpo-de-mujer/"
-coverImage: "/images/posts/tipos-de-cuerpo-de-mujer.jpg"
+title: Tipos de cuerpo de mujer
+excerpt: >-
+  Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo,
+  Visite este artículo para leer consejos sobre cada tipo...
+date: '2022-10-27'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - outfit
+featured: 'true'
+seoTitle: 'Tipos de cuerpo mujer, ¿cómo saber cuál tengo?'
+seoDescription: >-
+  Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo,
+  Visite este artículo para leer consejos sobre cada tipo...
+originalUrl: 'https://www.tuasesordemoda.com/tipos-de-cuerpo-de-mujer/'
+coverImage: /images/posts/tipos-de-cuerpo-de-mujer.jpg
 ---
 
 

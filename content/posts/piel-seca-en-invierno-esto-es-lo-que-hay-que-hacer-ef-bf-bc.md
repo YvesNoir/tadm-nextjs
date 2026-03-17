@@ -1,13 +1,13 @@
 ---
-title: "¿piel seca en invierno? Esto es lo que hay que hacer"
-excerpt: "¿Piel seca en invierno? Esto es lo que hay que hacer El invierno afecta el cuerpo entero del humano, es bien sabido cómo afecta al sistema respiratorio y a los huesos, pero no debemos olvidarnos de la piel, los cosméticos naturales pueden ayudarnos significativamente, por esto, aquí les traemos un cupon descuento Freshly Cosmetics para comprar … ¿Piel seca en invierno? Esto es lo que hay que hacer￼ Leer más »"
+title: "¿Piel seca en invierno? Esto es lo que hay que hacer"
+excerpt: "¿Piel seca en invierno? Esto es lo que hay que hacer. El invierno afecta el cuerpo entero, pero no debemos olvidarnos de la piel. Aquí reunimos consejos concretos para cuidarla durante la temporada fría."
 date: "2022-12-16"
 author: "TuAsesorDeModa"
 categories: ["recomendaciones"]
 tags: ["moda", "ropa", "verano", "invierno"]
 featured: "true"
-seoTitle: "¿piel seca en invierno? Esto es lo que hay que hacer￼ - tu asesor de moda"
-seoDescription: "¿Piel seca en invierno? Esto es lo que hay que hacer El invierno afecta el cuerpo entero del humano, es bien sabido cómo afecta al sistema respiratorio y a los huesos, pero no debemos olvidarnos de la piel, los cosméticos naturales pueden ayudarnos significativamente, por esto, aquí les traemos un cupon descuento Freshly Cosmetics para comprar … ¿Piel seca en invierno? Esto es lo que hay que hacer￼ Leer más »"
+seoTitle: "¿Piel seca en invierno? Esto es lo que hay que hacer - Tu Asesor de Moda"
+seoDescription: "Consejos para evitar la piel seca en invierno: hidratación, cuidado diario, protección solar, alimentación y hábitos que ayudan a mantener la piel sana."
 originalUrl: "https://www.tuasesordemoda.com/piel-seca-en-invierno-esto-es-lo-que-hay-que-hacer%ef%bf%bc/"
 coverImage: "/images/posts/piel-seca-en-invierno-esto-es-lo-que-hay-que-hacer-ef-bf-bc.jpg"
 ---

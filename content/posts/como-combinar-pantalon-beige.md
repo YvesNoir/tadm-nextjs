@@ -1,15 +1,30 @@
 ---
-title: "Cómo combinar pantalón beige"
-excerpt: "¿Tienes un pantalón beige y no sabes como utilizarlo? Te traemos las mejores ideas para que crees looks y outfits perfectos sin esfuerzo..."
-date: "2022-10-31"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "accesorios", "complementos", "temporada", "verano", "invierno"]
-featured: "true"
-seoTitle: "Como combinar pantalón beige, outfit, looks, zapatos 2025"
-seoDescription: "¿Tienes un pantalón beige y no sabes como utilizarlo? Te traemos las mejores ideas para que crees looks y outfits perfectos sin esfuerzo..."
-originalUrl: "https://www.tuasesordemoda.com/como-combinar-pantalon-beige/"
-coverImage: "/images/posts/como-combinar-pantalon-beige.jpg"
+title: Cómo combinar pantalón beige
+excerpt: >-
+  ¿Tienes un pantalón beige y no sabes como utilizarlo? Te traemos las mejores
+  ideas para que crees looks y outfits perfectos sin esfuerzo...
+date: '2022-10-31'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - temporada
+  - verano
+  - invierno
+featured: 'true'
+seoTitle: 'Como combinar pantalón beige, outfit, looks, zapatos'
+seoDescription: >-
+  ¿Tienes un pantalón beige y no sabes como utilizarlo? Te traemos las mejores
+  ideas para que crees looks y outfits perfectos sin esfuerzo...
+originalUrl: 'https://www.tuasesordemoda.com/como-combinar-pantalon-beige/'
+coverImage: /images/posts/como-combinar-pantalon-beige.jpg
 ---
 
 

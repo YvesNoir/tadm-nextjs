@@ -1,15 +1,28 @@
 ---
-title: "Look embarazada"
-excerpt: "Estos son los mejores ➤ LOOKS PARA EMBARAZADAS, muchas ideas sobre como vestir en el día a día, tanto en INVIERNO como en VERANO ➤ Clic aquí"
-date: "2022-12-26"
-author: "TuAsesorDeModa"
-categories: ["mujer", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "verano", "invierno", "casual"]
-featured: "true"
-seoTitle: "🥇 looks embarazadas - invierno - verano - outfits | 2025"
-seoDescription: "Estos son los mejores ➤ LOOKS PARA EMBARAZADAS, muchas ideas sobre como vestir en el día a día, tanto en INVIERNO como en VERANO ➤ Clic aquí"
-originalUrl: "https://www.tuasesordemoda.com/looks-para-embarazadas/"
-coverImage: "/images/posts/looks-para-embarazadas.jpg"
+title: Look embarazada
+excerpt: >-
+  Estos son los mejores ➤ LOOKS PARA EMBARAZADAS, muchas ideas sobre como vestir
+  en el día a día, tanto en INVIERNO como en VERANO ➤ Clic aquí
+date: '2022-12-26'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - verano
+  - invierno
+  - casual
+featured: 'true'
+seoTitle: "\U0001F947 looks embarazadas - invierno - verano - outfits"
+seoDescription: >-
+  Estos son los mejores ➤ LOOKS PARA EMBARAZADAS, muchas ideas sobre como vestir
+  en el día a día, tanto en INVIERNO como en VERANO ➤ Clic aquí
+originalUrl: 'https://www.tuasesordemoda.com/looks-para-embarazadas/'
+coverImage: /images/posts/looks-para-embarazadas.jpg
 ---
 
 

@@ -1,15 +1,26 @@
 ---
-title: "Look con short o bermuda de hombre"
-excerpt: "Buscas LOOK CON PANTALÓN CORTO?, Traemos como vestir bermudas, pantalón corto, bermudas de mezclillas, outfits con camisas y más ✨ INGRESA ..."
-date: "2022-11-25"
-author: "TuAsesorDeModa"
-categories: ["hombre", "zapatos"]
-tags: ["moda", "outfit", "look", "verano", "elegante"]
-featured: "true"
-seoTitle: "Look pantalón CORTO, como vestir bermuda, outfit SHORT 2025"
-seoDescription: "Buscas LOOK CON PANTALÓN CORTO?, Traemos como vestir bermudas, pantalón corto, bermudas de mezclillas, outfits con camisas y más ✨ INGRESA ..."
-originalUrl: "https://www.tuasesordemoda.com/looks-con-bermudas-hombre/"
-coverImage: "/images/posts/looks-con-bermudas-hombre.png"
+title: Look con short o bermuda de hombre
+excerpt: >-
+  Buscas LOOK CON PANTALÓN CORTO?, Traemos como vestir bermudas, pantalón corto,
+  bermudas de mezclillas, outfits con camisas y más ✨ INGRESA ...
+date: '2022-11-25'
+author: TuAsesorDeModa
+categories:
+  - hombre
+  - zapatos
+tags:
+  - moda
+  - outfit
+  - look
+  - verano
+  - elegante
+featured: 'true'
+seoTitle: 'Look pantalón CORTO, como vestir bermuda, outfit SHORT'
+seoDescription: >-
+  Buscas LOOK CON PANTALÓN CORTO?, Traemos como vestir bermudas, pantalón corto,
+  bermudas de mezclillas, outfits con camisas y más ✨ INGRESA ...
+originalUrl: 'https://www.tuasesordemoda.com/looks-con-bermudas-hombre/'
+coverImage: /images/posts/looks-con-bermudas-hombre.png
 ---
 
 

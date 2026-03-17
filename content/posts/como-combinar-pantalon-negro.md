@@ -1,15 +1,31 @@
 ---
-title: "Outfit pantalón negro"
-excerpt: "Te encanta el PANTALÓN NEGRO y queres aprender a combinarlo?, nuestro blog te dará los mejores looks y outfits para poder utilizarlo ✨ INGRESA"
-date: "2022-12-04"
-author: "TuAsesorDeModa"
-categories: ["mujer", "belleza", "zapatos"]
-tags: ["estilo", "outfit", "look", "ropa", "accesorios", "complementos", "casual", "formal", "elegante"]
-featured: "true"
-seoTitle: "Outfit pantalón negro, cómo combinar, looks - 2025"
-seoDescription: "Te encanta el PANTALÓN NEGRO y queres aprender a combinarlo?, nuestro blog te dará los mejores looks y outfits para poder utilizarlo ✨ INGRESA"
-originalUrl: "https://www.tuasesordemoda.com/como-combinar-pantalon-negro/"
-coverImage: "/images/posts/como-combinar-pantalon-negro.png"
+title: Outfit pantalón negro
+excerpt: >-
+  Te encanta el PANTALÓN NEGRO y queres aprender a combinarlo?, nuestro blog te
+  dará los mejores looks y outfits para poder utilizarlo ✨ INGRESA
+date: '2022-12-04'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - belleza
+  - zapatos
+tags:
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - casual
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: 'Outfit pantalón negro, cómo combinar, looks'
+seoDescription: >-
+  Te encanta el PANTALÓN NEGRO y queres aprender a combinarlo?, nuestro blog te
+  dará los mejores looks y outfits para poder utilizarlo ✨ INGRESA
+originalUrl: 'https://www.tuasesordemoda.com/como-combinar-pantalon-negro/'
+coverImage: /images/posts/como-combinar-pantalon-negro.png
 ---
 
 El color negro representa la formalidad y la sofisticación. El pantalón negro nos aporta seriedad en el ámbito laboral y un comodín a la hora de pensar en nuestros looks de fin de semana. Es un tipo de prenda básica en cualquier guardarropa, que te permite combinarlo fácilmente con cualquier color.

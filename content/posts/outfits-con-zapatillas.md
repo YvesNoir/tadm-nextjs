@@ -1,15 +1,30 @@
 ---
-title: "Outfits con zapatillas / tenis"
-excerpt: "Los mejores consejos para combinar zapatillas blancas y prendas favoritas, encuentra aquí los mejores outfits y looks con zapatillas blancas.."
-date: "2022-11-01"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "complementos", "temporada", "verano", "invierno", "primavera"]
-featured: "true"
-seoTitle: "Outfits con zapatillas blancas mujer, looks, ideas 2025"
-seoDescription: "Los mejores consejos para combinar zapatillas blancas y prendas favoritas, encuentra aquí los mejores outfits y looks con zapatillas blancas.."
-originalUrl: "https://www.tuasesordemoda.com/outfits-con-zapatillas/"
-coverImage: "/images/posts/outfits-con-zapatillas.jpg"
+title: Outfits con zapatillas / tenis
+excerpt: >-
+  Los mejores consejos para combinar zapatillas blancas y prendas favoritas,
+  encuentra aquí los mejores outfits y looks con zapatillas blancas..
+date: '2022-11-01'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - complementos
+  - temporada
+  - verano
+  - invierno
+  - primavera
+featured: 'true'
+seoTitle: 'Outfits con zapatillas blancas mujer, looks, ideas'
+seoDescription: >-
+  Los mejores consejos para combinar zapatillas blancas y prendas favoritas,
+  encuentra aquí los mejores outfits y looks con zapatillas blancas..
+originalUrl: 'https://www.tuasesordemoda.com/outfits-con-zapatillas/'
+coverImage: /images/posts/outfits-con-zapatillas.jpg
 ---
 
 

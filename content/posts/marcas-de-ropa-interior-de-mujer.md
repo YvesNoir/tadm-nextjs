@@ -1,15 +1,25 @@
 ---
-title: "Marcas de ropa interior femenina"
-excerpt: "Encuentra las mejores marcas de ropa interior femenina del mercado, y los mejores modelos. Visita para conocer más..."
-date: "2022-10-26"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "look", "ropa", "accesorios", "elegante"]
-featured: "true"
-seoTitle: "Marcas de ropa interior femenina, lenceria, lista [2025 ]"
-seoDescription: "Encuentra las mejores marcas de ropa interior femenina del mercado, y los mejores modelos. Visita para conocer más..."
-originalUrl: "https://www.tuasesordemoda.com/marcas-de-ropa-interior-de-mujer/"
-coverImage: "/images/posts/marcas-de-ropa-interior-de-mujer.jpg"
+title: Marcas de ropa interior femenina
+excerpt: >-
+  Encuentra las mejores marcas de ropa interior femenina del mercado, y los
+  mejores modelos. Visita para conocer más...
+date: '2022-10-26'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - look
+  - ropa
+  - accesorios
+  - elegante
+featured: 'true'
+seoTitle: 'Marcas de ropa interior femenina, lenceria, lista'
+seoDescription: >-
+  Encuentra las mejores marcas de ropa interior femenina del mercado, y los
+  mejores modelos. Visita para conocer más...
+originalUrl: 'https://www.tuasesordemoda.com/marcas-de-ropa-interior-de-mujer/'
+coverImage: /images/posts/marcas-de-ropa-interior-de-mujer.jpg
 ---
 
 

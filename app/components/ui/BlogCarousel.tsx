@@ -5,6 +5,8 @@ import Link from 'next/link';
 import { format } from 'date-fns';
 import { es } from 'date-fns/locale';
 import { Post } from '@/app/types';
+import { getPostPath } from '@/app/lib/posts';
+import { ebGaramond } from '@/app/lib/fonts';
 
 interface BlogCarouselProps {
   posts: Post[];
@@ -24,10 +26,6 @@ export default function BlogCarousel({ posts, autoPlay = true, interval = 5000 }
 
     return () => clearInterval(timer);
   }, [autoPlay, interval, posts.length]);
-
-  const goToSlide = (index: number) => {
-    setCurrentIndex(index);
-  };
 
   const goToPrevious = () => {
     setCurrentIndex((prevIndex) => (prevIndex - 1 + posts.length) % posts.length);
@@ -52,9 +50,9 @@ export default function BlogCarousel({ posts, autoPlay = true, interval = 5000 }
         className="flex transition-transform duration-500 ease-in-out h-full"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
       >
-        {posts.map((post, index) => (
+        {posts.map((post) => (
           <div key={post.id} className="min-w-full h-full relative">
-            <Link href={`/${post.categories[0]?.slug || 'articulo'}/${post.slug}`}>
+            <Link href={getPostPath(post.slug)}>
               <div className="h-full bg-gradient-to-r from-cream-200 via-beige-100 to-cream-200 p-6 md:p-8 flex items-center justify-center overflow-y-auto">
                 <div className="max-w-4xl mx-auto text-center py-8">
 
@@ -71,11 +69,10 @@ export default function BlogCarousel({ posts, autoPlay = true, interval = 5000 }
                   </div>
 
                   {/* Title */}
-                  <h2
-                    className="text-2xl md:text-3xl lg:text-4xl text-gray-800 mb-3 leading-tight group-hover:text-beige-700 transition-colors"
-                    style={{ fontFamily: 'var(--font-abril-fatface)' }}
-                  >
-                    {post.title}
+                  <h2 className={`${ebGaramond.className} text-2xl md:text-3xl lg:text-4xl text-gray-800 mb-3 leading-tight group-hover:text-beige-700 transition-colors`}>
+                    <span className={`${ebGaramond.className} font-[inherit]`}>
+                      {post.title}
+                    </span>
                   </h2>
 
                   {/* Excerpt */}

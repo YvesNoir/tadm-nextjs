@@ -1,15 +1,33 @@
 ---
-title: "Aesthetic"
-excerpt: "Conoce todo sobre la tendencia popular llamada Aesthetic. Te traemos todo lo que debes saber sobre Aesthetic, moda, ropa, prendas, peinados..."
-date: "2023-09-09"
-author: "TuAsesorDeModa"
-categories: ["mujer", "belleza", "zapatos", "salud"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "vestimenta", "accesorios", "temporada", "verano", "primavera"]
-featured: "true"
-seoTitle: "Aesthetic, ¿que es?, moda, outfits... Cortes y peinados 2025"
-seoDescription: "Conoce todo sobre la tendencia popular llamada Aesthetic. Te traemos todo lo que debes saber sobre Aesthetic, moda, ropa, prendas, peinados..."
-originalUrl: "https://www.tuasesordemoda.com/aesthetic/"
-coverImage: "/images/posts/aesthetic.jpg"
+title: Aesthetic
+excerpt: >-
+  Conoce todo sobre la tendencia popular llamada Aesthetic. Te traemos todo lo
+  que debes saber sobre Aesthetic, moda, ropa, prendas, peinados...
+date: '2023-09-09'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - belleza
+  - zapatos
+  - salud
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - vestimenta
+  - accesorios
+  - temporada
+  - verano
+  - primavera
+featured: 'true'
+seoTitle: 'Aesthetic, ¿que es?, moda, outfits... Cortes y peinados'
+seoDescription: >-
+  Conoce todo sobre la tendencia popular llamada Aesthetic. Te traemos todo lo
+  que debes saber sobre Aesthetic, moda, ropa, prendas, peinados...
+originalUrl: 'https://www.tuasesordemoda.com/aesthetic/'
+coverImage: /images/posts/aesthetic.jpg
 ---
 
 

@@ -1,15 +1,22 @@
 ---
-title: "Perfumes carolina herrera mujer"
-excerpt: "Conoce cuáles son los Mejores 10 Perfumes CAROLINA HERRERA, Aprende de qué familia son y cuando usarlos, donde comprar y precios! ✨ INGRESA"
-date: "2022-11-27"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "elegante"]
-featured: "true"
-seoTitle: "► perfumes carolina herrera, mujer, cuál huele mejor? 2025"
-seoDescription: "Conoce cuáles son los Mejores 10 Perfumes CAROLINA HERRERA, Aprende de qué familia son y cuando usarlos, donde comprar y precios! ✨ INGRESA"
-originalUrl: "https://www.tuasesordemoda.com/perfume-carolina-herrera/"
-coverImage: "/images/posts/perfume-carolina-herrera.jpg"
+title: Perfumes carolina herrera mujer
+excerpt: >-
+  Conoce cuáles son los Mejores 10 Perfumes CAROLINA HERRERA, Aprende de qué
+  familia son y cuando usarlos, donde comprar y precios! ✨ INGRESA
+date: '2022-11-27'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - elegante
+featured: 'true'
+seoTitle: '► perfumes carolina herrera, mujer, cuál huele mejor?'
+seoDescription: >-
+  Conoce cuáles son los Mejores 10 Perfumes CAROLINA HERRERA, Aprende de qué
+  familia son y cuando usarlos, donde comprar y precios! ✨ INGRESA
+originalUrl: 'https://www.tuasesordemoda.com/perfume-carolina-herrera/'
+coverImage: /images/posts/perfume-carolina-herrera.jpg
 ---
 
 **¿qué perfume de carolina herrera huele mejor?**

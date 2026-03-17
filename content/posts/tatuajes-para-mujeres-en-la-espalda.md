@@ -1,15 +1,26 @@
 ---
-title: "Tatuaje en la espalda para mujeres"
-excerpt: "¡Encuentra la mejor galería de tatuajes en la espalda para mujeres e inspírate para elegir el tuyo! Visita para conocer más..."
-date: "2023-10-24"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "outfit", "look", "temporada", "primavera"]
-featured: "true"
-seoTitle: "Tatuajes para mujeres en la espalda, flores, mariposas - 2025"
-seoDescription: "¡Encuentra la mejor galería de tatuajes en la espalda para mujeres e inspírate para elegir el tuyo! Visita para conocer más..."
-originalUrl: "https://www.tuasesordemoda.com/tatuajes-para-mujeres-en-la-espalda/"
-coverImage: "/images/posts/tatuajes-para-mujeres-en-la-espalda.jpg"
+title: Tatuaje en la espalda para mujeres
+excerpt: >-
+  ¡Encuentra la mejor galería de tatuajes en la espalda para mujeres e inspírate
+  para elegir el tuyo! Visita para conocer más...
+date: '2023-10-24'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - temporada
+  - primavera
+featured: 'true'
+seoTitle: 'Tatuajes para mujeres en la espalda, flores, mariposas'
+seoDescription: >-
+  ¡Encuentra la mejor galería de tatuajes en la espalda para mujeres e inspírate
+  para elegir el tuyo! Visita para conocer más...
+originalUrl: 'https://www.tuasesordemoda.com/tatuajes-para-mujeres-en-la-espalda/'
+coverImage: /images/posts/tatuajes-para-mujeres-en-la-espalda.jpg
 ---
 
 

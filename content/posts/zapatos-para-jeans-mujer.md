@@ -1,15 +1,31 @@
 ---
-title: "Zapatos para usar con jeans"
-excerpt: "¿Aún no sabes qué zapatos llevar con vaqueros de mujer? Esta guía te ayudará siempre que quieras vestir jeans y zapatos, aprende aquí..."
-date: "2022-11-10"
-author: "TuAsesorDeModa"
-categories: ["mujer", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "accesorios", "complementos", "temporada", "invierno", "formal", "elegante"]
-featured: "true"
-seoTitle: "Zapatos para usar con jeans, outfits, looks y tips 2025"
-seoDescription: "¿Aún no sabes qué zapatos llevar con vaqueros de mujer? Esta guía te ayudará siempre que quieras vestir jeans y zapatos, aprende aquí..."
-originalUrl: "https://www.tuasesordemoda.com/zapatos-para-jeans-mujer/"
-coverImage: "/images/posts/zapatos-para-jeans-mujer.jpg"
+title: Zapatos para usar con jeans
+excerpt: >-
+  ¿Aún no sabes qué zapatos llevar con vaqueros de mujer? Esta guía te ayudará
+  siempre que quieras vestir jeans y zapatos, aprende aquí...
+date: '2022-11-10'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - accesorios
+  - complementos
+  - temporada
+  - invierno
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: 'Zapatos para usar con jeans, outfits, looks y tips'
+seoDescription: >-
+  ¿Aún no sabes qué zapatos llevar con vaqueros de mujer? Esta guía te ayudará
+  siempre que quieras vestir jeans y zapatos, aprende aquí...
+originalUrl: 'https://www.tuasesordemoda.com/zapatos-para-jeans-mujer/'
+coverImage: /images/posts/zapatos-para-jeans-mujer.jpg
 ---
 
 

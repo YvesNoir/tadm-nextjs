@@ -1,15 +1,30 @@
 ---
-title: "Cómo combinar pantalón blanco"
-excerpt: "¿Cómo combinar un pantalón blanco? Traemos las mejores opciones, looks y outfits para que sepas como utilizar tu pantalón blanco con otras prendas..."
-date: "2022-11-01"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "tendencias", "outfit", "look", "ropa", "accesorios", "complementos", "temporada", "verano"]
-featured: "true"
-seoTitle: "Outfit pantalón blanco, como combinar, looks 2025"
-seoDescription: "¿Cómo combinar un pantalón blanco? Traemos las mejores opciones, looks y outfits para que sepas como utilizar tu pantalón blanco con otras prendas..."
-originalUrl: "https://www.tuasesordemoda.com/como-combinar-pantalon-blanco/"
-coverImage: "/images/posts/como-combinar-pantalon-blanco.jpg"
+title: Cómo combinar pantalón blanco
+excerpt: >-
+  ¿Cómo combinar un pantalón blanco? Traemos las mejores opciones, looks y
+  outfits para que sepas como utilizar tu pantalón blanco con otras prendas...
+date: '2022-11-01'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - tendencias
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - temporada
+  - verano
+featured: 'true'
+seoTitle: 'Outfit pantalón blanco, como combinar, looks'
+seoDescription: >-
+  ¿Cómo combinar un pantalón blanco? Traemos las mejores opciones, looks y
+  outfits para que sepas como utilizar tu pantalón blanco con otras prendas...
+originalUrl: 'https://www.tuasesordemoda.com/como-combinar-pantalon-blanco/'
+coverImage: /images/posts/como-combinar-pantalon-blanco.jpg
 ---
 
 

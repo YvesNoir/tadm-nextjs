@@ -1,15 +1,31 @@
 ---
-title: "Como vestir para una boda"
-excerpt: "Encuentra los mejores looks y outfit para vestir en una boda, todos los consejos sobre la vestimenta casual y formal para una boda... aquí..."
-date: "2022-10-25"
-author: "TuAsesorDeModa"
-categories: ["mujer", "hombre"]
-tags: ["moda", "estilo", "outfit", "look", "vestimenta", "accesorios", "complementos", "casual", "formal", "elegante"]
-featured: "true"
-seoTitle: "🔥 como vestir para una boda, hombre, mujer 2025"
-seoDescription: "Encuentra los mejores looks y outfit para vestir en una boda, todos los consejos sobre la vestimenta casual y formal para una boda... aquí..."
-originalUrl: "https://www.tuasesordemoda.com/como-vestir-para-una-boda/"
-coverImage: "/images/posts/como-vestir-para-una-boda.jpg"
+title: Como vestir para una boda
+excerpt: >-
+  Encuentra los mejores looks y outfit para vestir en una boda, todos los
+  consejos sobre la vestimenta casual y formal para una boda... aquí...
+date: '2022-10-25'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - hombre
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - vestimenta
+  - accesorios
+  - complementos
+  - casual
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: "\U0001F525 como vestir para una boda, hombre, mujer"
+seoDescription: >-
+  Encuentra los mejores looks y outfit para vestir en una boda, todos los
+  consejos sobre la vestimenta casual y formal para una boda... aquí...
+originalUrl: 'https://www.tuasesordemoda.com/como-vestir-para-una-boda/'
+coverImage: /images/posts/como-vestir-para-una-boda.jpg
 ---
 
 
