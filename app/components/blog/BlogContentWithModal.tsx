@@ -15,10 +15,11 @@ export default function BlogContentWithModal({ content }: BlogContentWithModalPr
       const target = e.target as HTMLElement;
       if (target.tagName === 'IMG') {
         const imgElement = target as HTMLImageElement;
+        const source = imgElement.getAttribute('src') || imgElement.currentSrc || imgElement.src;
         e.preventDefault();
         e.stopPropagation();
         setModalImage({
-          src: imgElement.src,
+          src: source,
           alt: imgElement.alt || 'Imagen del artículo'
         });
       }

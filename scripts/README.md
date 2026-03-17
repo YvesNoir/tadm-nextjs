@@ -33,8 +33,42 @@ node scripts/generate-post-images.js --slug outfit-primavera-mujer --mode galler
 - ✅ Genera prompts editoriales pensados para moda
 - ✅ Usa Gemini por API
 - ✅ Guarda imágenes localmente en `public/images/posts`
+- ✅ Convierte siempre el resultado final a `webp`
+- ✅ Aplica marca de agua centrada con el logo blanco del sitio
+- ✅ Limita automáticamente el tamaño de salida según uso
 - ✅ Limita la generación a un máximo de 12 imágenes por corrida
 - ✅ Sirve para portada o galería
+
+#### Optimización automática:
+- `cover`: máximo `1400px` de ancho
+- `gallery`: máximo `900px` de ancho
+- formato final: `.webp`
+- calidad objetivo: `78`
+- naming final:
+  - portada: `slug-cover.webp`
+  - galería: `slug-gallery-1.webp`, `slug-gallery-2.webp`, etc.
+
+#### Notas:
+- La marca de agua se toma desde `public/images/tuasesordemoda-logo-white.png`
+- Aunque Gemini devuelva `png` o `jpg`, el archivo publicado queda optimizado en `webp`
+- El `--dry-run` sirve para validar prompts, nombres de archivo y tamaño objetivo sin consumir imágenes
+- El archivo original que devuelve Gemini se guarda localmente en `image-sources/ai-generated/`
+- Esa carpeta queda ignorada por git para que no se suba a Vercel ni al repo
+
+### 0.1. `optimize-post-images.js` - Reoptimiza imágenes ya generadas
+Toma las imágenes existentes de un post, les aplica resize, watermark y conversión a `webp` sin volver a llamar a la API.
+
+#### Uso:
+```bash
+node scripts/optimize-post-images.js --slug pantalones-capri-como-combinarlos
+```
+
+#### Qué hace:
+- ✅ Busca portada y galerías del slug dentro del markdown del post
+- ✅ Convierte `.png`, `.jpg` o `.jpeg` a `.webp`
+- ✅ Aplica la misma marca de agua centrada con el logo blanco
+- ✅ Limita `cover` a `1400px` y `gallery` a `900px`
+- ✅ Reescribe el post para apuntar a los archivos optimizados
 
 ### 1. `blog-extractor.js` - Extractor Individual
 Extrae un artículo individual de una URL específica.
