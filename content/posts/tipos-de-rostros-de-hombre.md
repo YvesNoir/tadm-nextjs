@@ -1,15 +1,24 @@
 ---
-title: "Tipos de rostro de hombre"
-excerpt: "Encuentra como reconocer tu tipo de rostro de hombre, y como utilizarlo basándonos en como lo lucen los famosos más conocidos..."
-date: "2022-11-02"
-author: "TuAsesorDeModa"
-categories: ["hombre"]
-tags: ["estilo", "tendencias", "look", "accesorios"]
-featured: "true"
-seoTitle: "TIPOS DE ROSTRO HOMBRE, cara, famosos, AQUÍ 2025"
-seoDescription: "Encuentra como reconocer tu tipo de rostro de hombre, y como utilizarlo basándonos en como lo lucen los famosos más conocidos..."
-originalUrl: "https://www.tuasesordemoda.com/tipos-de-rostros-de-hombre/"
-coverImage: "/images/posts/tipos-de-rostros-de-hombre.jpeg"
+title: Tipos de rostro de hombre
+excerpt: >-
+  Encuentra como reconocer tu tipo de rostro de hombre, y como utilizarlo
+  basándonos en como lo lucen los famosos más conocidos...
+date: '2022-11-02'
+author: TuAsesorDeModa
+categories:
+  - hombre
+tags:
+  - estilo
+  - tendencias
+  - look
+  - accesorios
+featured: 'true'
+seoTitle: 'TIPOS DE ROSTRO HOMBRE, cara, famosos, AQUÍ'
+seoDescription: >-
+  Encuentra como reconocer tu tipo de rostro de hombre, y como utilizarlo
+  basándonos en como lo lucen los famosos más conocidos...
+originalUrl: 'https://www.tuasesordemoda.com/tipos-de-rostros-de-hombre/'
+coverImage: /images/posts/tipos-de-rostros-de-hombre.jpeg
 ---
 
 Los hombres cada vez se suman más a las tendencias y preocuparse por su estética. Uno de los puntos importantes y que nos pueden ayudar significativamente a mejorar nuestra imagen, es reconocer nuestro **tipo de cara**. Puede ser primordial a la hora de saber que peinados y cortes de pelo usar, a su vez, que estilo usar en la barba y hasta que anteojos de sol utilizar según mi tipo de rostro.

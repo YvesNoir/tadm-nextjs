@@ -1,15 +1,27 @@
 ---
-title: "Combinar pantalón marrón hombre"
-excerpt: "Encuentra la mejor manera de combinar tu pantalón color marron, ya se cafe, caqui, o beige, encuentra aquí las mejores ideas..."
-date: "2022-11-02"
-author: "TuAsesorDeModa"
-categories: ["hombre", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "vestimenta", "formal"]
-featured: "true"
-seoTitle: "Cómo combinar pantalón marrón, café, beige 2025"
-seoDescription: "Encuentra la mejor manera de combinar tu pantalón color marron, ya se cafe, caqui, o beige, encuentra aquí las mejores ideas..."
-originalUrl: "https://www.tuasesordemoda.com/combinar-pantalon-marron-hombre/"
-coverImage: "/images/posts/combinar-pantalon-marron-hombre.jpg"
+title: Combinar pantalón marrón hombre
+excerpt: >-
+  Encuentra la mejor manera de combinar tu pantalón color marron, ya se cafe,
+  caqui, o beige, encuentra aquí las mejores ideas...
+date: '2022-11-02'
+author: TuAsesorDeModa
+categories:
+  - hombre
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - vestimenta
+  - formal
+featured: 'true'
+seoTitle: 'Cómo combinar pantalón marrón, café, beige'
+seoDescription: >-
+  Encuentra la mejor manera de combinar tu pantalón color marron, ya se cafe,
+  caqui, o beige, encuentra aquí las mejores ideas...
+originalUrl: 'https://www.tuasesordemoda.com/combinar-pantalon-marron-hombre/'
+coverImage: /images/posts/combinar-pantalon-marron-hombre.jpg
 ---
 
 

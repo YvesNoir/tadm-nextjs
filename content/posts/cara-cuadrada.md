@@ -1,15 +1,25 @@
 ---
-title: "Cara cuadrada de mujer"
-excerpt: "¿Tienes el rostro cuadrado y no sabes como sacar lo mejor de él? Aquí están los peinados, cortes y características del rostro cuadrado de mujer..."
-date: "2022-11-03"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "outfit", "look", "ropa"]
-featured: "true"
-seoTitle: "Cara cuadrada de mujer, rostro, peinados, cortes 2025"
-seoDescription: "¿Tienes el rostro cuadrado y no sabes como sacar lo mejor de él? Aquí están los peinados, cortes y características del rostro cuadrado de mujer..."
-originalUrl: "https://www.tuasesordemoda.com/cara-cuadrada/"
-coverImage: "/images/posts/cara-cuadrada.jpeg"
+title: Cara cuadrada de mujer
+excerpt: >-
+  ¿Tienes el rostro cuadrado y no sabes como sacar lo mejor de él? Aquí están
+  los peinados, cortes y características del rostro cuadrado de mujer...
+date: '2022-11-03'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+featured: 'true'
+seoTitle: 'Cara cuadrada de mujer, rostro, peinados, cortes'
+seoDescription: >-
+  ¿Tienes el rostro cuadrado y no sabes como sacar lo mejor de él? Aquí están
+  los peinados, cortes y características del rostro cuadrado de mujer...
+originalUrl: 'https://www.tuasesordemoda.com/cara-cuadrada/'
+coverImage: /images/posts/cara-cuadrada.jpeg
 ---
 
 

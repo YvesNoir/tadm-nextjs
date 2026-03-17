@@ -1,15 +1,29 @@
 ---
-title: "Zapatos para vestidos"
-excerpt: "¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos para vestidos, cortos, largos, y más... clic aquí..."
-date: "2022-10-26"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "look", "vestimenta", "accesorios", "complementos", "casual", "formal", "elegante"]
-featured: "true"
-seoTitle: "🥇 zapatos para vestidos!, largos, cortos, encaje [2025 ]"
-seoDescription: "¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos para vestidos, cortos, largos, y más... clic aquí..."
-originalUrl: "https://www.tuasesordemoda.com/zapatos-para-vestidos/"
-coverImage: "/images/posts/zapatos-para-vestidos.jpg"
+title: Zapatos para vestidos
+excerpt: >-
+  ¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos
+  para vestidos, cortos, largos, y más... clic aquí...
+date: '2022-10-26'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - look
+  - vestimenta
+  - accesorios
+  - complementos
+  - casual
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: "\U0001F947 zapatos para vestidos!, largos, cortos, encaje"
+seoDescription: >-
+  ¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos
+  para vestidos, cortos, largos, y más... clic aquí...
+originalUrl: 'https://www.tuasesordemoda.com/zapatos-para-vestidos/'
+coverImage: /images/posts/zapatos-para-vestidos.jpg
 ---
 
 

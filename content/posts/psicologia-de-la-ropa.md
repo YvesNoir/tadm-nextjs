@@ -1,15 +1,29 @@
 ---
-title: "Colores en la ropa y significado"
-excerpt: "Es importante saber que significan los colores que vestimos y que sensaciones inspiramos, ¿confianza?, ¿alegría?, ¿seguridad?, aprende aquí..."
-date: "2022-11-02"
-author: "TuAsesorDeModa"
-categories: ["mujer", "zapatos", "salud"]
-tags: ["moda", "look", "ropa", "vestimenta", "complementos", "formal", "elegante"]
-featured: "true"
-seoTitle: "Psicología de los colores en la ropa, significados, 2025"
-seoDescription: "Es importante saber que significan los colores que vestimos y que sensaciones inspiramos, ¿confianza?, ¿alegría?, ¿seguridad?, aprende aquí..."
-originalUrl: "https://www.tuasesordemoda.com/psicologia-de-la-ropa/"
-coverImage: "/images/posts/psicologia-de-la-ropa.jpg"
+title: Colores en la ropa y significado
+excerpt: >-
+  Es importante saber que significan los colores que vestimos y que sensaciones
+  inspiramos, ¿confianza?, ¿alegría?, ¿seguridad?, aprende aquí...
+date: '2022-11-02'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - zapatos
+  - salud
+tags:
+  - moda
+  - look
+  - ropa
+  - vestimenta
+  - complementos
+  - formal
+  - elegante
+featured: 'true'
+seoTitle: 'Psicología de los colores en la ropa, significados'
+seoDescription: >-
+  Es importante saber que significan los colores que vestimos y que sensaciones
+  inspiramos, ¿confianza?, ¿alegría?, ¿seguridad?, aprende aquí...
+originalUrl: 'https://www.tuasesordemoda.com/psicologia-de-la-ropa/'
+coverImage: /images/posts/psicologia-de-la-ropa.jpg
 ---
 
 

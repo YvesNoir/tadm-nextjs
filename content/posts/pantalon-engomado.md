@@ -1,15 +1,31 @@
 ---
-title: "Pantalón engomado"
-excerpt: "¿Utilizas pantalón de cuero o engomado? Aquí te contamos como utilizarlo en outfits, looks, y combinaciones que no puedes perderte..."
-date: "2022-11-03"
-author: "TuAsesorDeModa"
-categories: ["mujer", "belleza", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "accesorios", "complementos", "invierno", "formal"]
-featured: "true"
-seoTitle: "Pantalon engomado, outfits, looks 2025"
-seoDescription: "¿Utilizas pantalón de cuero o engomado? Aquí te contamos como utilizarlo en outfits, looks, y combinaciones que no puedes perderte..."
-originalUrl: "https://www.tuasesordemoda.com/pantalon-engomado/"
-coverImage: "/images/posts/pantalon-engomado.jpg"
+title: Pantalón engomado
+excerpt: >-
+  ¿Utilizas pantalón de cuero o engomado? Aquí te contamos como utilizarlo en
+  outfits, looks, y combinaciones que no puedes perderte...
+date: '2022-11-03'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - belleza
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - invierno
+  - formal
+featured: 'true'
+seoTitle: 'Pantalon engomado, outfits, looks'
+seoDescription: >-
+  ¿Utilizas pantalón de cuero o engomado? Aquí te contamos como utilizarlo en
+  outfits, looks, y combinaciones que no puedes perderte...
+originalUrl: 'https://www.tuasesordemoda.com/pantalon-engomado/'
+coverImage: /images/posts/pantalon-engomado.jpg
 ---
 
 Los **pantalones engomados** son sin duda la mejor opción para la parte inferior en invierno ademas de modelar de manera magnífica la figura, esta prenda es muy versátil y utilizando los colores correctos, podrás combinarlo con cualquier prenda de tu guardarropa, permitiéndote utilizarlo en muchos outfits, a continuación te mostramos 25 looks para que aprendas **como combinar pantalón de cuero**, y con que prendas queda mejor.

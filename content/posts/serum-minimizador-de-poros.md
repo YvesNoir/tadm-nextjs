@@ -1,15 +1,29 @@
 ---
-title: "Cómo un sérum minimizador de poros puede ser tu mejor aliado"
-excerpt: "Cómo un sérum minimizador de poros puede ser tu mejor aliado En el mundo del maquillaje, mantener una piel impecable durante todo el día, especialmente en climas cálidos, puede parecer una tarea imposible. El sudor y el exceso de grasa pueden arruinar incluso el mejor maquillaje, dejando el rostro brillante y los poros más visibles … Cómo un Serum Minimizador de Poros Puede Ser tu Mejor Aliado para un Maquillaje Duradero y sin Imperfecciones Leer más »"
-date: "2024-08-14"
-author: "TuAsesorDeModa"
-categories: ["recomendaciones"]
-tags: ["moda"]
-featured: "true"
-seoTitle: "Serum minimizador de poros ¿para qué sirve? Cómo usarlo [2025 ]"
-seoDescription: "Cómo un sérum minimizador de poros puede ser tu mejor aliado En el mundo del maquillaje, mantener una piel impecable durante todo el día, especialmente en climas cálidos, puede parecer una tarea imposible. El sudor y el exceso de grasa pueden arruinar incluso el mejor maquillaje, dejando el rostro brillante y los poros más visibles … Cómo un Serum Minimizador de Poros Puede Ser tu Mejor Aliado para un Maquillaje Duradero y sin Imperfecciones Leer más »"
-originalUrl: "https://www.tuasesordemoda.com/serum-minimizador-de-poros/"
-coverImage: "/images/posts/serum-minimizador-de-poros.jpg"
+title: Cómo un sérum minimizador de poros puede ser tu mejor aliado
+excerpt: >-
+  Cómo un sérum minimizador de poros puede ser tu mejor aliado En el mundo del
+  maquillaje, mantener una piel impecable durante todo el día, especialmente en
+  climas cálidos, puede parecer una tarea imposible. El sudor y el exceso de
+  grasa pueden arruinar incluso el mejor maquillaje, dejando el rostro brillante
+  y los poros más visibles … Cómo un Serum Minimizador de Poros Puede Ser tu
+  Mejor Aliado para un Maquillaje Duradero y sin Imperfecciones Leer más »
+date: '2024-08-14'
+author: TuAsesorDeModa
+categories:
+  - recomendaciones
+tags:
+  - moda
+featured: 'true'
+seoTitle: Serum minimizador de poros ¿para qué sirve? Cómo usarlo
+seoDescription: >-
+  Cómo un sérum minimizador de poros puede ser tu mejor aliado En el mundo del
+  maquillaje, mantener una piel impecable durante todo el día, especialmente en
+  climas cálidos, puede parecer una tarea imposible. El sudor y el exceso de
+  grasa pueden arruinar incluso el mejor maquillaje, dejando el rostro brillante
+  y los poros más visibles … Cómo un Serum Minimizador de Poros Puede Ser tu
+  Mejor Aliado para un Maquillaje Duradero y sin Imperfecciones Leer más »
+originalUrl: 'https://www.tuasesordemoda.com/serum-minimizador-de-poros/'
+coverImage: /images/posts/serum-minimizador-de-poros.jpg
 ---
 
 

@@ -1,15 +1,25 @@
 ---
-title: "Color de uñas para vestido verde"
-excerpt: "Encuentra las mejores ideas para combinar tus uñas con un vestido verde, consejos, diseños ideas y mucho más, visite aquí..."
-date: "2022-10-28"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "look", "vestimenta", "accesorios"]
-featured: "true"
-seoTitle: "Color de uñas para vestido verde, militar, esmeralda 2025"
-seoDescription: "Encuentra las mejores ideas para combinar tus uñas con un vestido verde, consejos, diseños ideas y mucho más, visite aquí..."
-originalUrl: "https://www.tuasesordemoda.com/color-de-unas-para-vestido-verde/"
-coverImage: "/images/posts/color-de-unas-para-vestido-verde.jpg"
+title: Color de uñas para vestido verde
+excerpt: >-
+  Encuentra las mejores ideas para combinar tus uñas con un vestido verde,
+  consejos, diseños ideas y mucho más, visite aquí...
+date: '2022-10-28'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - look
+  - vestimenta
+  - accesorios
+featured: 'true'
+seoTitle: 'Color de uñas para vestido verde, militar, esmeralda'
+seoDescription: >-
+  Encuentra las mejores ideas para combinar tus uñas con un vestido verde,
+  consejos, diseños ideas y mucho más, visite aquí...
+originalUrl: 'https://www.tuasesordemoda.com/color-de-unas-para-vestido-verde/'
+coverImage: /images/posts/color-de-unas-para-vestido-verde.jpg
 ---
 
 

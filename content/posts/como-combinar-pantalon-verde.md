@@ -1,15 +1,31 @@
 ---
-title: "Pantalón verde"
-excerpt: "✨ Aprende a combinar PANTALÓN VERDE en tus looks!, te traemos outfits y combinaciones para que aprendas a usar este color de pantalón ✨ INGRESA ..."
-date: "2022-11-25"
-author: "TuAsesorDeModa"
-categories: ["mujer", "zapatos"]
-tags: ["moda", "estilo", "tendencias", "outfit", "look", "ropa", "accesorios", "complementos", "temporada", "casual"]
-featured: "true"
-seoTitle: "Combinar pantalón verde, ¿con qué? Outfits 【 2025 】"
-seoDescription: "✨ Aprende a combinar PANTALÓN VERDE en tus looks!, te traemos outfits y combinaciones para que aprendas a usar este color de pantalón ✨ INGRESA ..."
-originalUrl: "https://www.tuasesordemoda.com/como-combinar-pantalon-verde/"
-coverImage: "/images/posts/como-combinar-pantalon-verde.png"
+title: Pantalón verde
+excerpt: >-
+  ✨ Aprende a combinar PANTALÓN VERDE en tus looks!, te traemos outfits y
+  combinaciones para que aprendas a usar este color de pantalón ✨ INGRESA ...
+date: '2022-11-25'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - tendencias
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - temporada
+  - casual
+featured: 'true'
+seoTitle: 'Combinar pantalón verde, ¿con qué? Outfits'
+seoDescription: >-
+  ✨ Aprende a combinar PANTALÓN VERDE en tus looks!, te traemos outfits y
+  combinaciones para que aprendas a usar este color de pantalón ✨ INGRESA ...
+originalUrl: 'https://www.tuasesordemoda.com/como-combinar-pantalon-verde/'
+coverImage: /images/posts/como-combinar-pantalon-verde.png
 ---
 
 El verde es un color relacionado a la naturaleza, con el cual según la psicología del color trasmite tranquilidad. La persona quién lo porta en su vestimanta refleja tenacidad y firmeza en las ideas que trasmite. Por tanto, el pantalón verde nos permite desmotrar nuestro dominio y alta autoestima. Para actividades más profesionales relacionadas a los negocios, se aconseja utilizarlo en sus tonos más oscuros. Es una muy buena opción para utilizar un pantalón de color que a su vez me permite utilizarlo con todas las prendas básicas del guardarropa.

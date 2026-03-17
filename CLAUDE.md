@@ -19,3 +19,9 @@
 - Mantener consistencia en el estilo de código existente
 - Usar fuente Abril Fatface para títulos principales
 - Galerías de imágenes deben mostrar 3 columnas fijas
+
+## Instrucciones para Claude futuro
+- **SIEMPRE** revisar los commits recientes con `git log --oneline -10` y `git show --stat HEAD` al inicio de cada sesión
+- Los commits contienen el historial completo de trabajo realizado y decisiones técnicas
+- Usar `git show [commit-hash]` para ver detalles específicos de cambios importantes
+- Los mensajes de commit incluyen contexto sobre las implementaciones y mejoras realizadas

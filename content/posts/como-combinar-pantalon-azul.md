@@ -1,15 +1,29 @@
 ---
-title: "Outfit pantalón azul marino"
-excerpt: "OUTFITS PANTALÓN AZUL MARINO ¿Con que combina?, mira looks y como combinarlo para verte genial con tu pantalón azul favorito ➤ INGRESA AQUÍ ..."
-date: "2022-12-05"
-author: "TuAsesorDeModa"
-categories: ["zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "ropa", "accesorios", "complementos", "casual", "formal"]
-featured: "true"
-seoTitle: "Outfit pantalón azul marino - look, combinar 2025"
-seoDescription: "OUTFITS PANTALÓN AZUL MARINO ¿Con que combina?, mira looks y como combinarlo para verte genial con tu pantalón azul favorito ➤ INGRESA AQUÍ ..."
-originalUrl: "https://www.tuasesordemoda.com/como-combinar-pantalon-azul/"
-coverImage: "/images/posts/como-combinar-pantalon-azul.jpg"
+title: Outfit pantalón azul marino
+excerpt: >-
+  OUTFITS PANTALÓN AZUL MARINO ¿Con que combina?, mira looks y como combinarlo
+  para verte genial con tu pantalón azul favorito ➤ INGRESA AQUÍ ...
+date: '2022-12-05'
+author: TuAsesorDeModa
+categories:
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - ropa
+  - accesorios
+  - complementos
+  - casual
+  - formal
+featured: 'true'
+seoTitle: 'Outfit pantalón azul marino - look, combinar'
+seoDescription: >-
+  OUTFITS PANTALÓN AZUL MARINO ¿Con que combina?, mira looks y como combinarlo
+  para verte genial con tu pantalón azul favorito ➤ INGRESA AQUÍ ...
+originalUrl: 'https://www.tuasesordemoda.com/como-combinar-pantalon-azul/'
+coverImage: /images/posts/como-combinar-pantalon-azul.jpg
 ---
 
 El color azul o azul marino, transmite elegancia, y sin dudas este color demuestra inteligencia, formalidad y frescura, es un color muy versátil y utilizado en prendas de ropa, en especial cuando hablamos de pantalones.

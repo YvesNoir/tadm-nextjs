@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #fffdf9;
   --foreground: #171717;
 
   /* Site Color Scheme - TuAsesorDeModa Brand Colors */
@@ -14,8 +14,8 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-inter);
 
   /* Custom Colors */
   --color-primary: var(--color-primary);
@@ -24,22 +24,33 @@
   --color-background-soft: var(--color-background-soft);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  background: var(--background);
+  background:
+    radial-gradient(circle at top, rgba(231, 135, 44, 0.12), transparent 36%),
+    linear-gradient(180deg, #f8f2e8 0%, #fffdf9 34%, #ffffff 100%);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), Arial, Helvetica, sans-serif;
 }
 
-/* Apply Source Sans 3 to spans, paragraphs, and links */
-span, p, a {
+main {
+  min-height: 100%;
+}
+
+/* Apply Source Sans 3 to inline text and body copy */
+span, p, li {
   font-family: var(--font-source-sans-3) !important;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-eb-garamond), Georgia, serif !important;
+  font-weight: 500;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a {
+  font-family: inherit !important;
 }
 
 /* Force blog content to be black */
@@ -59,7 +70,8 @@ span, p, a {
 .blog-content h1 {
   color: #000000 !important;
   font-size: 2.5rem !important;
-  font-weight: 700 !important;
+  font-family: var(--font-eb-garamond), Georgia, serif !important;
+  font-weight: 500 !important;
   line-height: 1.2 !important;
   margin-top: 2rem !important;
   margin-bottom: 1.5rem !important;
@@ -67,29 +79,32 @@ span, p, a {
 
 .blog-content h2 {
   color: #000000 !important;
-  font-size: 2rem !important;
-  font-weight: 600 !important;
-  line-height: 1.3 !important;
-  margin-top: 2rem !important;
-  margin-bottom: 1rem !important;
+  font-size: 2.2rem !important;
+  font-family: var(--font-eb-garamond), Georgia, serif !important;
+  font-weight: 500 !important;
+  line-height: 1.22 !important;
+  margin-top: 2.25rem !important;
+  margin-bottom: 1.15rem !important;
 }
 
 .blog-content h3 {
   color: #000000 !important;
-  font-size: 1.5rem !important;
-  font-weight: 600 !important;
-  line-height: 1.4 !important;
-  margin-top: 1.5rem !important;
-  margin-bottom: 0.75rem !important;
+  font-size: 1.7rem !important;
+  font-family: var(--font-eb-garamond), Georgia, serif !important;
+  font-weight: 500 !important;
+  line-height: 1.28 !important;
+  margin-top: 1.85rem !important;
+  margin-bottom: 0.9rem !important;
 }
 
 .blog-content h4 {
   color: #000000 !important;
-  font-size: 1.25rem !important;
+  font-size: 1.2rem !important;
+  font-family: var(--font-eb-garamond), Georgia, serif !important;
   font-weight: 500 !important;
-  line-height: 1.5 !important;
-  margin-top: 1.25rem !important;
-  margin-bottom: 0.75rem !important;
+  line-height: 1.4 !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.7rem !important;
 }
 
 .blog-content h5 {

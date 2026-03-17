@@ -1,0 +1,32 @@
+# Robots.txt para tuasesordemoda.com
+User-agent: *
+Allow: /
+
+# Permitir acceso a todos los crawlers principales
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+
+# Evitar crawleo de archivos no necesarios
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /*?*utm_*
+Disallow: /*?*fbclid*
+Disallow: /*?*gclid*
+
+# Permitir crawleo de imágenes y CSS importantes para SEO
+Allow: /images/
+Allow: /_next/static/
+Allow: /favicon.ico
+
+# Sitemap location
+Sitemap: https://www.tuasesordemoda.com/sitemap.xml
+
+# Crawl delay (opcional, para evitar sobrecarga del servidor)
+Crawl-delay: 1

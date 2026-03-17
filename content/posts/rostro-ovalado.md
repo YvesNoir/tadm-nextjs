@@ -1,15 +1,25 @@
 ---
-title: "Rostro ovalado"
-excerpt: "¿Tienes rostro ovalado? Aquí te traemos la mejor guía de peinados, cortes y características del rostro ovalado de mujer... clic aquí..."
-date: "2022-10-27"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "outfit", "look", "ropa", "accesorios"]
-featured: "true"
-seoTitle: "Rostro ovalado, características, famosas, peinados [2025]"
-seoDescription: "¿Tienes rostro ovalado? Aquí te traemos la mejor guía de peinados, cortes y características del rostro ovalado de mujer... clic aquí..."
-originalUrl: "https://www.tuasesordemoda.com/rostro-ovalado/"
-coverImage: "/images/posts/rostro-ovalado.jpeg"
+title: Rostro ovalado
+excerpt: >-
+  ¿Tienes rostro ovalado? Aquí te traemos la mejor guía de peinados, cortes y
+  características del rostro ovalado de mujer... clic aquí...
+date: '2022-10-27'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - outfit
+  - look
+  - ropa
+  - accesorios
+featured: 'true'
+seoTitle: 'Rostro ovalado, características, famosas, peinados'
+seoDescription: >-
+  ¿Tienes rostro ovalado? Aquí te traemos la mejor guía de peinados, cortes y
+  características del rostro ovalado de mujer... clic aquí...
+originalUrl: 'https://www.tuasesordemoda.com/rostro-ovalado/'
+coverImage: /images/posts/rostro-ovalado.jpeg
 ---
 
 

@@ -1,15 +1,23 @@
 ---
-title: "Rostro redondo"
-excerpt: "¿Tienes rostro redondo? Te mostramos las características, peinados y cortes que benefician a tu tipo de rostro... visite aquí..."
-date: "2022-10-28"
-author: "TuAsesorDeModa"
-categories: ["mujer"]
-tags: ["moda", "estilo", "accesorios"]
-featured: "true"
-seoTitle: "Rostro redondo, mujer, características, circular [2025]"
-seoDescription: "¿Tienes rostro redondo? Te mostramos las características, peinados y cortes que benefician a tu tipo de rostro... visite aquí..."
-originalUrl: "https://www.tuasesordemoda.com/rostro-redondo-mujer/"
-coverImage: "/images/posts/rostro-redondo-mujer.jpeg"
+title: Rostro redondo
+excerpt: >-
+  ¿Tienes rostro redondo? Te mostramos las características, peinados y cortes
+  que benefician a tu tipo de rostro... visite aquí...
+date: '2022-10-28'
+author: TuAsesorDeModa
+categories:
+  - mujer
+tags:
+  - moda
+  - estilo
+  - accesorios
+featured: 'true'
+seoTitle: 'Rostro redondo, mujer, características, circular'
+seoDescription: >-
+  ¿Tienes rostro redondo? Te mostramos las características, peinados y cortes
+  que benefician a tu tipo de rostro... visite aquí...
+originalUrl: 'https://www.tuasesordemoda.com/rostro-redondo-mujer/'
+coverImage: /images/posts/rostro-redondo-mujer.jpeg
 ---
 
 # Rostro redondo

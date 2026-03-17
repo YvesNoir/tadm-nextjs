@@ -1,15 +1,29 @@
 ---
-title: "Uñas para vestido negro"
-excerpt: "Utilizarás un vestido negro, y aún no sabes de qué color pintar tus uñas? Esta es la guía para que aprendas como combinar tus uñas y el vestido negro"
-date: "2022-12-10"
-author: "TuAsesorDeModa"
-categories: ["mujer", "belleza", "zapatos"]
-tags: ["moda", "estilo", "outfit", "look", "accesorios", "complementos", "elegante"]
-featured: "true"
-seoTitle: "Uñas para vestido negro, color, acrílico, dorado, plata 2025"
-seoDescription: "Utilizarás un vestido negro, y aún no sabes de qué color pintar tus uñas? Esta es la guía para que aprendas como combinar tus uñas y el vestido negro"
-originalUrl: "https://www.tuasesordemoda.com/unas-para-vestido-negro/"
-coverImage: "/images/posts/unas-para-vestido-negro.jpg"
+title: Uñas para vestido negro
+excerpt: >-
+  Utilizarás un vestido negro, y aún no sabes de qué color pintar tus uñas? Esta
+  es la guía para que aprendas como combinar tus uñas y el vestido negro
+date: '2022-12-10'
+author: TuAsesorDeModa
+categories:
+  - mujer
+  - belleza
+  - zapatos
+tags:
+  - moda
+  - estilo
+  - outfit
+  - look
+  - accesorios
+  - complementos
+  - elegante
+featured: 'true'
+seoTitle: 'Uñas para vestido negro, color, acrílico, dorado, plata'
+seoDescription: >-
+  Utilizarás un vestido negro, y aún no sabes de qué color pintar tus uñas? Esta
+  es la guía para que aprendas como combinar tus uñas y el vestido negro
+originalUrl: 'https://www.tuasesordemoda.com/unas-para-vestido-negro/'
+coverImage: /images/posts/unas-para-vestido-negro.jpg
 ---
 
 

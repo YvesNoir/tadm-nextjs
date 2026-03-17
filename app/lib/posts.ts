@@ -3,19 +3,20 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import { cache } from 'react';
 import { Post, Category } from '@/app/types';
 import { getCategoryBySlug } from './categories';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
-export function getPostSlugs(): string[] {
+const readPostSlugs = cache((): string[] => {
   if (!fs.existsSync(postsDirectory)) {
     return [];
   }
   return fs.readdirSync(postsDirectory).filter(file => file.endsWith('.md'));
-}
+});
 
-export function getPostBySlug(slug: string): Post | null {
+const readPostBySlug = cache((slug: string): Post | null => {
   try {
     const realSlug = slug.replace(/\.md$/, '');
     const fullPath = path.join(postsDirectory, `${realSlug}.md`);
@@ -53,10 +54,10 @@ export function getPostBySlug(slug: string): Post | null {
     console.error(`Error loading post ${slug}:`, error);
     return null;
   }
-}
+});
 
-export async function getPostContent(slug: string): Promise<string> {
-  const post = getPostBySlug(slug);
+const readPostContent = cache(async (slug: string): Promise<string> => {
+  const post = readPostBySlug(slug);
   if (!post) return '';
 
   const processedContent = await remark()
@@ -67,56 +68,63 @@ export async function getPostContent(slug: string): Promise<string> {
     .process(post.content);
 
   return processedContent.toString();
+});
+
+const readAllPosts = cache((): Post[] => {
+  const slugs = readPostSlugs();
+  return slugs
+    .map((slug) => readPostBySlug(slug.replace(/\.md$/, '')))
+    .filter((post): post is Post => post !== null)
+    .sort((post1, post2) => (post1.publishedAt > post2.publishedAt ? -1 : 1));
+});
+
+export function getPostSlugs(): string[] {
+  return readPostSlugs();
+}
+
+export function getPostBySlug(slug: string): Post | null {
+  return readPostBySlug(slug);
+}
+
+export function getPostPath(slug: string): string {
+  return `/${slug}`;
+}
+
+export async function getPostContent(slug: string): Promise<string> {
+  return readPostContent(slug);
 }
 
 export function getAllPosts(): Post[] {
-  const slugs = getPostSlugs();
-  const posts = slugs
-    .map((slug) => getPostBySlug(slug.replace(/\.md$/, '')))
-    .filter((post): post is Post => post !== null)
-    .sort((post1, post2) => (post1.publishedAt > post2.publishedAt ? -1 : 1));
-
-  return posts;
+  return readAllPosts();
 }
 
 export function getPostsByCategory(categorySlug: string): Post[] {
-  const allPosts = getAllPosts();
-  return allPosts.filter(post =>
+  return readAllPosts().filter(post =>
     post.categories.some(category => category.slug === categorySlug)
   );
 }
 
 export function getFeaturedPosts(limit: number = 6): Post[] {
-  const allPosts = getAllPosts();
-  return allPosts
+  return readAllPosts()
     .filter(post => post.featured)
     .slice(0, limit);
 }
 
 export function getLatestPosts(limit: number = 5): Post[] {
-  const allPosts = getAllPosts();
-  return allPosts
+  return readAllPosts()
     .filter(post => post.status === 'published')
     .slice(0, limit);
 }
 
 export function getRelatedPosts(currentPostSlug: string, currentCategorySlug: string, limit: number = 3): Post[] {
-  const currentPost = getPostBySlug(currentPostSlug);
+  const currentPost = readPostBySlug(currentPostSlug);
   if (!currentPost) return [];
 
-  const allPosts = getAllPosts();
-
-  // Filter to only include posts from the same specific category
-  const relatedPosts = allPosts
+  return readAllPosts()
     .filter(post =>
       post.slug !== currentPostSlug &&
       post.status === 'published' &&
       post.categories.some(category => category.slug === currentCategorySlug)
-    );
-
-  // Shuffle the array to get random selection
-  const shuffled = relatedPosts.sort(() => Math.random() - 0.5);
-
-  // Return the first 'limit' posts
-  return shuffled.slice(0, limit);
+    )
+    .slice(0, limit);
 }

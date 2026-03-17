@@ -1,15 +1,22 @@
 ---
-title: "Cortes de pelo para hombre"
-excerpt: "Aprende todo sobre los cortes de pelo de hombre y consigue ideas con nuestro artículo sobre cortes de pelo de hombre degradado y más..."
-date: "2022-10-27"
-author: "TuAsesorDeModa"
-categories: ["hombre"]
-tags: ["moda", "estilo"]
-featured: "true"
-seoTitle: "Cortes de pelo, degradado hombre, flequillo, largo 2025"
-seoDescription: "Aprende todo sobre los cortes de pelo de hombre y consigue ideas con nuestro artículo sobre cortes de pelo de hombre degradado y más..."
-originalUrl: "https://www.tuasesordemoda.com/cortes-y-peinados-de-hombre/"
-coverImage: "/images/posts/cortes-y-peinados-de-hombre.jpg"
+title: Cortes de pelo para hombre
+excerpt: >-
+  Aprende todo sobre los cortes de pelo de hombre y consigue ideas con nuestro
+  artículo sobre cortes de pelo de hombre degradado y más...
+date: '2022-10-27'
+author: TuAsesorDeModa
+categories:
+  - hombre
+tags:
+  - moda
+  - estilo
+featured: 'true'
+seoTitle: 'Cortes de pelo, degradado hombre, flequillo, largo'
+seoDescription: >-
+  Aprende todo sobre los cortes de pelo de hombre y consigue ideas con nuestro
+  artículo sobre cortes de pelo de hombre degradado y más...
+originalUrl: 'https://www.tuasesordemoda.com/cortes-y-peinados-de-hombre/'
+coverImage: /images/posts/cortes-y-peinados-de-hombre.jpg
 ---
 
 

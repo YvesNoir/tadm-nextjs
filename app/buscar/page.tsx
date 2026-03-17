@@ -4,6 +4,8 @@ import { getAllPosts } from '@/app/lib/posts';
 import { format } from 'date-fns';
 import { es } from 'date-fns/locale';
 import SearchBox from '@/app/components/ui/SearchBox';
+import { getPostPath } from '@/app/lib/posts';
+import { ebGaramond } from '@/app/lib/fonts';
 
 interface SearchPageProps {
   searchParams: Promise<{
@@ -32,7 +34,7 @@ function SearchResults({ query }: { query: string }) {
           No se encontraron resultados
         </h2>
         <p className="text-gray-600 mb-8">
-          No se encontraron artículos para "{query}". Intenta con otros términos de búsqueda.
+          No se encontraron artículos para &quot;{query}&quot;. Intenta con otros términos de búsqueda.
         </p>
         <div className="max-w-md mx-auto">
           <SearchBox placeholder="Buscar otros términos..." />
@@ -44,7 +46,7 @@ function SearchResults({ query }: { query: string }) {
   return (
     <div>
       <h2 className="text-2xl font-bold text-gray-900 mb-8">
-        {searchResults.length} resultado{searchResults.length !== 1 ? 's' : ''} para "{query}"
+        {searchResults.length} resultado{searchResults.length !== 1 ? 's' : ''} para &quot;{query}&quot;
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -62,10 +64,10 @@ function SearchResults({ query }: { query: string }) {
                   {format(new Date(post.publishedAt), "d 'de' MMMM, yyyy", { locale: es })}
                 </time>
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2 line-clamp-2">
+              <h3 className={`${ebGaramond.className} text-xl font-semibold text-gray-900 mb-2 line-clamp-2`}>
                 <Link
-                  href={`/${post.categories[0]?.slug || 'articulo'}/${post.slug}`}
-                  className="hover:text-gray-700 transition-colors"
+                  href={getPostPath(post.slug)}
+                  className={`${ebGaramond.className} font-[inherit] hover:text-gray-700 transition-colors`}
                 >
                   {post.title}
                 </Link>
@@ -85,7 +87,7 @@ function SearchResults({ query }: { query: string }) {
                 ))}
               </div>
               <Link
-                href={`/${post.categories[0]?.slug || 'articulo'}/${post.slug}`}
+                href={getPostPath(post.slug)}
                 className="text-black font-medium text-sm hover:underline"
               >
                 Leer más →
