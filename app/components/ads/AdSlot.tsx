@@ -11,9 +11,14 @@ declare global {
 interface AdSlotProps {
   slot?: string;
   className?: string;
+  variant?: 'in-article' | 'multiplex';
 }
 
-export default function AdSlot({ slot, className = '' }: AdSlotProps) {
+export default function AdSlot({
+  slot,
+  className = '',
+  variant = 'in-article',
+}: AdSlotProps) {
   useEffect(() => {
     if (!slot || typeof window === 'undefined') {
       return;
@@ -36,14 +41,24 @@ export default function AdSlot({ slot, className = '' }: AdSlotProps) {
       <div className="mb-3 text-center text-[11px] font-semibold uppercase tracking-[0.2em] text-[#9d5b43]">
         Publicidad
       </div>
-      <ins
-        className="adsbygoogle block"
-        style={{ display: 'block' }}
-        data-ad-client="ca-pub-2816862233382229"
-        data-ad-slot={slot}
-        data-ad-format="auto"
-        data-full-width-responsive="true"
-      />
+      {variant === 'multiplex' ? (
+        <ins
+          className="adsbygoogle block"
+          style={{ display: 'block' }}
+          data-ad-client="ca-pub-2816862233382229"
+          data-ad-slot={slot}
+          data-ad-format="autorelaxed"
+        />
+      ) : (
+        <ins
+          className="adsbygoogle block"
+          style={{ display: 'block', textAlign: 'center' }}
+          data-ad-client="ca-pub-2816862233382229"
+          data-ad-slot={slot}
+          data-ad-layout="in-article"
+          data-ad-format="fluid"
+        />
+      )}
     </div>
   );
 }
