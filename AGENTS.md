@@ -27,6 +27,7 @@
 - Los mensajes de commit incluyen contexto sobre las implementaciones y mejoras realizadas
 
 ## Skills
+- `auditor-seo`: auditar el blog desde una mirada SEO integral, incluyendo técnica, Search Console, interlinking, keywords, canibalización y visibilidad para IA. Archivo: `/Users/sebastianfente/Documents/Development/tadm-nextjs/.codex/skills/auditor-seo/SKILL.md`
 - `contenido-editorial`: revisar, mejorar o normalizar artículos sin romper intención SEO ni clasificación. Archivo: `/Users/sebastianfente/Documents/Development/tadm-nextjs/.codex/skills/contenido-editorial/SKILL.md`
 - `frontend-blog`: mejorar diseño y experiencia del frontend del blog sin comprometer SEO ni rendimiento. Archivo: `/Users/sebastianfente/Documents/Development/tadm-nextjs/.codex/skills/frontend-blog/SKILL.md`
 - `publicidad-editorial`: definir, revisar o implementar una estrategia manual de publicidad para el blog sin romper la experiencia editorial, el SEO ni el rendimiento. Archivo: `/Users/sebastianfente/Documents/Development/tadm-nextjs/.codex/skills/publicidad-editorial/SKILL.md`
