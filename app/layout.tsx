@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
 import { inter, ebGaramond, sourceSans3 } from "./lib/fonts";
+import { buildOgImageUrl, SITE_NAME, SITE_TWITTER, SITE_URL } from "./lib/seo";
 
 const gtmId = "GTM-TF78BK6";
 const adsenseClient = "ca-pub-2816862233382229";
@@ -17,16 +18,16 @@ const verification = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.tuasesordemoda.com'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "TuAsesorDeModa - Moda, Estilo y Tendencias",
-    template: "%s | TuAsesorDeModa"
+    template: `%s | ${SITE_NAME}`
   },
   description: "Tu guía completa de moda, estilo y tendencias. Descubre las últimas novedades en moda masculina y femenina, belleza, calzado y mucho más.",
   keywords: ["moda", "estilo", "tendencias", "ropa", "belleza", "zapatos", "perfumes", "outfits", "moda mujer", "moda hombre"],
-  authors: [{ name: "TuAsesorDeModa" }],
-  creator: "TuAsesorDeModa",
-  publisher: "TuAsesorDeModa",
+  authors: [{ name: SITE_NAME }],
+  creator: SITE_NAME,
+  publisher: SITE_NAME,
   formatDetection: {
     email: false,
     address: false,
@@ -40,13 +41,17 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'es_ES',
-    url: 'https://www.tuasesordemoda.com',
+    url: SITE_URL,
     title: 'TuAsesorDeModa - Moda, Estilo y Tendencias',
     description: 'Tu guía completa de moda, estilo y tendencias. Descubre las últimas novedades en moda masculina y femenina, belleza, calzado y mucho más.',
-    siteName: 'TuAsesorDeModa',
+    siteName: SITE_NAME,
     images: [
       {
-        url: '/images/og-image.jpg',
+        url: buildOgImageUrl({
+          title: 'Moda, estilo y tendencias para descubrir cada día',
+          kicker: 'Tu Asesor de Moda',
+          description: 'Artículos editoriales sobre moda femenina, masculina, belleza y recomendaciones.',
+        }),
         width: 1200,
         height: 630,
         alt: 'TuAsesorDeModa - Tu guía de moda y estilo',
@@ -57,8 +62,15 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'TuAsesorDeModa - Moda, Estilo y Tendencias',
     description: 'Tu guía completa de moda, estilo y tendencias.',
-    creator: '@tuasesordemoda',
-    images: ['/images/og-image.jpg'],
+    creator: SITE_TWITTER,
+    site: SITE_TWITTER,
+    images: [
+      buildOgImageUrl({
+        title: 'Moda, estilo y tendencias para descubrir cada día',
+        kicker: 'Tu Asesor de Moda',
+        description: 'Artículos editoriales sobre moda femenina, masculina, belleza y recomendaciones.',
+      }),
+    ],
   },
   robots: {
     index: true,

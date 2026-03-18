@@ -3,6 +3,7 @@ import BlogShowcase from '@/app/components/blog/BlogShowcase';
 import { getAllCategories, getCategoryBySlug } from '@/app/lib/categories';
 import { getPostsByCategory } from '@/app/lib/posts';
 import { Metadata } from 'next';
+import { createCategoryMetadata } from '@/app/lib/seo';
 
 interface CategoryPageProps {
   params: Promise<{
@@ -20,16 +21,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     };
   }
 
-  return {
-    title: categoryData.seoTitle || `${categoryData.name} - TuAsesorDeModa`,
-    description: categoryData.seoDescription || categoryData.description,
-    alternates: {
-      canonical: `/${categoryData.slug}`,
-    },
-    openGraph: {
-      url: `/${categoryData.slug}`,
-    },
-  };
+  return createCategoryMetadata(categoryData);
 }
 
 export function generateStaticParams() {

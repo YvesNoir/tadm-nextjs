@@ -1,8 +1,9 @@
 import { notFound } from 'next/navigation';
-import { getAllPosts, getPostBySlug, getPostContent, getPostPath, getRelatedPosts } from '@/app/lib/posts';
+import { getAllPosts, getPostBySlug, getPostContent, getRelatedPosts } from '@/app/lib/posts';
 import { getCategoryBySlug } from '@/app/lib/categories';
 import { Metadata } from 'next';
 import PostArticleLayout from '@/app/components/blog/PostArticleLayout';
+import { createPostMetadata } from '@/app/lib/seo';
 
 interface PostPageProps {
   params: Promise<{
@@ -22,14 +23,7 @@ export async function generateMetadata({ params }: PostPageProps): Promise<Metad
   }
 
   return {
-    title: postData.seoTitle || `${postData.title} - TuAsesorDeModa`,
-    description: postData.seoDescription || postData.excerpt,
-    alternates: {
-      canonical: getPostPath(postData.slug),
-    },
-    openGraph: {
-      url: getPostPath(postData.slug),
-    },
+    ...createPostMetadata(postData),
     robots: postData.status === 'draft'
       ? {
           index: false,

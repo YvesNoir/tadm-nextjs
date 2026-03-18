@@ -2,16 +2,19 @@ import type { Metadata } from 'next';
 import BlogShowcase from '@/app/components/blog/BlogShowcase';
 import { getAllCategories } from '@/app/lib/categories';
 import { getAllPosts } from '@/app/lib/posts';
+import { createBaseMetadata, buildOgImageUrl } from '@/app/lib/seo';
 
 export const metadata: Metadata = {
-  title: 'Blog de Moda',
-  description: 'Explora todos los artículos de Tu Asesor de Moda sobre tendencias, estilo, belleza y recomendaciones.',
-  alternates: {
-    canonical: '/blog',
-  },
-  openGraph: {
-    url: '/blog',
-  },
+  ...createBaseMetadata({
+    title: 'Blog de Moda',
+    description: 'Explora todos los artículos de Tu Asesor de Moda sobre tendencias, estilo, belleza y recomendaciones.',
+    path: '/blog',
+    image: buildOgImageUrl({
+      title: 'Archivo completo del blog',
+      kicker: 'Blog',
+      description: 'Explora el archivo editorial con artículos de moda, belleza, estilo y recomendaciones.',
+    }),
+  }),
 };
 
 export default function BlogPage() {
