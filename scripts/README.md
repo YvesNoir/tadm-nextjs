@@ -70,6 +70,36 @@ node scripts/optimize-post-images.js --slug pantalones-capri-como-combinarlos
 - ✅ Limita `cover` a `1400px` y `gallery` a `900px`
 - ✅ Reescribe el post para apuntar a los archivos optimizados
 
+### 0.2. `search-console-audit.js` - Consulta Search Console con service account
+Consulta Search Console para obtener queries y páginas con datos reales del sitio.
+
+#### Variables requeridas:
+```bash
+SEARCH_CONSOLE_PROPERTY=https://www.tuasesordemoda.com/
+SEARCH_CONSOLE_SERVICE_ACCOUNT_JSON_PATH=.secrets/search-console-service-account.json
+```
+
+#### Uso:
+```bash
+node scripts/search-console-audit.js
+```
+
+#### Uso con ventana distinta:
+```bash
+SEARCH_CONSOLE_ROWS=50 SEARCH_CONSOLE_DAYS=90 node scripts/search-console-audit.js
+```
+
+#### Qué hace:
+- ✅ Lee credenciales desde un JSON local ignorado por git
+- ✅ Consulta Search Analytics de Search Console
+- ✅ Devuelve páginas y queries con impresiones, clics, CTR y posición
+- ✅ Sirve de base para el agente `auditor-seo`
+
+#### Notas:
+- El JSON recomendado debe quedar en `/.secrets/search-console-service-account.json`
+- El mail del service account debe tener acceso a la propiedad en Search Console
+- No subir nunca ese JSON al repo
+
 ### 1. `blog-extractor.js` - Extractor Individual
 Extrae un artículo individual de una URL específica.
 

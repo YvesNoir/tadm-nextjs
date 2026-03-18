@@ -42,3 +42,6 @@ next-env.d.ts
 
 # generated image sources kept only as local reference
 /image-sources/ai-generated/
+
+# local secrets
+/.secrets/
