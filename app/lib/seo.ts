@@ -98,11 +98,13 @@ export function createPostMetadata(post: Post): Metadata {
   const title = post.seoTitle || post.title;
   const description = post.seoDescription || post.excerpt;
   const path = `/${post.slug}`;
-  const image = buildOgImageUrl({
-    title: post.title,
-    kicker: post.categories[0]?.name || 'Artículo',
-    description: post.excerpt,
-  });
+  const image = post.coverImage
+    ? buildAbsoluteUrl(post.coverImage)
+    : buildOgImageUrl({
+        title: post.title,
+        kicker: post.categories[0]?.name || 'Artículo',
+        description: post.excerpt,
+      });
 
   return {
     ...createBaseMetadata({
