@@ -91,11 +91,12 @@ export default function PostArticleLayout({
                   <AdSlot
                     key={block.key}
                     slot={articleInlineSlot}
+                    variant="in-article"
                   />
                 )
               )}
 
-              {showBottomAd ? <AdSlot slot={articleBottomSlot} /> : null}
+              {showBottomAd ? <AdSlot slot={articleBottomSlot} variant="multiplex" /> : null}
 
               <footer className="mt-12 pt-8 border-t border-gray-200">
                 <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">

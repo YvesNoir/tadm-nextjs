@@ -19,21 +19,26 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
   useEffect(() => {
     // Wait for content to be rendered, then find and process headings
     const processHeadings = () => {
-      const contentElement = document.querySelector('.blog-content');
-      if (!contentElement) return;
+      const contentElements = Array.from(document.querySelectorAll('.blog-content'));
+      if (contentElements.length === 0) return;
 
-      const headingElements = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
       const parsedHeadings: Heading[] = [];
+      let headingIndex = 0;
 
-      headingElements.forEach((heading, index) => {
-        const text = heading.textContent || '';
-        const level = parseInt(heading.tagName.charAt(1));
-        const id = `heading-${index}`;
+      contentElements.forEach((contentElement) => {
+        const headingElements = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
 
-        // Add ID directly to the existing heading in the DOM
-        heading.id = id;
+        headingElements.forEach((heading) => {
+          const text = heading.textContent || '';
+          const level = parseInt(heading.tagName.charAt(1));
+          const id = `heading-${headingIndex}`;
+          headingIndex += 1;
 
-        parsedHeadings.push({ id, text, level });
+          // Add ID directly to the existing heading in the DOM
+          heading.id = id;
+
+          parsedHeadings.push({ id, text, level });
+        });
       });
 
       setHeadings(parsedHeadings);
@@ -43,13 +48,13 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
     const timer = setTimeout(processHeadings, 100);
 
     // Also watch for DOM changes
-    const contentElement = document.querySelector('.blog-content');
-    if (contentElement) {
+    const articleElement = document.querySelector('article');
+    if (articleElement) {
       const observer = new MutationObserver(() => {
         setTimeout(processHeadings, 50);
       });
 
-      observer.observe(contentElement, {
+      observer.observe(articleElement, {
         childList: true,
         subtree: true
       });
