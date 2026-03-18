@@ -98,37 +98,46 @@ export function createPostMetadata(post: Post): Metadata {
   const title = post.seoTitle || post.title;
   const description = post.seoDescription || post.excerpt;
   const path = `/${post.slug}`;
+  const section = post.categories[0]?.name;
   const image = post.coverImage
     ? buildAbsoluteUrl(post.coverImage)
     : buildOgImageUrl({
         title: post.title,
-        kicker: post.categories[0]?.name || 'Artículo',
+        kicker: section || 'Artículo',
         description: post.excerpt,
       });
+  const baseMetadata = createBaseMetadata({
+    title,
+    description,
+    path,
+    image,
+    type: 'article',
+  });
 
   return {
-    ...createBaseMetadata({
-      title,
-      description,
-      path,
-      image,
-      type: 'article',
-    }),
+    ...baseMetadata,
     authors: [{ name: post.author || SITE_NAME }],
     keywords: post.tags,
     openGraph: {
-      ...createBaseMetadata({
-        title,
-        description,
-        path,
-        image,
-        type: 'article',
-      }).openGraph,
+      type: 'article',
+      url: path,
+      title,
+      description,
+      siteName: SITE_NAME,
+      locale: 'es_ES',
+      images: [
+        {
+          url: image,
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
       publishedTime: post.publishedAt.toISOString(),
       modifiedTime: post.updatedAt.toISOString(),
       authors: [post.author || SITE_NAME],
       tags: post.tags,
-      section: post.categories[0]?.name,
+      section,
     },
   };
 }
