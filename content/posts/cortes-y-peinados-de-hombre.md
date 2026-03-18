@@ -1,5 +1,5 @@
 ---
-title: Cortes de pelo para hombre: degradado, desmechado y estilos modernos
+title: 'Cortes de pelo para hombre: degradado, desmechado y estilos modernos'
 excerpt: >-
   Inspírate con cortes de pelo para hombre, desde estilos degradados hasta
   opciones desmechadas, con ideas modernas para llevar a la barbería.

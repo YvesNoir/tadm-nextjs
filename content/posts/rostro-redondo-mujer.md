@@ -1,5 +1,5 @@
 ---
-title: Rostro redondo de mujer: características, cortes y peinados
+title: 'Rostro redondo de mujer: características, cortes y peinados'
 excerpt: >-
   Aprende a identificar un rostro redondo en mujer y descubre qué cortes,
   peinados y accesorios ayudan a alargar visualmente la cara.

@@ -1,5 +1,5 @@
 ---
-title: Outfit hombre: ideas casuales, formales y smart casual
+title: 'Outfit hombre: ideas casuales, formales y smart casual'
 excerpt: >-
   Encuentra ideas de outfit para hombre casual, formal y smart casual con
   combinaciones fáciles de adaptar al día, la oficina, eventos y salidas.

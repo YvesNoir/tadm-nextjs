@@ -1,5 +1,5 @@
 ---
-title: Cara cuadrada de mujer: rasgos, peinados y cortes que favorecen
+title: 'Cara cuadrada de mujer: rasgos, peinados y cortes que favorecen'
 excerpt: >-
   Descubre cómo identificar una cara cuadrada en mujer y qué cortes,
   peinados y trucos de maquillaje ayudan a suavizar y equilibrar los rasgos.

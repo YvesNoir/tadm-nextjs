@@ -1,5 +1,5 @@
 ---
-title: Rostro diamante hombre: características y cortes que favorecen
+title: 'Rostro diamante hombre: características y cortes que favorecen'
 excerpt: >-
   Descubre cómo identificar un rostro diamante en hombres y qué cortes,
   peinados y gafas ayudan a equilibrar los pómulos y suavizar las facciones.
