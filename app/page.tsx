@@ -2,17 +2,21 @@ import type { Metadata } from 'next';
 import BlogShowcase from '@/app/components/blog/BlogShowcase';
 import { getAllCategories } from './lib/categories';
 import { getAllPosts } from './lib/posts';
+import { createBaseMetadata, buildOgImageUrl } from './lib/seo';
 
 export const metadata: Metadata = {
-  title: 'Moda, Estilo y Belleza',
-  description:
-    'Descubre artículos sobre moda femenina, masculina, belleza y recomendaciones en una portada editorial clara y pensada para explorar el blog completo.',
-  alternates: {
-    canonical: '/',
-  },
-  openGraph: {
-    url: '/',
-  },
+  ...createBaseMetadata({
+    title: 'Moda, Estilo y Belleza',
+    description:
+      'Descubre artículos sobre moda femenina, masculina, belleza y recomendaciones en una portada editorial clara y pensada para explorar el blog completo.',
+    path: '/',
+    image: buildOgImageUrl({
+      title: 'Las historias más nuevas sobre moda, belleza y estilo',
+      kicker: 'Tu Asesor de Moda',
+      description:
+        'Una portada editorial para descubrir tendencias, ideas de outfits y recomendaciones con una experiencia visual cuidada.',
+    }),
+  }),
 };
 
 export default function Home() {
