@@ -81,7 +81,9 @@ export const REDIRECTS_MAP = {
   "zapatillas-de-casa-que-son": "recomendaciones",
   "zapatillas-sin-cordones-como-combinar-sin-morir-en-el-intento": "recomendaciones",
   "zapatos-para-jeans-mujer": "mujer",
-  "zapatos-para-vestidos": "mujer"
+  "zapatos-para-outfit-oficina-hombre": "hombre",
+  "zapatos-para-vestidos": "mujer",
+  "zapatos-y-accesorios-para-vestido-verde": "mujer"
 };
 
 export function getRedirectPath(slug) {
