@@ -10,6 +10,7 @@ export const REDIRECTS_MAP = {
   "blanco-y-beige-como-combinarlos": "mujer",
   "botines-de-mujer-como-combinar-unos-botines-con-estilo": "recomendaciones",
   "boxers-masculinos": "recomendaciones",
+  "capsule-wardrobe-mujer": "mujer",
   "cara-cuadrada": "mujer",
   "cara-diamante-hombre": "hombre",
   "coleccion-de-relojes-precision-y-estilo-en-bizzarro": "recomendaciones",
