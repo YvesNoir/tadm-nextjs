@@ -148,7 +148,7 @@ async function writeOptimizedImage({ imageData, outputPath, mode }) {
   };
 }
 
-function buildPrompt({ title, excerpt, keywords, imageIndex, totalImages, mode }) {
+function buildPrompt({ title, excerpt, keywords, imageIndex, totalImages, mode, brief }) {
   const keywordText = keywords.length > 0 ? keywords.join(', ') : 'moda, estilo, editorial';
   const imageRole = mode === 'cover'
     ? 'Crea una imagen de portada principal para un artículo editorial de moda.'
@@ -159,6 +159,7 @@ function buildPrompt({ title, excerpt, keywords, imageIndex, totalImages, mode }
     `Tema del artículo: ${title}.`,
     excerpt ? `Contexto editorial: ${excerpt}.` : '',
     `Keywords objetivo: ${keywordText}.`,
+    brief ? `Brief específico: ${brief}.` : '',
     'Estilo visual: editorial de moda, fotografía realista, iluminación cuidada, lookbook premium, composición limpia.',
     'Evitar: texto incrustado, marcas de agua, tipografías, collage, manos deformes, proporciones irreales, baja resolución.',
     mode === 'cover'
@@ -252,6 +253,7 @@ async function main() {
     : 1;
   const mode = args.mode === 'gallery' ? 'gallery' : 'cover';
   const dryRun = Boolean(args['dry-run']);
+  const brief = String(args.brief || '').trim();
 
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   fs.mkdirSync(ORIGINALS_DIR, { recursive: true });
@@ -267,6 +269,7 @@ async function main() {
       imageIndex,
       totalImages: mode === 'cover' ? 1 : startIndex + count - 1,
       mode,
+      brief,
     });
 
     if (dryRun) {

@@ -205,3 +205,5 @@ La actualización casi siempre pasa por depurar, no por recargar.
 Un buen outfit oficina hombre no depende de tener un armario enorme ni de vestirse de traje todos los días. Depende de entender el contexto, elegir prendas que combinen entre sí y construir una imagen profesional que también sea cómoda y natural.
 
 Cuando esa base está bien hecha, vestir para trabajar deja de sentirse como una obligación rígida y pasa a ser una herramienta real para proyectar seguridad, orden y estilo.
+
+Si quieres salir de la oficina y mirar una guía más amplia para distintas ocasiones, puedes continuar con [outfit hombre](/outfit-hombre). Y si en tu trabajo el código cae justo entre lo pulido y lo relajado, también te conviene revisar [smart casual hombre](/smart-casual-hombre).

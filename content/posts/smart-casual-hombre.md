@@ -213,3 +213,5 @@ Cuando ese balance aparece, el look se siente natural y elegante sin esfuerzo.
 El smart casual para hombre sigue funcionando porque resuelve una necesidad muy actual: vestir bien en contextos intermedios. No siempre queremos ir de traje, pero tampoco queremos parecer demasiado informales. Este estilo llena ese espacio con una combinación muy efectiva de comodidad, presencia y versatilidad.
 
 Si construyes tu armario con unas pocas prendas bien elegidas y entiendes cómo equilibrarlas, el smart casual deja de ser un dress code confuso y pasa a convertirse en una de las fórmulas más útiles de tu vestidor.
+
+Si después quieres ampliar hacia una guía más general con ideas casuales, formales y de evento, puedes seguir con nuestro artículo de [outfit hombre](/outfit-hombre). Y si tu foco está más puesto en el trabajo, la pieza sobre [outfit oficina hombre](/outfit-oficina-hombre) desarrolla mejor ese terreno específico.
