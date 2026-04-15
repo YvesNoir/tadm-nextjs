@@ -38,6 +38,7 @@ export const REDIRECTS_MAP = {
   "faldas-de-los-90-como-llevarlas-hoy": "mujer",
   "la-moda-sostenible-esta-en-pleno-auge": "recomendaciones",
   "la-rutina-de-limpieza-facial-que-mas-notara-tu-rostro": "recomendaciones",
+  "las-mejores-zapatillas-de-padel-para-mujer": "zapatos",
   "las-zapatillas-de-las-que-todo-el-mundo-habla-cetti": "recomendaciones",
   "look-de-invierno-de-mujer": "mujer",
   "look-para-ano-nuevo": "mujer",
