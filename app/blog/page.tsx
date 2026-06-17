@@ -6,13 +6,15 @@ import { createBaseMetadata, buildOgImageUrl } from '@/app/lib/seo';
 
 export const metadata: Metadata = {
   ...createBaseMetadata({
-    title: 'Blog de Moda',
-    description: 'Explora todos los artículos de Tu Asesor de Moda sobre tendencias, estilo, belleza y recomendaciones.',
+    title: 'Blog de moda, estilo y belleza',
+    description:
+      'Descubre artículos de moda para mujer y hombre, belleza, tendencias, outfits y recomendaciones para vestir mejor cada día.',
     path: '/blog',
     image: buildOgImageUrl({
-      title: 'Archivo completo del blog',
+      title: 'Blog de moda, estilo y belleza',
       kicker: 'Blog',
-      description: 'Explora el archivo editorial con artículos de moda, belleza, estilo y recomendaciones.',
+      description:
+        'Artículos de moda para mujer y hombre, belleza, tendencias, outfits y recomendaciones de estilo.',
     }),
   }),
 };
@@ -26,8 +28,8 @@ export default function BlogPage() {
   return (
     <BlogShowcase
       eyebrow="Archivo"
-      title="Un listado editorial unificado para todo el blog"
-      description="La misma lógica visual de la home aplicada al archivo completo: filtros claros, tarjetas amplias y una lectura más limpia para seguir refinando el diseño desde una base consistente."
+      title="Blog de moda, estilo y belleza para mujer y hombre"
+      description="Explora artículos sobre outfits, tendencias, belleza, combinaciones de ropa y recomendaciones para encontrar ideas útiles según tu estilo y la ocasión."
       posts={posts}
       categories={categories}
     />

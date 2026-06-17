@@ -5,17 +5,17 @@ export const CATEGORIES: Category[] = [
     id: 'hombre',
     name: 'Hombre',
     slug: 'hombre',
-    description: 'Moda y estilo masculino',
-    seoTitle: 'Moda Hombre - Tendencias y Estilo Masculino | TuAsesorDeModa',
-    seoDescription: 'Descubre las últimas tendencias en moda masculina, consejos de estilo y outfits para hombre.'
+    description: 'Moda masculina con outfits, estilo, cortes y consejos para vestir mejor',
+    seoTitle: 'Moda hombre: outfits, tendencias y estilo masculino | TuAsesorDeModa',
+    seoDescription: 'Explora artículos de moda hombre con outfits, smart casual, oficina, cortes de pelo y consejos de estilo masculino.'
   },
   {
     id: 'mujer',
     name: 'Mujer',
     slug: 'mujer',
-    description: 'Moda y estilo femenino',
-    seoTitle: 'Moda Mujer - Tendencias y Estilo Femenino | TuAsesorDeModa',
-    seoDescription: 'Explora las tendencias en moda femenina, consejos de estilo y outfits para mujer.'
+    description: 'Moda femenina con tendencias, outfits, belleza y guías de estilo',
+    seoTitle: 'Moda mujer: tendencias, outfits y estilo femenino | TuAsesorDeModa',
+    seoDescription: 'Descubre artículos de moda mujer con tendencias, outfits, belleza, combinaciones de ropa y consejos de estilo.'
   },
   {
     id: 'moda',
