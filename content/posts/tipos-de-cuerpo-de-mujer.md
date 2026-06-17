@@ -1,372 +1,249 @@
 ---
-title: Tipos de cuerpo de mujer
+title: "Tipos de cuerpo de mujer: cómo saber cuál tienes y cómo vestirlo"
 excerpt: >-
-  Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo,
-  Visite este artículo para leer consejos sobre cada tipo...
+  Descubre los tipos de cuerpo de mujer, cómo saber cuál tienes según tus
+  medidas y qué prendas favorecen más a cada silueta: reloj de arena, pera,
+  triángulo invertido, rectangular y manzana.
 date: '2022-10-27'
 author: TuAsesorDeModa
 categories:
   - mujer
 tags:
-  - moda
-  - outfit
-featured: 'true'
-seoTitle: 'Tipos de cuerpo mujer, ¿cómo saber cuál tengo?'
+  - tipos de cuerpo de mujer
+  - como saber que tipo de cuerpo tengo mujer
+  - tipo de cuerpo mujer medidas
+  - complexión física mujer
+  - silueta femenina
+featured: false
+seoTitle: "Tipos de cuerpo de mujer: cómo saber cuál tienes"
 seoDescription: >-
-  Aprende cuales son los tipos de cuerpo de mujer para saber cual es el tuyo,
-  Visite este artículo para leer consejos sobre cada tipo...
+  Aprende cuáles son los tipos de cuerpo de mujer, cómo medir hombros,
+  cintura y cadera, y qué prendas favorecen más a cada tipo de silueta.
 originalUrl: 'https://www.tuasesordemoda.com/tipos-de-cuerpo-de-mujer/'
 coverImage: /images/posts/tipos-de-cuerpo-de-mujer.jpg
+status: published
 ---
 
+Los **tipos de cuerpo de mujer** más habituales suelen resumirse en cinco grandes siluetas: **triángulo invertido, reloj de arena, triángulo o pera, rectangular y manzana**. Saber cuál tienes no depende de pesar más o menos, sino de observar la proporción entre hombros, busto, cintura y cadera.
 
+Esa diferencia es importante porque mucha gente busca "cómo saber qué tipo de cuerpo tengo mujer" cuando en realidad lo que necesita es una guía clara de medidas y proporciones. Una vez entiendes tu silueta, vestir mejor se vuelve mucho más fácil: eliges cortes más favorecedores, evitas prendas que desordenan la figura y compras con más criterio.
 
+## Respuesta rápida: cuáles son los tipos de cuerpo de mujer
 
-![tipos-de-cuerpo-de-mujer-medidas](/images/posts/tipos-de-cuerpo-de-mujer-medidas.jpg)
+Si quieres una orientación rápida, estas son las cinco formas más comunes:
 
+- **triángulo invertido**: hombros o busto más anchos que la cadera
+- **reloj de arena**: hombros y cadera equilibrados, con cintura marcada
+- **triángulo o pera**: cadera más ancha que hombros y busto
+- **rectangular**: hombros, cintura y cadera con diferencias suaves
+- **manzana u ovalado**: mayor volumen en la zona media del cuerpo
 
+En otras búsquedas también aparece el término **complexión física mujer** o **contextura**. En la práctica, cuando se habla de moda, la intención suele ser la misma: entender qué forma tiene el cuerpo para elegir mejor la ropa.
 
+## Cómo saber qué tipo de cuerpo tienes
 
-# Tipos de cuerpo de mujer
+La forma más fiable de descubrir tu tipo de cuerpo es medir cuatro zonas:
 
-_**hay 5 tipos de cuerpos de mujer, ¡descubre cual es el tuyo y cómo vestirlo!**_
+1. hombros
+2. busto
+3. cintura
+4. cadera
 
-Nuestro cuerpo es único, con características propias que nos proporciona un abanico infinito de posibilidades a la hora de elegir que ponernos o que usar en cada ocasión. Es por ello que la base y el principio de cualquier decisión es saber que **tipo de cuerpo de mujer** tenemos para desde allí partir a lo que nos siente mejor y nos permita lucir de la mejor manera nuestra figura.
+No hace falta obsesionarse con la exactitud milimétrica, pero sí tomar bien las proporciones para detectar dónde está el ancho dominante y cuánto se marca la cintura.
 
-## Tipos de cuerpo femenino: aprende las medidas
+<figure class="my-10">
+  <img src="/images/posts/tipos-de-cuerpo-de-mujer-medidas.jpg" alt="medidas de hombros busto cintura y cadera para saber el tipo de cuerpo de mujer" />
+  <figcaption>Para saber tu tipo de cuerpo, lo importante no es la talla, sino la proporción entre hombros, cintura y cadera.</figcaption>
+</figure>
 
-Teniendo en cuenta que las variables que definen nuestro cuerpo son los hombros, el busto, la cintura y la cadera, te propongo que te tomes la medida del contorno de cada una de ellas, con el fin de determinar cuál es tu silueta, con la ayuda de nuestra explicación recomendamos anotar las medidas que hayas tomado para el siguiente paso, la diferenciación de las **formas de cuerpo de mujer**
+## Tipo de cuerpo mujer: medidas que debes tomar
 
-**_¿donde medirse para conocer su cuerpo de mujer?_**
+### Hombros
 
-**1.** hombros: hay que medir el ancho de hombros, desde la parte de la espalda.
+Mide la espalda de extremo a extremo en la parte más ancha de los hombros.
 
-**2.** pecho: tomar las medidas del contorno del busto sin modificar su forma natural, de la forma más ajustada posible.
+### Busto
 
-**3.** cintura: la tercera medida que necesitas es el contorno de la cintura, en su punto más estrecho.
+Toma el contorno del busto en su zona de mayor volumen, sin apretar en exceso.
 
-**4.** cadera: debería medirse el contorno en su zona más amplia.
+### Cintura
 
-**5.** cola: necesitas medir el contorno de la cola, y el contorno debajo de ella.
+Mide la parte más estrecha del torso, normalmente unos centímetros por encima del ombligo.
 
-# Tipos de cuerpos femeninos
+### Cadera
 
-La solución no se encuentra en dietas milagrosas sino en saber elegir la prenda que más nos favorece y resalta nuestro cuerpo con sus formas naturales. El vestido es la prenda más versátil, sin dudas. Sin embargo no todos operan de la misma manera sobre nuestra figura. Existen tantos tipos de vestidos como cuerpos de mujeres. Lo más importante es que sepas reconocer que me favorece según el **tipo de cuerpo** que tenga la mujer.
+Toma la medida en la zona más ancha de la cadera y los glúteos.
 
-Más allá de que la decisión sobre qué vestir pertenece a cada una, te acerco unos buenos consejos basados en el estudio de las proporciones y las formas  del cuerpo femenino.
+Con esas cuatro referencias ya puedes comparar proporciones y ubicar tu silueta.
 
+## Cómo interpretar las medidas
 
+Estas reglas rápidas suelen funcionar muy bien:
 
+- si hombros o busto son claramente más anchos que cadera, suele ser **triángulo invertido**
+- si hombros y cadera están equilibrados y la cintura se marca bastante, suele ser **reloj de arena**
+- si la cadera domina frente a hombros y busto, suele ser **triángulo o pera**
+- si hombros, cintura y cadera están más alineados, suele ser **rectangular**
+- si la zona media concentra más volumen que hombros y cadera, suele ser **manzana**
 
-![tipos-de-cuerpos-mujer](/images/posts/tipos-de-cuerpos-mujer-1024x757.jpeg)
+No todas las mujeres encajan de forma matemática en una sola categoría. Muchas están entre dos siluetas. Lo útil no es etiquetarte perfecto, sino detectar qué zona domina para equilibrarla al vestir.
 
+## Diferencia entre tipo de cuerpo y complexión física mujer
 
+Aunque a veces se usan como sinónimos, no son exactamente lo mismo.
 
+- **tipo de cuerpo**: describe la forma general de la silueta
+- **complexión física**: puede referirse al tamaño de estructura, hueso o constitución corporal
 
-Una vez que tengas anotadas todas tus medidas, te traemos los resultados de tus medidas para aconsejarte en que prendas usar con cada **tipo de cuerpo**:
-
-– si la medida de tus hombros o busto es 5% más grande que la medida de tu cadera, tu tipo de tu cuerpo es **_triangulo invertido_**.
-
-– cuándo las medidas de tus hombros y tu cadera son parecidas, es decir que entre ellas no hay una diferencia mayor a un 5%, y a su vez la medida de tu cintura es un 25% menor a éstas, tu cuerpo de mujer es **_reloj de arena_**.
-
-– si la extensión de tus caderas es alrededor de un 5% mayor a la medida de tus hombros o pecho, tu tipo de cuerpo es **_triangular o pera_**.
-
-– tus hombros y caderas tienen medidas similares y la diferencia con tu cintura es como mucho, de un 25%, entonces la forma de tu cuerpo es **_rectangular._**
-
-– tu abdomen es alrededor de un 10% mayor a las medidas de tus hombros y cadera, si tu **_silueta es ovalada o manzana_**.
-
-## Tipos de cuerpo y como vestir
-
-¡seguramente ya identificaste tu tipo de cuerpo!, como ya te dijimos vestir bien no tiene que ver con dietas que hagan milagros ni con haber nacido con un cuerpo en específico, lo importante es conocer nuestras ventajas y desventajas a la hora de elegir las prendas, y de esta manera realzar o ocultar las mismas, sin dudas los siguientes consejos te harán ver increíble sea cual sea tu **complexión física de mujer**.
+En SEO, ambas búsquedas se mezclan bastante. Por eso conviene que el artículo responda a las dos intenciones: forma del cuerpo y criterios prácticos para vestirlo.
 
 ## Cuerpo triángulo invertido
 
+En el **triángulo invertido**, la parte superior del cuerpo tiene más presencia que la inferior. Suelen destacar hombros anchos, espalda marcada y cadera más estrecha.
 
+### Qué favorece
 
+- escotes en V o escotes limpios
+- prendas superiores sin exceso de estructura
+- pantalones rectos o algo más amplios
+- faldas y partes inferiores con más volumen visual
+- detalles en cadera o piernas para equilibrar
 
-![mujer-cuerpo-triangulo-invertido](/images/posts/mujer-cuerpo-triangulo-invertido.jpeg)
+### Qué conviene evitar
 
+- hombreras muy marcadas
+- rayas horizontales en la parte superior
+- tops demasiado rígidos o muy cargados
 
+<figure class="my-10">
+  <img src="/images/posts/mujer-cuerpo-triangulo-invertido.jpeg" alt="ejemplo de cuerpo triángulo invertido en mujer" />
+  <figcaption>En el cuerpo triángulo invertido conviene suavizar hombros y dar más presencia visual a la parte inferior.</figcaption>
+</figure>
 
+## Cuerpo reloj de arena
 
-En esta condición el **tipo de cuerpo** destaca por tener una mayor proporción en la parte superior determinada por el ancho de hombros y espalda en relación a la cadera; dónde las piernas tienden a ser delgadas y no tener volumen en los glúteos.
+El **reloj de arena** se reconoce porque hombros y cadera se ven bastante equilibrados y la cintura aparece más marcada.
 
-Aquí la clave está en buscar más soltura en el torso, generando cortes asimétricos en la parte superior. Algo fundamental es dar mucho volumen en la zona baja de la cadera con volados, estampados, brillos y lentejuelas. Si vas a usar pantalón que los mismos tengan bolsillos laterales y sean de corte recto. Cómo también servirá que generes superposición de prendas en la parte inferior.
+### Qué favorece
 
-Prendas muy rígidas en la parte superior o con líneas horizontales u hombreras no ayudarán a proporcionar tu cuerpo, por lo tanto debes evitarlas.
+- prendas que respetan la cintura
+- vestidos entallados o cruzados
+- pantalones rectos o de caída limpia
+- escotes en V o redondeados limpios
+- abrigos con cinturón o buena estructura en la cintura
 
-### Cómo vestir un cuerpo triangulo invertido
+### Qué conviene evitar
 
+- prendas muy holgadas que esconden la forma
+- exceso de volumen solo arriba o solo abajo
 
-
-
-![tip-outfit-cuerpo-triangulo-invertido](/images/posts/tip-outfit-cuerpo-triangulo-invertido.jpeg)
-
-
-
-
-Es muy importante evitar las hombreras o prendas rígidas en la parte superior.
-
-
-
-
-![tip2-outfit-cuerpo-triangulo-invertido](/images/posts/tip2-outfit-cuerpo-triangulo-invertido.jpeg)
-
-
-
-
-Los volados en la parte inferior son excelentes para agregar volumen a esa zona
-
-
-
-
-![tip3-outfit-cuerpo-triangulo-invertido](/images/posts/tip3-outfit-cuerpo-triangulo-invertido.jpeg)
-
-
-
-
-Usa pantalones corte recto y bolsillos para agregar espesor del lado de las piernas.
-
-
-
-
-![tip4-outfit-cuerpo-triangulo-invertido](/images/posts/tip4-outfit-cuerpo-triangulo-invertido.jpeg)
-
-
-
-
-La superposición en la parte inferior también agregara volumen y volverán tu cuerpo mas simétrico.
-
-## Cuerpo de mujer reloj de arena
-
-
-
-
-![cuerpo-mujer-reloj-de-arena](/images/posts/cuerpo-mujer-reloj-de-arena.jpeg)
-
-
-
-
-éste tipo de cuerpo se destaca por ser un cuerpo proporcionado entre hombros y caderas, con cintura muy marcada.
-
-Para este **tipo de cuerpo**, debes resaltar la figura usando escotes en v. Es importante que si vas a generar volúmen sea tanto en la parte superior como inferior para no perder la proporción de tu figura.
-
-Al ser un cuerpo de forma armoniosa, respetando las proporciones naturales y marcando siempre la cintura es fácil encontrar prendas que sientan bien.  La cuestión fundamental pasará por otras cuestiones cómo la contextura, la altura y la relación entre el largo del torso y las piernas, en dónde deberás seguir la misma premisa, compensar y equilibrar las formas de tu cuerpo.
-
-### Cómo vestir un cuerpo triangulo invertido
-
-
-
-
-![tips3-vestir-cuerpo-relojdearena](/images/posts/tips3-vestir-cuerpo-relojdearena.jpeg)
-
-
-
-
-Evita las prendas holgadas y que no marquen tu figura, elige abrigos con martingala y estrechas en la zona de la cintura.
-
-
-
-
-![tips-vestir-cuerpo-relojdearena](/images/posts/tips-vestir-cuerpo-relojdearena.jpeg)
-
-
-
-
-Los escote en v son el mejor aliado del cuerpo reloj de arena, no dudes en utilizarlo.
-
-
-
-
-![tips4-vestir-cuerpo-relojdearena](/images/posts/tips4-vestir-cuerpo-relojdearena.jpeg)
-
-
-
-
-A la hora de utilizar pantalón elige el corte recto para incluso prolongar la figura del reloj.
-
-
-
-
-![tips2-vestir-cuerpo-relojdearena](/images/posts/tips2-vestir-cuerpo-relojdearena.jpeg)
-
-
-
-
-Utiliza los vestidos al cuerpo, con texturas en la zona central para resaltar incluso más la cintura.
+<figure class="my-10">
+  <img src="/images/posts/cuerpo-mujer-reloj-de-arena.jpeg" alt="ejemplo de cuerpo reloj de arena en mujer" />
+  <figcaption>El reloj de arena suele verse mejor cuando la ropa acompaña la cintura sin deformar la proporción natural.</figcaption>
+</figure>
 
 ## Cuerpo triángulo o pera
 
+En el **cuerpo pera**, la cadera tiene más protagonismo que hombros y busto. Muchas veces la cintura también aparece bastante definida.
 
+### Qué favorece
 
+- foco visual en la parte superior
+- escotes en V
+- blusas con color, textura o estampado
+- pantalones rectos o levemente acampanados
+- vestidos evasé
 
-![mujer-tipo-de-cuerpo-triangulo](/images/posts/mujer-tipo-de-cuerpo-triangulo.jpeg)
+### Qué conviene evitar
 
+- detalles muy grandes en cadera
+- bolsillos laterales voluminosos
+- faldas o pantalones que ensanchan aún más la parte baja
 
-
-
-La característica principal de este tipo de cuerpo radica en que los hombros son más estrechos que las caderas, hay más proporciones en la parte inferior del cuerpo. Tu cintura está bien definida, con poco busto y piernas anchas.
-
-¿qué prendas favorecen a este **tipo de cuerpo**? Esas que tengan el fuerte en la parte superior para equilibrarla con la inferior. Existen muchas formas de lograrlo, pone el foco en estampas, colores claros y escotes en v en blusas, remeras y camisas. Utiliza los cortes évase o acampanado para faldas y vestidos. Si optas por pantalones que los mismos sean rectos o semi-oxford.
-
-Es clave que tus prendas superiores sobrepasen la línea de tus caderas y se sobrepongan a tus prendas inferiores.
-
-Para disimular la parte inferior de tu silueta, te recomiendo colores oscuros y buscar la monocromía con los zapatos para estilizar. Evita darle volúmen a la parte inferior de cuerpo, por ejemplo con grandes cinturones, volados, bolsillos, tul o plisados, jeans anchos y grandes estampados. No es recomendable utilizar vestidos ajustados al cuerpo y rectos.
-
-### Cómo vestir un cuerpo triángulo o pera
-
-
-
-
-![tips4-vestir-cuerpo-pera](/images/posts/tips4-vestir-cuerpo-pera.jpeg)
-
-
-
-
-Evita cinturones muy grandes en la zona de las caderas, ya que llevarás la atención a la parte del cuerpo equivocada.
-
-
-
-
-![tips3-vestir-cuerpo-pera](/images/posts/tips3-vestir-cuerpo-pera.jpeg)
-
-
-
-
-Las estampas deben ir siempre en la parte superior del cuerpo, nunca en la inferior.
-
-
-
-
-![tips2-vestir-cuerpo-pera](/images/posts/tips2-vestir-cuerpo-pera.jpeg)
-
-
-
-
-A la hora de utilizar vestidos elegí aquellos que sean acampanados.
-
-
-
-
-![tips-vestir-cuerpo-pera](/images/posts/tips-vestir-cuerpo-pera.jpeg)
-
-
-
-
-Utiliza las prendas superiores por encima de las prendas inferiores.
+<figure class="my-10">
+  <img src="/images/posts/mujer-tipo-de-cuerpo-triangulo.jpeg" alt="ejemplo de cuerpo triángulo o pera en mujer" />
+  <figcaption>En la silueta pera funciona muy bien atraer la atención hacia hombros, cuello y parte superior del torso.</figcaption>
+</figure>
 
 ## Cuerpo rectangular
 
+El **cuerpo rectangular** se ve más lineal: hombros, cintura y cadera no muestran diferencias tan marcadas. La estrategia suele pasar por crear curvas visuales y definir mejor la cintura.
 
+### Qué favorece
 
+- prendas que marcan cintura
+- drapeados suaves
+- vestidos corte imperio o al bies
+- escotes profundos o diagonales
+- capas y superposiciones que crean forma
 
-![tipo-de-cuerpo-mujer-cuadrado](/images/posts/tipo-de-cuerpo-mujer-cuadrado.jpeg)
+### Qué conviene evitar
 
+- prendas demasiado rectas y rígidas
+- strapless muy planos
+- looks sin estructura ni punto focal
 
+<figure class="my-10">
+  <img src="/images/posts/tipo-de-cuerpo-mujer-cuadrado.jpeg" alt="ejemplo de cuerpo rectangular en mujer" />
+  <figcaption>En la silueta rectangular suele ayudar mucho crear definición en cintura y algo más de ángulo visual.</figcaption>
+</figure>
 
+## Cuerpo manzana u ovalado
 
-éste tipo de cuerpo se destaca por ser un cuerpo proporcionado, dónde el foco debe centrarse en marcar la cintura y generar ángulos.
+En el **cuerpo manzana**, la zona media del torso concentra más volumen y la cintura se percibe menos marcada. La clave está en alargar visualmente y ordenar el centro del cuerpo.
 
-Para este **tipo de cuerpo**, debes usar escotes en v, de telas livianas y vaporosas, con algún detalle de drapeado y aquellos que contengan rayas diagonales para crear una ilusión en la zona de la cintura. El tipo de corte imperio y el corte al bies son los más adecuados para tu figura. Es importante que no se pierda la proporción entre la parte superior e inferior de tu cuerpo.
+### Qué favorece
 
-No optes por formatos de vestidos muy ajustados o entallados. Evita los tops strapless sin tiras, ya que te harán lucir más cuadrada.
+- escotes profundos o abiertos
+- prendas de buen talle, no demasiado apretadas
+- sacos y capas largas
+- vestidos en A o corte imperio
+- pantalones rectos o limpios
 
-### Cómo vestir un cuerpo rectangular
+### Qué conviene evitar
 
+- prendas muy ceñidas en abdomen
+- detalles recargados en la zona media
+- rayas horizontales o cinturones muy marcados en el centro
 
+<figure class="my-10">
+  <img src="/images/posts/tipo-cuerpo-mujer-circular-o-manzana.jpeg" alt="ejemplo de cuerpo manzana u ovalado en mujer" />
+  <figcaption>En el cuerpo manzana conviene crear una línea más vertical y evitar que todo el foco quede en la zona media.</figcaption>
+</figure>
 
+## Cómo vestir según tu tipo de cuerpo sin complicarte
 
-![tips-vestir-cuerpo-cuadrangular](/images/posts/tips-vestir-cuerpo-cuadrangular.jpeg)
+Una vez identificada la silueta, la forma más fácil de vestirte mejor es pensar en equilibrio:
 
+- si una zona domina, compensa con la otra
+- si la cintura es tu punto fuerte, márcala
+- si el cuerpo es más lineal, crea forma con cortes y capas
+- si la parte media concentra volumen, alarga la silueta
 
+No hace falta convertirlo en una regla rígida. La idea es usar estas pautas como base para elegir mejor.
 
+Si quieres seguir ordenando el armario desde esa lógica, puede ayudarte [prendas básicas de mujer](/prendas-basicas-para-mujer). Y si además quieres entender qué tonos potencian mejor tus rasgos, también tiene sentido complementar con [colorimetría personal mujer](/colorimetria-personal-mujer).
 
-No es recomendable el uso de strapless, ya que te hará lucir una figura mas cuadrada.
+## Errores comunes al buscar tu tipo de cuerpo
 
+### Confundir talla con silueta
 
+La talla no define el tipo de cuerpo. Dos mujeres con talles distintos pueden tener la misma forma corporal.
 
+### Medir solo la cadera o solo la cintura
 
-![tips2-vestir-cuerpo-cuadrangular](/images/posts/tips2-vestir-cuerpo-cuadrangular.jpeg)
+La silueta se entiende comparando varias zonas, no mirando una sola medida aislada.
 
+### Querer encajar perfecto en una categoría
 
+Muchas mujeres están entre dos tipos. Lo importante es reconocer la tendencia general.
 
+### Vestir solo para disimular
 
-Utilizar motivos horizontales ayudan a generar una ilusión óptica en tu cintura.
+No todo tiene que ir orientado a esconder. Muchas veces el mejor resultado aparece al equilibrar y destacar lo que ya funciona bien.
 
+## Conclusión
 
+Saber los **tipos de cuerpo de mujer** sirve para algo muy concreto: elegir ropa que trabaje a favor de tu silueta. Si entiendes cómo se relacionan hombros, cintura y cadera, ya tienes una base mucho más sólida para comprar, combinar y vestirte mejor.
 
-
-![tips3-vestir-cuerpo-cuadrangular](/images/posts/tips3-vestir-cuerpo-cuadrangular.jpeg)
-
-
-
-
-El escote profundo atraerá la atención de la zona que queremos remarcar, la cintura.
-
-
-
-
-![tips4-vestir-cuerpo-cuadrangular](/images/posts/tips4-vestir-cuerpo-cuadrangular.jpeg)
-
-
-
-
-Un gran aliado de los cuerpos rectangulares es el corte imperio.
-
-## Cuerpo ovalado o manzana
-
-
-
-
-![tipo-cuerpo-mujer-circular-o-manzana](/images/posts/tipo-cuerpo-mujer-circular-o-manzana.jpeg)
-
-
-
-
-Está silueta se basa en no tener líneas rectas y menos cintura. Es por ello que tu finalidad debe ser buscar un efecto óptico que adelgace la forma más ancha de tu cuerpo.
-
-Para lograrlo utiliza prendas que sigan la forma del cuerpo con el talle justo y un textil rígido. Donde las prendas superiores tengan escotes profundos y las hombreras. Utilizando sacos y camperas largos. Para pantalones utiliza aquellos de corte a la cadera y rectos. Un tipo de vestido de fiesta que te ayudará a estilizar tu figura es el corte imperio. Para lo cual el largo del vestido debe ser por debajo de la línea de la rodilla y en forma de a.
-
-Evita aquellas prendas que son ceñidas o ajustadas con muchos detalles en la zona media de tu cuerpo y que se estrechen a tu cadera; como también no optar por prendas que contengan líneas horizontales, lazos o cinturones.
-
-### Cómo vestir un cuerpo rectangular
-
-
-
-
-![tips2-vestir-cuerpo-manzana](/images/posts/tips2-vestir-cuerpo-manzana.jpeg)
-
-
-
-
-Los pantalones chupines realzan características negativas de nuestro cuerpo.
-
-
-
-
-![tips4-vestir-cuerpo-manzana](/images/posts/tips4-vestir-cuerpo-manzana.jpeg)
-
-
-
-
-Utilizar rayas horizontales en la parte superior remarca mas la zona abdominal.
-
-
-
-
-![tips3-vestir-cuerpo-manzana](/images/posts/tips3-vestir-cuerpo-manzana.jpeg)
-
-
-
-
-El vestido acampanado, o con la parte inferior ancha, nos ayuda a disimular la figura.
-
-
-
-
-![tips-vestir-cuerpo-manzana](/images/posts/tips-vestir-cuerpo-manzana.jpeg)
-
-
-
-
-Las hombreras y escotes ayudan a generar estructura en la parte superior, puedes utilizar estos elementos en varias capas.
+La clave no es perseguir un cuerpo ideal, sino reconocer la forma real del tuyo. Desde ahí, todo el armario empieza a tener mucho más sentido.

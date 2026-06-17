@@ -6,15 +6,15 @@ import { createBaseMetadata, buildOgImageUrl } from './lib/seo';
 
 export const metadata: Metadata = {
   ...createBaseMetadata({
-    title: 'Moda, Estilo y Belleza',
+    title: 'Moda, estilo y belleza para mujer y hombre',
     description:
-      'Descubre artículos sobre moda femenina, masculina, belleza y recomendaciones en una portada editorial clara y pensada para explorar el blog completo.',
+      'Descubre artículos de moda para mujer y hombre, belleza, tendencias, outfits y recomendaciones para encontrar ideas útiles y vestir mejor cada día.',
     path: '/',
     image: buildOgImageUrl({
-      title: 'Las historias más nuevas sobre moda, belleza y estilo',
+      title: 'Moda, estilo y belleza para mujer y hombre',
       kicker: 'Tu Asesor de Moda',
       description:
-        'Una portada editorial para descubrir tendencias, ideas de outfits y recomendaciones con una experiencia visual cuidada.',
+        'Artículos de moda, tendencias, outfits, belleza y recomendaciones para descubrir ideas útiles según tu estilo.',
     }),
   }),
 };
@@ -32,8 +32,8 @@ export default function Home() {
   return (
     <BlogShowcase
       eyebrow="Tu asesor de moda"
-      title="Las historias más nuevas sobre moda, belleza y estilo"
-      description="Una portada editorial limpia para descubrir tendencias, ideas de outfits y recomendaciones con una misma experiencia visual desde la home hasta el listado completo."
+      title="Moda, estilo y belleza para descubrir ideas que sí vas a usar"
+      description="Explora artículos sobre tendencias, outfits, belleza y recomendaciones para mujer y hombre, con ideas útiles para vestir mejor según tu estilo y la ocasión."
       posts={posts}
       categories={categories}
     />

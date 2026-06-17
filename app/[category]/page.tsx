@@ -46,9 +46,9 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   );
   const descriptions: Record<string, string> = {
     hombre:
-      'Una portada editorial para explorar outfits, cortes, grooming y guías de estilo masculino con el mismo lenguaje visual limpio que usamos en toda la experiencia del blog.',
+      'Explora artículos de moda masculina con ideas de outfits, smart casual, oficina, cortes de pelo y consejos para vestir mejor según tu estilo y la ocasión.',
     mujer:
-      'Tendencias, belleza, ideas de looks y guías de estilo femenino presentadas en un archivo consistente, amplio y más fácil de recorrer.',
+      'Descubre artículos de moda femenina con tendencias, outfits, belleza, combinaciones de ropa y guías para encontrar prendas y estilos que realmente te favorezcan.',
     moda:
       'Diseñadores, pasarelas, colaboraciones y tendencias clave del universo fashion en un listado editorial unificado.',
     recomendaciones:
@@ -60,7 +60,13 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   return (
     <BlogShowcase
       eyebrow={categoryData.name}
-      title={`Todo ${categoryData.name.toLowerCase()} en un mismo archivo visual`}
+      title={
+        categoryData.slug === 'hombre'
+          ? 'Moda hombre: outfits, estilo y consejos para vestir mejor'
+          : categoryData.slug === 'mujer'
+            ? 'Moda mujer: tendencias, outfits y consejos de estilo'
+            : `Todo ${categoryData.name.toLowerCase()} en un mismo lugar`
+      }
       description={descriptions[categoryData.slug] || categoryData.description || ''}
       posts={posts}
       categories={categories}
