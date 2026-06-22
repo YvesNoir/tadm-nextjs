@@ -1,8 +1,8 @@
 ---
 title: Moda para gorditas
 excerpt: >-
-  Los mejores tips de moda para mujeres gorditas se encuentran aquí... Outfits y
-  looks, elegantes, formales, consejos y más!... visitenos...
+  Ideas de moda para gorditas con prendas que estilizan, combinaciones favorecedoras
+  y consejos para armar looks cómodos, actuales y equilibrados.
 date: '2022-10-27'
 author: TuAsesorDeModa
 categories:
@@ -18,10 +18,10 @@ tags:
   - temporada
   - formal
 featured: 'true'
-seoTitle: 'Tips de moda gorditas, outfits, elegante, jeans, looks'
+seoTitle: 'Moda para gorditas: tips y looks que estilizan'
 seoDescription: >-
-  Los mejores tips de moda para mujeres gorditas se encuentran aquí... Outfits y
-  looks, elegantes, formales, consejos y más!... visitenos...
+  Descubre tips de moda para gorditas, prendas que estilizan y formas de armar
+  looks casuales o formales que se vean equilibrados y actuales.
 originalUrl: 'https://www.tuasesordemoda.com/tips-de-moda-para-mujeres-gorditas/'
 coverImage: /images/posts/tips-de-moda-para-mujeres-gorditas.jpg
 ---

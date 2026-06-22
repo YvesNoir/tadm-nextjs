@@ -18,6 +18,8 @@ const helperAssetPatterns = [
   'outfit-azul-mujer-1',
 ];
 
+const LEGACY_SUMMARY_MARKERS = ['leer más', 'clic aquí', 'ingresa', 'entra aquí'];
+
 function normalizeAssetName(value: string): string {
   return decodeURIComponent(String(value || ''))
     .toLowerCase()
@@ -26,6 +28,106 @@ function normalizeAssetName(value: string): string {
     .replace(/[^a-z0-9._-]+/g, '-')
     .replace(/-+/g, '-')
     .replace(/^-+|-+$/g, '');
+}
+
+function cleanInlineText(value: string): string {
+  return String(value || '')
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, ' ')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/gi, ' ')
+    .replace(/\u00a0/g, ' ')
+    .replace(/[_*`>#]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function stripLeadingTitle(value: string, title: string): string {
+  const cleanValue = cleanInlineText(value);
+  const cleanTitle = cleanInlineText(title);
+
+  if (!cleanTitle) {
+    return cleanValue;
+  }
+
+  const lowerValue = cleanValue.toLowerCase();
+  const lowerTitle = cleanTitle.toLowerCase();
+
+  if (lowerValue.startsWith(`${lowerTitle} `)) {
+    return cleanValue.slice(cleanTitle.length).trim();
+  }
+
+  return cleanValue;
+}
+
+function truncateSummary(value: string, maxLength: number): string {
+  if (value.length <= maxLength) {
+    return value;
+  }
+
+  const clipped = value.slice(0, maxLength + 1);
+  const lastSentence = clipped.lastIndexOf('. ');
+  const lastComma = clipped.lastIndexOf(', ');
+  const cutIndex = Math.max(lastSentence, lastComma);
+
+  if (cutIndex >= Math.floor(maxLength * 0.6)) {
+    const offset = cutIndex === lastSentence ? 1 : 0;
+    return clipped.slice(0, cutIndex + offset).trim();
+  }
+
+  return `${clipped.slice(0, maxLength - 1).trim()}…`;
+}
+
+function hasLegacySummaryNoise(value: string): boolean {
+  if (!value) {
+    return true;
+  }
+
+  const cleanValue = cleanInlineText(value);
+  const lowerValue = cleanValue.toLowerCase();
+
+  if (LEGACY_SUMMARY_MARKERS.some((marker) => lowerValue.includes(marker))) {
+    return true;
+  }
+
+  const letters = cleanValue.replace(/[^a-záéíóúüñ]/gi, '');
+  const uppercaseLetters = letters.replace(/[^A-ZÁÉÍÓÚÜÑ]/g, '');
+
+  if (letters.length >= 40 && uppercaseLetters.length / letters.length > 0.55) {
+    return true;
+  }
+
+  return cleanValue.length > 220;
+}
+
+function extractSummaryFromContent(title: string, content: string, maxLength: number): string {
+  const blocks = content.split(/\n\s*\n/);
+
+  for (const block of blocks) {
+    const trimmedBlock = block.trim();
+
+    if (!trimmedBlock || /^(?:!\[|<div|<figure|<img|<table|##|###|\|)/i.test(trimmedBlock)) {
+      continue;
+    }
+
+    const text = stripLeadingTitle(trimmedBlock, title);
+
+    if (text.length >= 60) {
+      return truncateSummary(text, maxLength);
+    }
+  }
+
+  return truncateSummary(stripLeadingTitle(content, title), maxLength);
+}
+
+function resolveSummary(value: unknown, title: string, content: string, maxLength: number): string {
+  const cleanValue = stripLeadingTitle(String(value || ''), title);
+
+  if (!cleanValue || hasLegacySummaryNoise(cleanValue)) {
+    return extractSummaryFromContent(title, content, maxLength);
+  }
+
+  return truncateSummary(cleanValue, maxLength);
 }
 
 function readPostImageAssets(): string[] {
@@ -136,7 +238,7 @@ const readPostBySlug = cache((slug: string): Post | null => {
       id: realSlug,
       slug: realSlug,
       title: data.title || '',
-      excerpt: data.excerpt || '',
+      excerpt: resolveSummary(data.excerpt, data.title || '', content, 180),
       content,
       coverImage: data.coverImage,
       author: data.author || 'TuAsesorDeModa',
@@ -145,7 +247,7 @@ const readPostBySlug = cache((slug: string): Post | null => {
       categories,
       tags: data.tags || [],
       seoTitle: data.seoTitle,
-      seoDescription: data.seoDescription,
+      seoDescription: resolveSummary(data.seoDescription || data.excerpt, data.title || '', content, 160),
       featured: data.featured || false,
       status: data.status || 'published',
     };

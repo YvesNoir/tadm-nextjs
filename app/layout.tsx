@@ -4,7 +4,15 @@ import "./globals.css";
 import Header from "./components/layout/Header";
 import Footer from "./components/layout/Footer";
 import { inter, ebGaramond, sourceSans3 } from "./lib/fonts";
-import { buildOgImageUrl, SITE_NAME, SITE_TWITTER, SITE_URL } from "./lib/seo";
+import {
+  buildOgImageUrl,
+  buildOrganizationSchema,
+  buildWebsiteSchema,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+  SITE_TWITTER,
+  SITE_URL,
+} from "./lib/seo";
 
 const gtmId = "GTM-TF78BK6";
 const adsenseClient = "ca-pub-2816862233382229";
@@ -23,7 +31,7 @@ export const metadata: Metadata = {
     default: "TuAsesorDeModa - Moda, Estilo y Tendencias",
     template: `%s | ${SITE_NAME}`
   },
-  description: "Tu guía completa de moda, estilo y tendencias. Descubre las últimas novedades en moda masculina y femenina, belleza, calzado y mucho más.",
+  description: SITE_DESCRIPTION,
   keywords: ["moda", "estilo", "tendencias", "ropa", "belleza", "zapatos", "perfumes", "outfits", "moda mujer", "moda hombre"],
   authors: [{ name: SITE_NAME }],
   creator: SITE_NAME,
@@ -43,7 +51,7 @@ export const metadata: Metadata = {
     locale: 'es_ES',
     url: SITE_URL,
     title: 'TuAsesorDeModa - Moda, Estilo y Tendencias',
-    description: 'Tu guía completa de moda, estilo y tendencias. Descubre las últimas novedades en moda masculina y femenina, belleza, calzado y mucho más.',
+    description: SITE_DESCRIPTION,
     siteName: SITE_NAME,
     images: [
       {
@@ -61,7 +69,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'TuAsesorDeModa - Moda, Estilo y Tendencias',
-    description: 'Tu guía completa de moda, estilo y tendencias.',
+    description: SITE_DESCRIPTION,
     creator: SITE_TWITTER,
     site: SITE_TWITTER,
     images: [
@@ -91,9 +99,20 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const organizationSchema = buildOrganizationSchema();
+  const websiteSchema = buildWebsiteSchema();
+
   return (
     <html lang="es" suppressHydrationWarning>
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+        />
         <Script id="google-tag-manager" strategy="afterInteractive">
           {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
