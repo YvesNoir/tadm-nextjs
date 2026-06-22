@@ -1,8 +1,8 @@
 ---
 title: Zapatos para vestidos
 excerpt: >-
-  ¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos
-  para vestidos, cortos, largos, y más... clic aquí...
+  Qué zapatos para vestidos funcionan mejor según el largo, la ocasión y el
+  estilo del look para lograr combinaciones más armónicas y favorecedoras.
 date: '2022-10-26'
 author: TuAsesorDeModa
 categories:
@@ -18,10 +18,10 @@ tags:
   - formal
   - elegante
 featured: 'true'
-seoTitle: "\U0001F947 zapatos para vestidos!, largos, cortos, encaje"
+seoTitle: 'Zapatos para vestidos: cómo elegirlos según el look'
 seoDescription: >-
-  ¿Cómo completar un look de zapatos con vestidos? Las mejores ideas de zapatos
-  para vestidos, cortos, largos, y más... clic aquí...
+  Aprende a elegir zapatos para vestidos cortos, midi o largos según la ocasión,
+  el tipo de calzado y el efecto que quieres lograr en el outfit.
 originalUrl: 'https://www.tuasesordemoda.com/zapatos-para-vestidos/'
 coverImage: /images/posts/zapatos-para-vestidos.jpg
 ---

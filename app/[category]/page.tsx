@@ -3,7 +3,12 @@ import BlogShowcase from '@/app/components/blog/BlogShowcase';
 import { getAllCategories, getCategoryBySlug } from '@/app/lib/categories';
 import { getPostsByCategory } from '@/app/lib/posts';
 import { Metadata } from 'next';
-import { createCategoryMetadata } from '@/app/lib/seo';
+import {
+  buildCollectionPageSchema,
+  buildListingItemListSchema,
+  buildPageBreadcrumbSchema,
+  createCategoryMetadata,
+} from '@/app/lib/seo';
 
 interface CategoryPageProps {
   params: Promise<{
@@ -56,21 +61,46 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     belleza:
       'Rutinas, piel, maquillaje y cuidado personal reunidos en un listado claro, ordenado y coherente con el resto del sitio.',
   };
+  const title =
+    categoryData.slug === 'hombre'
+      ? 'Moda hombre: outfits, estilo y consejos para vestir mejor'
+      : categoryData.slug === 'mujer'
+        ? 'Moda mujer: tendencias, outfits y consejos de estilo'
+        : `Todo ${categoryData.name.toLowerCase()} en un mismo lugar`;
+  const description = descriptions[categoryData.slug] || categoryData.description || '';
+  const collectionSchema = buildCollectionPageSchema({
+    name: title,
+    description,
+    path: `/${categoryData.slug}`,
+  });
+  const itemListSchema = buildListingItemListSchema(posts.slice(0, 24));
+  const breadcrumbSchema = buildPageBreadcrumbSchema([
+    { name: 'Inicio', path: '/' },
+    { name: categoryData.name, path: `/${categoryData.slug}` },
+  ]);
 
   return (
-    <BlogShowcase
-      eyebrow={categoryData.name}
-      title={
-        categoryData.slug === 'hombre'
-          ? 'Moda hombre: outfits, estilo y consejos para vestir mejor'
-          : categoryData.slug === 'mujer'
-            ? 'Moda mujer: tendencias, outfits y consejos de estilo'
-            : `Todo ${categoryData.name.toLowerCase()} en un mismo lugar`
-      }
-      description={descriptions[categoryData.slug] || categoryData.description || ''}
-      posts={posts}
-      categories={categories}
-      activeCategorySlug={categoryData.slug}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <BlogShowcase
+        eyebrow={categoryData.name}
+        title={title}
+        description={description}
+        posts={posts}
+        categories={categories}
+        activeCategorySlug={categoryData.slug}
+      />
+    </>
   );
 }

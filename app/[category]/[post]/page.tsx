@@ -3,7 +3,7 @@ import { getAllPosts, getPostBySlug, getPostContent, getRelatedPosts } from '@/a
 import { getCategoryBySlug } from '@/app/lib/categories';
 import { Metadata } from 'next';
 import PostArticleLayout from '@/app/components/blog/PostArticleLayout';
-import { createPostMetadata } from '@/app/lib/seo';
+import { buildPostBreadcrumbSchema, buildPostSchema, createPostMetadata } from '@/app/lib/seo';
 
 interface PostPageProps {
   params: Promise<{
@@ -60,13 +60,25 @@ export default async function PostPage({ params }: PostPageProps) {
 
   const content = await getPostContent(post);
   const relatedPosts = getRelatedPosts(post, category, 3);
+  const postSchema = buildPostSchema(postData);
+  const breadcrumbSchema = buildPostBreadcrumbSchema(postData);
 
   return (
-    <PostArticleLayout
-      post={postData}
-      category={categoryData}
-      content={content}
-      relatedPosts={relatedPosts}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(postSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <PostArticleLayout
+        post={postData}
+        category={categoryData}
+        content={content}
+        relatedPosts={relatedPosts}
+      />
+    </>
   );
 }

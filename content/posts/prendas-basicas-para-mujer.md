@@ -1,8 +1,8 @@
 ---
 title: Prendas básicas de mujer
 excerpt: >-
-  ¿Cuáles son las prendas básicas del guardarropa de una mujer? A continuación
-  te mostramos las prendas que no pueden faltarte... clic aquí...
+  Las prendas básicas de mujer que conviene tener para armar un guardarropa
+  versátil, combinable y útil tanto para looks casuales como más arreglados.
 date: '2022-10-26'
 author: TuAsesorDeModa
 categories:
@@ -19,10 +19,10 @@ tags:
   - invierno
   - formal
 featured: 'true'
-seoTitle: 'Prendas básicas de mujer, básicos, armario'
+seoTitle: 'Prendas básicas de mujer para un armario versátil'
 seoDescription: >-
-  ¿Cuáles son las prendas básicas del guardarropa de una mujer? A continuación
-  te mostramos las prendas que no pueden faltarte... clic aquí...
+  Descubre qué prendas básicas de mujer conviene sumar al armario para combinar
+  mejor, comprar con más criterio y resolver looks de todos los días.
 originalUrl: 'https://www.tuasesordemoda.com/prendas-basicas-para-mujer/'
 coverImage: /images/posts/prendas-basicas-para-mujer.jpg
 ---

@@ -1,13 +1,13 @@
 ---
 title: "Manual de estilo: cómo elegir vestidos midi para ir de la oficina al chiringuito"
-excerpt: "Manual de estilo: cómo elegir vestidos midi para ir de la oficina al chiringuito Hay prendas que simplemente funcionan. Los vestidos midi son una de ellas. Con su largo elegante que cae entre la rodilla y el tobillo, logra el equilibrio perfecto entre comodidad y sofisticación. Su versatilidad lo convierte en una opción infalible tanto para el … Manual de estilo: el vestido midi Cortefiel Leer más »"
+excerpt: "Guía práctica para elegir vestidos midi según la ocasión, combinarlos con estilo y resolver looks versátiles que funcionen del trabajo a un plan más relajado."
 date: "2025-08-05"
 author: "TuAsesorDeModa"
 categories: ["recomendaciones"]
 tags: ["moda", "estilo", "look", "ropa", "accesorios", "complementos", "temporada", "casual", "formal", "elegante"]
 featured: "true"
-seoTitle: "Manual de estilo: el vestido midi cortefiel - tu asesor de moda"
-seoDescription: "Manual de estilo: cómo elegir vestidos midi para ir de la oficina al chiringuito Hay prendas que simplemente funcionan. Los vestidos midi son una de ellas. Con su largo elegante que cae entre la rodilla y el tobillo, logra el equilibrio perfecto entre comodidad y sofisticación. Su versatilidad lo convierte en una opción infalible tanto para el … Manual de estilo: el vestido midi Cortefiel Leer más »"
+seoTitle: "Cómo elegir vestidos midi para ir de la oficina al chiringuito"
+seoDescription: "Aprende a elegir vestidos midi según el momento del día, el calzado y el estilo que buscas para lograr looks cómodos, elegantes y fáciles de adaptar."
 originalUrl: "https://www.tuasesordemoda.com/manual-de-estilo-el-vestido-midi-cortefiel/"
 coverImage: "/images/posts/manual-de-estilo-el-vestido-midi-cortefiel.jpg"
 ---
