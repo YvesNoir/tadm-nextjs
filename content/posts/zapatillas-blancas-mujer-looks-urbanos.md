@@ -22,7 +22,8 @@ seoDescription: >-
   Descubre qué zapatillas blancas mujer conviene elegir según diseño, comodidad
   y estilo, y cómo llevarlas con jeans, pantalones, vestidos y looks urbanos.
 originalUrl: ''
-status: draft
+coverImage: /images/posts/zapatillas-blancas-mujer-looks-urbanos-cover.webp
+status: published
 ---
 
 Las **zapatillas blancas mujer** siguen funcionando porque resuelven algo muy concreto: permiten vestir cómoda sin perder prolijidad. Pueden entrar en un look relajado de día, equilibrar un conjunto más armado o incluso bajar la formalidad de un outfit que de otro modo se vería demasiado rígido.

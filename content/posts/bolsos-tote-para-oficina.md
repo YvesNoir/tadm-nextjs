@@ -21,7 +21,8 @@ seoDescription: >-
   Descubre cómo elegir bolsos tote para oficina según tamaño, estructura,
   material y estilo, y qué modelos conviene mirar para usar todos los días.
 originalUrl: ''
-status: draft
+coverImage: /images/posts/bolsos-tote-para-oficina-cover.webp
+status: published
 ---
 
 Un **bolso tote para oficina** tiene que resolver bastante más que una cuestión estética. Tiene que acompañarte varias horas, cargar lo necesario sin deformarse, sentirse compatible con ropa de trabajo y mantener una imagen ordenada aunque lleves portátil, agenda, cargador, neceser o botella.

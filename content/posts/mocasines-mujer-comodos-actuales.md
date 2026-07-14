@@ -23,7 +23,8 @@ seoDescription: >-
   material y uso real, y qué modelos conviene mirar para oficina y looks de
   diario.
 originalUrl: ''
-status: draft
+coverImage: /images/posts/mocasines-mujer-comodos-actuales-cover.webp
+status: published
 ---
 
 Los **mocasines mujer cómodos y actuales** tienen algo muy valioso: pueden resolver oficina, ciudad, reuniones y looks diarios sin pedir la rigidez de un zapato más formal ni la informalidad de una zapatilla. El problema es que no todos cumplen igual de bien esa función.
