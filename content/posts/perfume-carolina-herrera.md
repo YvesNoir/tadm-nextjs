@@ -7,6 +7,7 @@ date: '2022-11-27'
 author: TuAsesorDeModa
 categories:
   - mujer
+  - perfumes
 tags:
   - moda
   - elegante
@@ -233,5 +234,4 @@ Muestra una salida muy jovial, de caracter fiestero y desenfadado, carolina herr
 
 
 ![perfume-carolina-herrera-212-vip-1](/images/posts/perfume-carolina-herrera-212-vip-1.jpeg)
-
 

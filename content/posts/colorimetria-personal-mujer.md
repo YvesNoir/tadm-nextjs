@@ -17,7 +17,7 @@ tags:
   - subtono de piel
   - estaciones de color
 featured: false
-seoTitle: "Colorimetría personal mujer: qué colores te favorecen"
+seoTitle: "Colorimetría personal: colores que te favorecen"
 seoDescription: >-
   Descubre cómo funciona la colorimetría personal mujer, cómo identificar tu
   subtono y qué colores te favorecen según tu paleta, contraste y estación.

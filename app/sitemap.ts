@@ -44,6 +44,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Obtener todas las categorías
   const categories = getAllCategories()
   const categoryPages = categories
+    .filter((category) => category.slug !== 'salud')
     .map(category => ({
       url: `${baseUrl}/${category.slug}`,
       lastModified: new Date(),

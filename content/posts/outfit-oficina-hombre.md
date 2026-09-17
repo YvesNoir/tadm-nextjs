@@ -17,7 +17,7 @@ tags:
   - estilo masculino
   - oficina hombre
 featured: false
-seoTitle: "Outfit oficina hombre: ideas para vestir bien en el trabajo"
+seoTitle: "Outfit de oficina para hombre: ideas sin traje"
 seoDescription: >-
   Descubre cómo armar un outfit de oficina para hombre con ideas business
   casual, prendas clave y combinaciones para trabajar bien vestido sin traje.
