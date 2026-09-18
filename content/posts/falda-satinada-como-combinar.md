@@ -36,6 +36,11 @@ La longitud midi suele ser la más versátil porque permite combinarla con disti
 
 También conviene observar el grosor del tejido y el forro. Una falda demasiado fina puede marcar de más o transparentar. Los tonos neutros como negro, champagne, chocolate, gris topo y marfil son fáciles de repetir, pero el verde, azul o bordó pueden darle más presencia a un look.
 
+<figure class="my-10">
+  <img src="/images/posts/falda-satinada-como-combinar-gallery-1.webp" alt="falda satinada combinada con camiseta y zapatillas para el día" />
+  <figcaption>Una camiseta de algodón y zapatillas equilibran el brillo de la falda satinada para usarla durante el día.</figcaption>
+</figure>
+
 ## Cómo combinar una falda satinada de día
 
 Para usarla durante el día, la fórmula más sencilla es mezclarla con una prenda casual. Una camiseta blanca, una remera gris o un top de algodón bajan el nivel de formalidad y hacen que la falda sea más usable.
@@ -62,6 +67,11 @@ Evita que todas las piezas tengan brillo. Si la falda es satinada, el blazer pue
 
 Para una oficina más informal, puedes reemplazar el blazer por un cardigan fino y los zapatos de punta por mocasines. El resultado conserva la caída elegante de la falda, pero se adapta mejor al día a día.
 
+<figure class="my-10">
+  <img src="/images/posts/falda-satinada-como-combinar-gallery-2.webp" alt="falda satinada con camisa y mocasines para un look de oficina" />
+  <figcaption>En la oficina, la camisa y los mocasines mantienen el brillo del satén dentro de un conjunto sobrio.</figcaption>
+</figure>
+
 ## Cómo combinarla para una salida o cena
 
 Por la noche puedes aprovechar el movimiento y el brillo de la tela. Un top liso, una blusa de escote limpio o un body bien construido son opciones fáciles. Los zapatos de tiras, sandalias de taco medio o botines finos hacen que la silueta se vea más estilizada.
@@ -79,6 +89,11 @@ No es necesario sumar lentejuelas o demasiados accesorios. El satén ya aporta u
 - **Sandalias de taco medio:** para cenas, eventos y ocasiones especiales.
 
 La elección depende tanto del evento como del largo de la falda. Una midi suele admitir más opciones que una falda muy larga, que puede necesitar un poco de altura para no arrastrar.
+
+<figure class="my-10">
+  <img src="/images/posts/falda-satinada-como-combinar-gallery-3.webp" alt="falda satinada con top elegante y sandalias para una cena" />
+  <figcaption>Para la noche, un top limpio y sandalias de tiras dejan que el movimiento del satén sea el protagonista.</figcaption>
+</figure>
 
 ## Errores que pueden quitarle versatilidad
 

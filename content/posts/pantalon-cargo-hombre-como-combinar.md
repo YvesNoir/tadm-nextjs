@@ -38,6 +38,11 @@ Los colores clásicos son verde oliva, beige, negro, gris y azul marino. El oliv
 
 También conviene observar el largo. Un pequeño quiebre sobre la zapatilla suele funcionar, pero demasiada tela acumulada puede hacer que la pierna parezca más corta.
 
+<figure class="my-10">
+  <img src="/images/posts/pantalon-cargo-hombre-como-combinar-gallery-1.webp" alt="pantalón cargo hombre con camiseta y zapatillas minimalistas" />
+  <figcaption>Un cargo de pierna recta con camiseta lisa y zapatillas minimalistas crea una base urbana sin exceso de volumen.</figcaption>
+</figure>
+
 ## Pantalón cargo con camiseta
 
 Es la combinación más simple. Una camiseta lisa blanca, negra, gris o cruda permite que el pantalón sea el centro del look. Si el cargo es amplio, elige una camiseta de corte regular o apenas suelta, pero evita que todo quede desbordado.
@@ -54,6 +59,11 @@ La mezcla de camisa blanca y cargo oliva es fácil de usar durante el día. Para
 
 Una camisa de lino puede aportar frescura en primavera y verano. Para más ideas sobre cómo usarla, puedes consultar [cómo combinar una camisa de lino hombre](/camisa-de-lino-hombre-como-combinar).
 
+<figure class="my-10">
+  <img src="/images/posts/pantalon-cargo-hombre-como-combinar-gallery-2.webp" alt="pantalón cargo hombre con camisa y calzado de perfil limpio" />
+  <figcaption>La camisa y el calzado limpio compensan la estética utilitaria del cargo y lo vuelven más versátil.</figcaption>
+</figure>
+
 ## Con sweater o buzo
 
 Durante los meses frescos, el pantalón cargo funciona muy bien con sweaters de punto fino, buzos lisos y camperas cortas. Una prenda superior demasiado larga puede tapar la cintura y volver el look más pesado.
@@ -67,6 +77,11 @@ No todos los cargos sirven para un contexto smart casual. Elige un modelo de tel
 El calzado es decisivo. Mocasines, derby, botas Chelsea y zapatillas de cuero minimalistas pueden elevarlo. En cambio, un calzado deportivo muy técnico refuerza la estética informal.
 
 La idea no es convertir un cargo en un pantalón de vestir, sino construir un contraste controlado entre una prenda utilitaria y piezas más refinadas.
+
+<figure class="my-10">
+  <img src="/images/posts/pantalon-cargo-hombre-como-combinar-gallery-3.webp" alt="pantalón cargo hombre con camisa, blazer relajado y mocasines" />
+  <figcaption>Para un smart casual, un blazer relajado y mocasines elevan el cargo sin quitarle su carácter urbano.</figcaption>
+</figure>
 
 ## Qué calzado usar
 

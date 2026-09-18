@@ -56,6 +56,11 @@ Marrón, chocolate, terracota y óxido forman una paleta coherente con el verde 
 
 Si quieres trabajar más combinaciones cromáticas, esta guía sobre [cómo combinar colores en la ropa](/como-combinar-colores-en-la-ropa-mujer) puede servirte como punto de partida.
 
+<figure class="my-10">
+  <img src="/images/posts/como-combinar-verde-oliva-gallery-1.webp" alt="look de mujer en verde oliva combinado con blanco y marrón" />
+  <figcaption>El blanco y los tonos marrones iluminan el verde oliva y crean una paleta natural y fácil de llevar.</figcaption>
+</figure>
+
 ## Cómo llevar una prenda verde oliva
 
 La elección de la prenda cambia bastante el efecto final. No es lo mismo usar una camisa que un pantalón cargo o un bolso.
@@ -84,11 +89,21 @@ Un bolso, una gorra o un pañuelo en este tono puede actualizar un conjunto de b
 
 La proporción también importa. Si el verde oliva ocupa gran parte del look, deja que los demás colores funcionen como fondo. Si aparece solo en el calzado o en el bolso, puedes permitirte una base más clara.
 
+<figure class="my-10">
+  <img src="/images/posts/como-combinar-verde-oliva-gallery-2.webp" alt="look urbano de mujer con verde oliva, negro y accesorios dorados" />
+  <figcaption>El negro vuelve al verde oliva más urbano; los accesorios dorados aportan un contraste cálido sin recargar el conjunto.</figcaption>
+</figure>
+
 ## Estampados y materiales que combinan bien
 
 Las rayas blancas y azules son una opción segura. El animal print puede funcionar en pequeños detalles, como zapatos o cinturón, siempre que el resto sea simple. Los cuadros en tonos beige y marrón también dialogan bien con el oliva.
 
 En cuanto a materiales, el denim, el algodón, la gabardina, el cuero y el punto son fáciles de integrar. Para elevar el color, mezcla una prenda oliva de textura mate con otra pieza de acabado más pulido, como satén o cuero.
+
+<figure class="my-10">
+  <img src="/images/posts/como-combinar-verde-oliva-gallery-3.webp" alt="look de mujer con prenda verde oliva, denim azul y tonos crudos" />
+  <figcaption>El denim azul y los tonos crudos funcionan como una base casual para probar el verde oliva sin complicar la combinación.</figcaption>
+</figure>
 
 ## Qué evitar
 

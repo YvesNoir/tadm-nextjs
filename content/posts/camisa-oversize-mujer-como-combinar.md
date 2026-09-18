@@ -38,6 +38,11 @@ También importa el largo. Si termina cerca de la cadera, es sencilla de llevar 
 
 Los colores neutros son los más fáciles para empezar: blanco, celeste, beige, azul marino y rayas finas. Después puedes sumar tonos como verde oliva o rosa empolvado si quieres que la camisa tenga más presencia.
 
+<figure class="my-10">
+  <img src="/images/posts/camisa-oversize-mujer-como-combinar-gallery-1.webp" alt="camisa oversize de mujer con jeans y zapatillas blancas" />
+  <figcaption>Con jeans y zapatillas, la camisa oversize mantiene su comodidad sin perder una proporción cuidada.</figcaption>
+</figure>
+
 ## Cómo combinarla con jeans
 
 La mezcla con denim es la más fácil y también una de las más versátiles. Para que el conjunto no se vea demasiado ancho, puedes elegir un jean recto, slim o de pierna ligeramente amplia, pero evitando que todas las piezas tengan un volumen excesivo.
@@ -60,6 +65,11 @@ Un pantalón recto negro con camisa blanca crea una combinación sobria para ofi
 
 Para un conjunto casual elegante, puedes sumar mocasines y un bolso de líneas simples. La idea no es que todo sea ajustado, sino que exista una diferencia de proporciones entre la parte superior y la inferior.
 
+<figure class="my-10">
+  <img src="/images/posts/camisa-oversize-mujer-como-combinar-gallery-2.webp" alt="camisa oversize de mujer con pantalón de vestir para oficina" />
+  <figcaption>Un pantalón de vestir y un calzado sobrio llevan la camisa oversize a un registro más elegante.</figcaption>
+</figure>
+
 ## Cómo combinarla con faldas
 
 La camisa oversize queda muy bien con faldas porque contrapone una parte superior relajada con una prenda que puede marcar más la silueta. Una falda midi recta o satinada permite crear un conjunto femenino sin que resulte excesivamente formal.
@@ -73,6 +83,11 @@ Los zapatos cambian la intención del conjunto: zapatillas para el día, sandali
 Algunos modelos largos pueden funcionar como vestido camisero. En ese caso, revisa que el largo sea cómodo y que la tela no transparente. Un cinturón puede definir la cintura, aunque también puedes mantener la silueta suelta y sumar accesorios más estructurados.
 
 Otra opción muy práctica es llevarla abierta sobre un vestido liso. Una camisa blanca o de lino aporta una capa liviana y hace que el vestido pueda usarse en más situaciones.
+
+<figure class="my-10">
+  <img src="/images/posts/camisa-oversize-mujer-como-combinar-gallery-3.webp" alt="camisa oversize de mujer combinada con falda midi" />
+  <figcaption>Con una falda midi, el volumen de la camisa se equilibra al dejar visible parte de la cintura y del movimiento de la silueta.</figcaption>
+</figure>
 
 ## Errores habituales que conviene evitar
 

@@ -36,6 +36,11 @@ El lino suele tener una textura visible y una arruga natural. Eso no significa q
 
 Los colores más fáciles son blanco, crudo, celeste, azul marino, beige y verde oliva. Una camisa clara ilumina el conjunto y combina con tonos oscuros. Una camisa azul o verde puede ser el punto de color sobre una base neutra.
 
+<figure class="my-10">
+  <img src="/images/posts/camisa-de-lino-hombre-como-combinar-gallery-1.webp" alt="camisa de lino para hombre combinada con pantalón chino en un look smart casual" />
+  <figcaption>Una camisa de lino clara con pantalón chino y calzado sobrio funciona como base fresca para un look smart casual.</figcaption>
+</figure>
+
 El corte ideal permite moverse sin quedar pegado al cuerpo. Una silueta demasiado ajustada pierde parte de la comodidad del lino, mientras que una camisa excesivamente larga puede verse descuidada cuando se lleva por fuera.
 
 ## Camisa de lino con pantalón chino
@@ -54,6 +59,11 @@ Con jeans oscuros, la camisa puede ir por dentro y acompañarse con cinturón de
 
 Si eliges una camisa de color, deja que el jean y el calzado sean simples. El verde oliva, terracota y azul profundo funcionan especialmente bien con denim.
 
+<figure class="my-10">
+  <img src="/images/posts/camisa-de-lino-hombre-como-combinar-gallery-2.webp" alt="camisa de lino para hombre con jeans y calzado casual" />
+  <figcaption>Con jeans y calzado casual, la camisa de lino se convierte en una prenda urbana y fácil de repetir.</figcaption>
+</figure>
+
 ## Con bermudas
 
 La camisa de lino y las bermudas pueden verse bien sin parecer un look improvisado. La clave es la proporción: la bermuda debe terminar en una zona razonable de la pierna y la camisa no debería ser demasiado larga.
@@ -67,6 +77,11 @@ Si la ocasión es más arreglada, elige una camisa de manga larga, pantalón cor
 El lino también puede funcionar en la oficina cuando el código no exige traje. Una camisa de lino de manga larga, pantalón de vestir liviano y zapatos derby o mocasines forman una combinación fresca sin perder seriedad.
 
 Conviene elegir colores lisos y una camisa con cuello que conserve su forma. Evita llevarla demasiado abierta o con arrugas marcadas. Si hace calor, puedes remangar las mangas de manera simétrica y prescindir de la corbata.
+
+<figure class="my-10">
+  <img src="/images/posts/camisa-de-lino-hombre-como-combinar-gallery-3.webp" alt="camisa de lino masculina con pantalón de vestir para una oficina de verano" />
+  <figcaption>En una oficina de verano, el lino funciona mejor con pantalón de vestir liviano y zapatos de líneas limpias.</figcaption>
+</figure>
 
 Para conocer otras opciones de calzado para este contexto, puedes consultar la guía de [zapatos para outfit de oficina hombre](/zapatos-para-outfit-oficina-hombre).
 

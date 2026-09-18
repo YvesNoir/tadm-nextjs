@@ -38,6 +38,11 @@ Los colores lisos facilitan la combinación. Blanco, celeste, beige, negro y azu
 
 Antes de comprar, comprueba que puedas moverte y sentarte cómodamente. Si el tejido es claro o fino, revisa qué tan transparente es con luz natural.
 
+<figure class="my-10">
+  <img src="/images/posts/vestido-camisero-mujer-como-combinar-gallery-1.webp" alt="vestido camisero de mujer con cinturón y sandalias" />
+  <figcaption>Un cinturón y unas sandalias cambian la silueta del vestido camisero sin quitarle comodidad.</figcaption>
+</figure>
+
 ## Vestido camisero con cinturón
 
 El cinturón cambia por completo la silueta. Uno fino marca la cintura de manera discreta. Uno más ancho crea un efecto más definido y puede ser interesante con vestidos amplios o largos.
@@ -66,6 +71,11 @@ Las botas permiten usar el vestido camisero en otoño e invierno. Un botín de c
 
 Para un look urbano, prueba vestido camisero, campera de cuero y botines. Si prefieres un resultado más suave, reemplaza la campera por un cardigan o un abrigo recto.
 
+<figure class="my-10">
+  <img src="/images/posts/vestido-camisero-mujer-como-combinar-gallery-2.webp" alt="vestido camisero de mujer con botas y blazer para entretiempo" />
+  <figcaption>Con botas y un blazer liviano, el vestido camisero también funciona en la oficina y durante el entretiempo.</figcaption>
+</figure>
+
 ## Cómo llevarlo a la oficina
 
 Un vestido camisero de color liso puede funcionar en la oficina si el largo, el escote y la tela son adecuados. Suma un cinturón fino, blazer y zapatos cerrados o mocasines. Evita que la prenda quede demasiado transparente o informal.
@@ -77,6 +87,11 @@ Una tote estructurada y accesorios discretos ayudan a mantener el conjunto proli
 En primavera y verano puede llevarse solo, con sandalias o zapatillas. Durante el entretiempo, suma una camiseta debajo si el escote lo permite, o una campera corta por encima. En invierno, puedes llevarlo con medias, botas y un abrigo largo.
 
 Otra fórmula fácil es usar un sweater fino encima y dejar que el vestido funcione visualmente como una falda. Un cinturón por encima del sweater puede definir la silueta, aunque también queda bien una superposición más relajada.
+
+<figure class="my-10">
+  <img src="/images/posts/vestido-camisero-mujer-como-combinar-gallery-3.webp" alt="vestido camisero de mujer usado como capa con prendas de entretiempo" />
+  <figcaption>Las capas permiten usar el vestido camisero durante más meses y multiplicar sus combinaciones.</figcaption>
+</figure>
 
 ## Errores habituales
 
