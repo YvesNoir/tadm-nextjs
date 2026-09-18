@@ -3,7 +3,7 @@ title: "¿Cómo evitar que el perfume manche la ropa?"
 excerpt: "Consejos simples para aplicar perfume sin arruinar telas delicadas, evitar manchas en la ropa y cuidar mejor tanto la fragancia como tus prendas."
 date: "2025-06-24"
 author: "TuAsesorDeModa"
-categories: ["recomendaciones"]
+categories: ["recomendaciones", "perfumes"]
 tags: ["moda", "estilo", "ropa"]
 featured: "true"
 seoTitle: "Cómo evitar que el perfume manche la ropa"

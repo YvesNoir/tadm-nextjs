@@ -16,7 +16,7 @@ tags:
   - estilo masculino
   - ropa hombre
 featured: false
-seoTitle: "Armario cápsula hombre: cómo construir uno que funcione"
+seoTitle: "Armario cápsula hombre: prendas esenciales"
 seoDescription: >-
   Descubre cómo crear un armario cápsula hombre con prendas básicas,
   combinables y versátiles. Qué incluir, qué colores elegir y cómo vestir bien

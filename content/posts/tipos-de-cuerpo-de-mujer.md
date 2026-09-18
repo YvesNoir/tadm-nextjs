@@ -15,7 +15,7 @@ tags:
   - complexión física mujer
   - silueta femenina
 featured: false
-seoTitle: "Tipos de cuerpo de mujer: cómo saber cuál tienes"
+seoTitle: "Tipos de cuerpo de mujer: cómo vestir cada figura"
 seoDescription: >-
   Aprende cuáles son los tipos de cuerpo de mujer, cómo medir hombros,
   cintura y cadera, y qué prendas favorecen más a cada tipo de silueta.

@@ -6,7 +6,7 @@ export const CATEGORIES: Category[] = [
     name: 'Hombre',
     slug: 'hombre',
     description: 'Moda masculina con outfits, estilo, cortes y consejos para vestir mejor',
-    seoTitle: 'Moda hombre: outfits, tendencias y estilo masculino | TuAsesorDeModa',
+    seoTitle: 'Moda hombre: outfits y estilo masculino',
     seoDescription: 'Explora artículos de moda hombre con outfits, smart casual, oficina, cortes de pelo y consejos de estilo masculino.'
   },
   {
@@ -14,7 +14,7 @@ export const CATEGORIES: Category[] = [
     name: 'Mujer',
     slug: 'mujer',
     description: 'Moda femenina con tendencias, outfits, belleza y guías de estilo',
-    seoTitle: 'Moda mujer: tendencias, outfits y estilo femenino | TuAsesorDeModa',
+    seoTitle: 'Moda mujer: outfits y estilo femenino',
     seoDescription: 'Descubre artículos de moda mujer con tendencias, outfits, belleza, combinaciones de ropa y consejos de estilo.'
   },
   {
@@ -22,7 +22,7 @@ export const CATEGORIES: Category[] = [
     name: 'Moda',
     slug: 'moda',
     description: 'Inspiración, diseñadores y tendencias clave del mundo fashion',
-    seoTitle: 'Moda - Diseñadores, Tendencias y Pasarelas | TuAsesorDeModa',
+    seoTitle: 'Moda: tendencias, diseñadores y pasarelas',
     seoDescription: 'Cobertura de diseñadores, semanas de la moda y tendencias globales para mantenerte al día.'
   },
   {
@@ -30,7 +30,7 @@ export const CATEGORIES: Category[] = [
     name: 'Belleza',
     slug: 'belleza',
     description: 'Tips de belleza y cuidado personal',
-    seoTitle: 'Belleza - Tips y Consejos de Cuidado Personal | TuAsesorDeModa',
+    seoTitle: 'Belleza: consejos y cuidado personal',
     seoDescription: 'Consejos de belleza, cuidado de la piel, maquillaje y rutinas de cuidado personal.'
   },
   {
@@ -38,7 +38,7 @@ export const CATEGORIES: Category[] = [
     name: 'Salud',
     slug: 'salud',
     description: 'Bienestar y salud relacionado con la moda',
-    seoTitle: 'Salud y Bienestar - Estilo de Vida Saludable | TuAsesorDeModa',
+    seoTitle: 'Salud y bienestar: estilo de vida',
     seoDescription: 'Consejos de salud y bienestar relacionados con la moda y el estilo de vida.'
   },
   {
@@ -46,7 +46,7 @@ export const CATEGORIES: Category[] = [
     name: 'Zapatos y Calzado',
     slug: 'zapatos',
     description: 'Todo sobre calzado y zapatos',
-    seoTitle: 'Zapatos y Calzado - Tendencias y Consejos | TuAsesorDeModa',
+    seoTitle: 'Zapatos y calzado: tendencias y consejos',
     seoDescription: 'Las mejores tendencias en zapatos y calzado, consejos para elegir el calzado perfecto.'
   },
   {
@@ -54,7 +54,7 @@ export const CATEGORIES: Category[] = [
     name: 'Perfumes',
     slug: 'perfumes',
     description: 'Fragancias y perfumes',
-    seoTitle: 'Perfumes y Fragancias - Recomendaciones y Reseñas | TuAsesorDeModa',
+    seoTitle: 'Perfumes y fragancias: recomendaciones',
     seoDescription: 'Descubre las mejores fragancias, perfumes y consejos para elegir tu fragancia ideal.'
   },
   {

@@ -45,3 +45,8 @@ next-env.d.ts
 
 # local secrets
 /.secrets/
+
+# OpenSEO local tooling (kept outside the repository)
+/tools/openseo/
+/scripts/start-openseo.sh
+/scripts/stop-openseo.sh

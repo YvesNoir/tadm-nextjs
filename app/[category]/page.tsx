@@ -26,7 +26,19 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
     };
   }
 
-  return createCategoryMetadata(categoryData);
+  const metadata = createCategoryMetadata(categoryData);
+
+  if (categoryData.slug === 'salud') {
+    return {
+      ...metadata,
+      robots: {
+        index: false,
+        follow: true,
+      },
+    };
+  }
+
+  return metadata;
 }
 
 export function generateStaticParams() {

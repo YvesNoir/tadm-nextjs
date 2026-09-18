@@ -17,7 +17,7 @@ tags:
   - ropa elegante informal mujer
   - smart casual mujer
 featured: false
-seoTitle: "Casual elegante mujer: cómo vestir arreglada con estilo"
+seoTitle: "Casual elegante mujer: cómo vestir arreglada"
 seoDescription: >-
   Descubre cómo vestir casual elegante mujer con prendas versátiles,
   combinaciones fáciles y looks para oficina, cenas, eventos y salidas sin
